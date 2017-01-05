@@ -1,21 +1,18 @@
 ---
 title: Next Stops
-permalink: "/next-stops"
+permalink: /next-stops
 layout: page
+published: true
 ---
 
-## Heading
-We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs
+## Next Stops:
 
-## Our students have secured internships with:
-- Congresswoman Allyson Schwartz
-- Philadelphia Magazine
-- The Please Touch Museum
-- American Lung Association
+Spanish majors are well positioned for life after Temple University. Many enter public service through careers in public policy, international relations and education. Some utilize their language skill (bilingual competency) in the business and health sectors. Others attend graduate, law and medical schools.
 
-## Recently, our alumni have secured coveted positions with the following employers:
+Our alumni have gone on to successful and meaningful careers in the following areas (among many others):
 
-- Patient access representative at St. Luke’s University Health Network
-- Digital media coordinator at Love Beets
-- Therapeutic staff support at Foundations Behavioral Health
-- Teen education coordinator at Kingsbridge Heights Community Center
+- Local and federal government positions
+- Social work
+- Healthcare
+- Education
+- Tourism and Hospitality
