@@ -68,3 +68,6 @@ The Department of Spanish and Portuguese maintains relationships with a variety 
 
 Throughout the academic year, students of any level may volunteer with educational and neighborhood organizations, such as mentoring primary and high school students, teaching seniors or contributing to the greening of the city infrastructure.  In the summer, advanced students may receive credit by taking an Internship course for which they invest significant time in an organization. Students have been engaged in service opportunities in journalism, social services, law, heath care, educational development and immigrant rights. By using their language skills to fulfill their responsibilities, students maximize their classroom learning and attain poise in a professional setting.
 
+## Awards/Scholarships
+
+Exceptional students may apply to become members of the prestigious Spanish Honor Society: Sigma Delta Pi. A graduating senior is awarded the Sigma Delta Pi prize each year. The Department also offers the Kristina Joanne Chelius award.  Established in 2009 by Thomas and Joanne Chelius in memory of their daughter Kristina, CLA ’91, this award is given to outstanding junior or senior students majoring in Spanish who have financial need.
