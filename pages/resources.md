@@ -32,7 +32,11 @@ When you are ready to apply, submit your application online at [admissions.templ
 
 ## Deadlines
 
-**February 1**: Freshman Application Deadline for Fall Semester
-**March 1**: FAFSA Financial Aid Application Deadline
-**November 1**: Transfer Deadline for Spring Semester
-**June 1**: Transfer Deadline for Fall Semester
+- **February 1**: Freshman Application Deadline for Fall Semester
+- **March 1**: FAFSA Financial Aid Application Deadline
+- **November 1**: Transfer Deadline for Spring Semester
+- **June 1**: Transfer Deadline for Fall Semester
+
+## Graduate Contact
+
+For questions related to the graduate program offerings in general, please check the frequently asked questions section and, if you do not find and answer to your query, feel free to contact the [Associate Chair for Graduate Studies](vpueyozo@temple.edu) or the [Graduate Coordinator](avega1@temple.edu).
