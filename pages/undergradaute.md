@@ -33,5 +33,4 @@ Our students graduate with career aptitudes such as research and information lit
 - [Minor in Spanish](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-spanish/)
 - [Minor in Portuguese](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-portuguese/)
 - [MA in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-ma/)
-- [PhD in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-phd/)
-
+- [PhD in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-phd/) 
