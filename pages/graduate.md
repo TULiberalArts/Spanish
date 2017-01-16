@@ -3,7 +3,13 @@ title: Graduate
 permalink: "/graduate"
 layout: page
 ---
+## Graduate Program Overview
 
-The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
+The Department of Spanish and Portuguese offers Master of Arts (MA) and Doctor of Philosophy (PhD) degrees with specializations in Spanish American Literature, Peninsular Spanish Literature, and Hispanic Linguistics. Our graduates have experienced successful placement.
 
-The Global Studies Program is the latest step in the globalization of the College of Liberal Arts.  Starting in the Fall of 2015, Temple graduates can declare a major in Global Studies – an interdisciplinary program bringing together coursework from across a dozen departments, focused on the study of Global Security, Global Economy, and Global Cultures, and complemented by intensive language instruction and study abroad options.
+The Department has an active and multinational group of faculty and graduate students with literary, linguistic and cultural interests in several fields.
+
+## Academic Offerings
+
+- [MA in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-ma/)
+- [PhD in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-phd/)
