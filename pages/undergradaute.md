@@ -60,3 +60,27 @@ Students may begin their courses in Spanish and Portuguese at the elemental leve
 ## Careers
 
 Students graduating with a major in Spanish enter careers in diverse fields.  Recent alumni have found employment in local and federal government positions, social work, healthcare, education, human resources, insurance, tourism and hospitality, journalism and NGOs. In addition, majors have begun post-secondary studies in medical schools, law schools, physical therapy, anthropology, sociology, Spanish, linguistics and education.
+
+## Tutoring
+
+If you are in need of a tutor to help you with your Spanish class, our department has graduate students/TA’s that are willing to meet with you for a fee. Please feel free to contact them with any questions.
+ 
+Fall 2016 Available Spanish Tutors
+
+- Ashley Shaffer: [ashaffer@temple.edu](mailto:ashaffer@temple.edu)
+- Laura Arevalo Catalan: [tug70939@temple.edu](mailto:tug70939@temple.edu)
+- Francis Turco: [tuf34558@temple.edu](mailto:tuf34558@temple.edu)
+- Alodia Martin-Martinez: [tuf69947@temple.edu](mailto:tuf69947@temple.edu)
+- Jose Guillermo Rodriguez-Plaza: [tue64356@temple.edu](mailto:tue64356@temple.edu)
+
+Fall 2016 Available Portuguese Tutors
+
+- Daniel R. Llaras: [tue67688@temple.edu](mailto:tue67688@temple.edu)
+
+NOTE: You may also contact the Russell Conwell Learning Center, Suite 202, 1700 N. Broad St., Phila, PA 19122 at [(215) 204-1252](tel:2152041252). They may have undergraduate students that will tutor for free.
+
+## Tutoring In Spanish For Writing Courses
+
+The Writing Center is now offering tutoring sessions in Spanish. The sessions are geared primarily to students enrolled in the Writing Intensive courses (Spanish 2096 and 3096), but any Temple student who is writing essays in Spanish is welcome to use the service.
+
+To have a session in Spanish, students must make an appointment with one of the following tutors: Nicole, Nicholas or Megan. The appointments can be made by phone at 215-204-0702 or in person. Appointments must be made at least 24 hours in advance. Please note that the appointment schedule often gets fully booked. Whenever possible, students should call on Thursday afternoons for appointments in the following week.
