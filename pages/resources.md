@@ -5,6 +5,40 @@ layout: page
 published: true
 ---
 
+Chair:
+
+Hiram Aldarondo
+427 Anderson Hall
+[(215) 204-1706](tel:2152041706)
+[haldaron@temple.edu](mailto:haldaron@temple.edu)
+
+Undergraduate Chair:
+Patricia Moore-Martinez
+426 Anderson Hall
+[(215) 204-1707](tel:2152041707)
+[pmoore04@temple.edu](mailto:pmoore04@temple.edu)
+
+Graduate Chair:
+
+Víctor Pueyo Zoco
+445 Anderson Hall
+[(215) 204-5129](tel:2152045129)
+[vpueyozo@temple.edu](mailto:vpueyozo@temple.edu)
+
+Administrator:
+
+Michelle Pugliese
+429 Anderson Hall
+[(215) 204-5628](tel:2152045628)
+[pugliese@temple.edu](mailto:pugliese@temple.edu)
+
+Coordinator:
+
+Annette Vega
+428 Anderson Hall
+[(215) 204-2877](tel:2152042877)
+[avega1@temple.edu](mailto:avega1@temple.edu)
+
 ## Resources here here to help!
 
 ## Undergraduate Contact
