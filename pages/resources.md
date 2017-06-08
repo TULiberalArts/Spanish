@@ -1,45 +1,47 @@
 ---
 title: Resources
+meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
 published: true
 ---
 
-Chair:
+**Chair:**
 
-Hiram Aldarondo
-427 Anderson Hall
-[(215) 204-1706](tel:2152041706)
-[haldaron@temple.edu](mailto:haldaron@temple.edu)
+Hiram Aldarondo<br>
+427 Anderson Hall<br>
+[(215) 204-1706](tel:2152041706)<br>
+[haldaron@temple.edu](mailto:haldaron@temple.edu)<br>
 
-Undergraduate Chair:
-Patricia Moore-Martinez
-426 Anderson Hall
-[(215) 204-1707](tel:2152041707)
-[pmoore04@temple.edu](mailto:pmoore04@temple.edu)
+**Undergraduate Chair:**
 
-Graduate Chair:
+Patricia Moore-Martinez<br>
+426 Anderson Hall<br>
+[(215) 204-1707](tel:2152041707)<br>
+[pmoore04@temple.edu](mailto:pmoore04@temple.edu)<br>
 
-Víctor Pueyo Zoco
-445 Anderson Hall
-[(215) 204-5129](tel:2152045129)
-[vpueyozo@temple.edu](mailto:vpueyozo@temple.edu)
+**Graduate Chair:**
 
-Administrator:
+Víctor Pueyo Zoco<br>
+445 Anderson Hall<br>
+[(215) 204-5129](tel:2152045129)<br>
+[vpueyozo@temple.edu](mailto:vpueyozo@temple.edu)<br>
 
-Michelle Pugliese
-429 Anderson Hall
-[(215) 204-5628](tel:2152045628)
-[pugliese@temple.edu](mailto:pugliese@temple.edu)
+**Administrator:**
 
-Coordinator:
+Michelle Pugliese<br>
+429 Anderson Hall<br>
+[(215) 204-5628](tel:2152045628)<br>
+[pugliese@temple.edu](mailto:pugliese@temple.edu)<br>
 
-Annette Vega
-428 Anderson Hall
-[(215) 204-2877](tel:2152042877)
-[avega1@temple.edu](mailto:avega1@temple.edu)
+**Coordinator:**
 
-## Resources here here to help!
+Annette Vega<br>
+428 Anderson Hall<br>
+[(215) 204-2877](tel:2152042877)<br>
+[avega1@temple.edu](mailto:avega1@temple.edu)<br>
+
+## Resources are here to help!
 
 ## Undergraduate Contact
 
