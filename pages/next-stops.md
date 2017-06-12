@@ -69,31 +69,35 @@ LASS courses combine the learning of the Spanish language with the study of the 
 
 Morning sessions, held from 9:00 to 12:00 on Mondays, Wednesdays and Fridays, offer Spanish language instruction and conversation practice at intermediate and advanced levels guided by native or near native speakers. Morning sessions, held from 9:30 to 10:50 and from 11:00 to 12:20 on Tuesdays and Thursdays, focus on Latin American culture, history, and economic development. A LASS Seminar held on Tuesdays and Thursdays from 1:30 to 3:10 highlights a series of topics in Latin American and Latino studies and includes films and presentations by guest speakers.
 
-## About Heredia, Costa Rica
+## About Quito, Ecuador
 
-Heredia is a city that is emblematic of the Costa Rican lifestyle and makes for a perfect study abroad destination. It is located only a short distance from San José, the capital city of Costa Rica, and offers many big-city amenities. The relaxed city lifestyle allows students to enjoy scenic plazas, abundant green spaces and parks, and friendly ticos (Costa Ricans). Winding through the twisting roads above Heredia, charming little towns are surrounded by coffee plantations and lush vegetation, with occasional views of the Central Valley below. Almost everything Costa Rica has to offer can be found in and around Heredia, including the Central Volcanic Corridor, a sloth reserve, and other popular destinations. Costa Rica is known for the warmth of its welcome and the beauty of its countryside, an ideal combination for students.
+High in the Andean mountain range, you’ll find the capital city of Quito. Quito combines modern infrastructure with centuries of history and culture, making it an ideal study abroad destination.
 
-## The National University Of Costa Rica
+The metro area fills the space between lush mountains (and a couple of volcanoes), creating a gorgeous setting for living and exploring. Quito provides many options for learning and entertainment, and students are encouraged to explore their interests – and develop new ones. This is a wonderful place for music, architecture, hiking, food, dancing, and sports.
 
-Founded in 1973, the National University of Costa Rica – Heredia (Universidad Nacional de Costa Rica or UNA) is the second-largest university in the country. The school’s undergraduate and graduate programs are fully accredited, and over 15,000 students study at its main campus. In addition to undergraduate programs, it offers 16 Masters of Art degrees and is strong in ecology, sociology, and education related coursework. While in Costa Rica, LASS students will have access to campus Wi-Fi, computer labs and the library.
+## Andean Center For Latin American Studies
+
+The Andean Center for Latin American Studies (ACLAS) is students’ home campus. For over 25 years, ACLAS has hosted U.S. university study abroad programs and supported students through intensive Spanish-language learning, homestay family experiences and travel throughout Ecuador.
 
 ## Accommidations
 
-Housing in Heredia allows students a truly enjoyable and immersive experience living in a Costa Rican (Tico) home with a local family (only one LASS student per each host family for maximum cultural and language engagement). All housing is located in middle to upper class neighborhoods and offers glimpses of everyday life with easy access to the university and to city amenities. Home stays include breakfast and dinner every day except for excursion days. Every family has been carefully selected by UNA staff in order to ensure a comfortable, enjoyable and immersive living situation.
+Living with host families in Quito allows students a truly immersive experience. These local families host one LASS student each for maximum cultural and language engagement. Students routinely rate the homestay experience as their favorite part of studying abroad.
+
+All housing offers glimpses of everyday life, with easy access to ACLAS and to city amenities. Homestays include three meals a day (except excursion days) and laundry. Every family has been carefully selected by ACLAS staff in order to ensure a comfortable, enjoyable living situation.
 
 - [Family Preference Form](http://www.cla.temple.edu/spanpor/study-abroad/lass/formulario-preferencias-familiares-family-preference-form/)
 
 ## Cost
 
-The 17-semester hours credit program includes an additional fee of $1,000.  Please note this fee is subject to change. The fee is incorporated into the tuition for one of the LASS courses and is paid as part of the student spring registration.  The fee covers the following: housing, meals, courses and trips in Costa Rica.  Students are responsible for separately purchasing their airline tickets and make their own arrangements.
+The 17-semester hours credit program includes an additional fee of $1,000. Please note this fee is subject to change. The fee is incorporated into the tuition for one of the LASS courses and is paid as part of the student spring registration. The fee covers the following: housing, meals, courses and trips in Ecuador. Students are responsible for separately purchasing their airline tickets and make their own arrangements.
 
 ## Calendar
-LASS Orientation – Wednesday, September 28, 2016 at 4pm (422 Anderson Hall)
+LASS Orientation – Wednesday, September 27, 2017 at 4pm (422 Anderson Hall)
 
 ## Travel Dates For Spring 2017:
 
-- Departure – Wednesday, March 1, 2017
-- Return – Tuesday, March 21, 2017
+- Departure – Wednesday, March 7, 2018
+- Return – Monday, March 26, 2018
 
 ## Eligibility And Application Process
 
@@ -105,7 +109,8 @@ To Be Eligible, Applicants Must:
 - not be on academic and/or disciplinary probation or warning.
 
 Students will be selected mainly on the basis of their intellectual resolve and emotional maturity. Successful candidates are usually notified within three weeks of receiving a completed application.
-A passport is required for traveling to Costa Rica.  If you do not already have a valid passport, you should apply for one immediately. All students will be asked to provide their passport information the first week of December.  No visa is necessary for US citizens.
+
+A passport is required for traveling to Ecuador. If you do not already have a valid passport, you should apply for one immediately. All students will be asked to provide their passport information the first week of December. No visa is necessary for US citizens.
 
 - [Apply Now](http://www.cla.temple.edu/spanpor/study-abroad/lass/latin-american-studies-semester-application/)
 
