@@ -1,6 +1,6 @@
 ---
 title: Next Stops
-meta-keywords: transfer, apply, visit, international, careers
+meta-keywords: transfer, apply, visit, international, careers, study abroad
 permalink: /next-stops/
 layout: page
 published: true
