@@ -1,6 +1,6 @@
 ---
 title: Next Stops
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: transfer, apply, visit, international, careers
 permalink: /next-stops/
 layout: page
 published: true
