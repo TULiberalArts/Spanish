@@ -4,6 +4,41 @@ meta-keywords: Spanish, students, courses
 permalink: /undergraduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Hiram Aldarondo <br/>
+  427 Anderson Hall <br/>
+  [(215) 204-1706](tel:2152041706) <br/>
+  [haldaron@temple.edu](mailto:haldaron@temple.edu) <br/>
+
+  <hr>
+
+  **Undergraduate Chair:** <br/>
+  Patricia Moore-Martinez<br>
+  426 Anderson Hall<br>
+  [(215) 204-1707](tel:2152041707)<br>
+  [pmoore04@temple.edu](mailto:pmoore04@temple.edu)<br>
+
+  <hr>
+
+  **Administrator:** <br/>
+  Michelle Pugliese <br/>
+  429 Anderson Hall <br/>
+  [(215) 204-5628](tel:2152045628) <br/>
+  [pugliese@temple.edu](mailto:pugliese@temple.edu) <br/>
+
+  <hr>
+
+  **Coordinator:** <br/>
+  Annette Vega<br>
+  428 Anderson Hall<br>
+  [(215) 204-2877](tel:2152042877)<br>
+  [avega1@temple.edu](mailto:avega1@temple.edu)<br>
 ---
 
 ## We Teach. A Lot.
