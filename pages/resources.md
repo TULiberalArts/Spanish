@@ -36,3 +36,9 @@ For questions related to the graduate program offerings in general, please check
 ## Awards/Scholarships
 
 Exceptional students may apply to become members of the prestigious Spanish Honor Society: Sigma Delta Pi. A graduating senior is awarded the Sigma Delta Pi prize each year. The Department also offers the Kristina Joanne Chelius award.  Established in 2009 by Thomas and Joanne Chelius in memory of their daughter Kristina, CLA ’91, this award is given to outstanding junior or senior students majoring in Spanish who have financial need.
+
+## LASS In The News
+
+- National University of Costa Rica (UNA).”[General Studies Internationalization](http://www.hoyenelcampus.una.ac.cr//index.php?option=com_content&task=view&id=1766&Itemid=52).” Hoy en el Campus. 27 April 2016.
+- Wilson, Sara Curnow. “[A Semester Unlike Any Other](https://liberalarts.temple.edu/about-us/newsroom/semester-unlike-any-other).” College of Liberal Arts Newsroom. 4 April 2016.
+- Krotzer, Samantha. “[Spanish certificate programs ranked No. 1 nationally](https://news.temple.edu/news/2016-06-30/spanish-certificate-programs-ranked-number-one-nationally).” Temple Now. 30 June 2016.
