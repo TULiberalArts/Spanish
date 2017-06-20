@@ -6,46 +6,11 @@ layout: page
 published: true
 ---
 
-**Chair:**
-
-Hiram Aldarondo<br>
-427 Anderson Hall<br>
-[(215) 204-1706](tel:2152041706)<br>
-[haldaron@temple.edu](mailto:haldaron@temple.edu)<br>
-
-**Undergraduate Chair:**
-
-Patricia Moore-Martinez<br>
-426 Anderson Hall<br>
-[(215) 204-1707](tel:2152041707)<br>
-[pmoore04@temple.edu](mailto:pmoore04@temple.edu)<br>
-
-**Graduate Chair:**
-
-Víctor Pueyo Zoco<br>
-445 Anderson Hall<br>
-[(215) 204-5129](tel:2152045129)<br>
-[vpueyozo@temple.edu](mailto:vpueyozo@temple.edu)<br>
-
-**Administrator:**
-
-Michelle Pugliese<br>
-429 Anderson Hall<br>
-[(215) 204-5628](tel:2152045628)<br>
-[pugliese@temple.edu](mailto:pugliese@temple.edu)<br>
-
-**Coordinator:**
-
-Annette Vega<br>
-428 Anderson Hall<br>
-[(215) 204-2877](tel:2152042877)<br>
-[avega1@temple.edu](mailto:avega1@temple.edu)<br>
-
 ## Resources are here to help!
 
 ## Undergraduate Contact
 
-## Advising: Where Do I Go If I Have Questions About: 
+### Advising: Where Do I Go If I Have Questions About: 
 
 - Certificates: [Josh Pongan](mailto:joshua.pongan@temple.edu)
 - Course(s) taken elsewhere: [Patricia Moore-Martínez](mailto:pmoore04@temple.edu)
@@ -68,12 +33,12 @@ Annette Vega<br>
 
 For questions related to the graduate program offerings in general, please check the frequently asked questions section and, if you do not find and answer to your query, feel free to contact the [Associate Chair for Graduate Studies](vpueyozo@temple.edu) or the [Graduate Coordinator](avega1@temple.edu).
 
-## Internships
-
-The Department of Spanish and Portuguese maintains relationships with a variety of organizations throughout the city of Philadelphia offering students ample volunteer, community service, research and internship opportunities.  These experiential learning experiences provide students with real world language and work experience, increasing their skills and confidence.
-
-Throughout the academic year, students of any level may volunteer with educational and neighborhood organizations, such as mentoring primary and high school students, teaching seniors or contributing to the greening of the city infrastructure.  In the summer, advanced students may receive credit by taking an Internship course for which they invest significant time in an organization. Students have been engaged in service opportunities in journalism, social services, law, heath care, educational development and immigrant rights. By using their language skills to fulfill their responsibilities, students maximize their classroom learning and attain poise in a professional setting.
-
 ## Awards/Scholarships
 
 Exceptional students may apply to become members of the prestigious Spanish Honor Society: Sigma Delta Pi. A graduating senior is awarded the Sigma Delta Pi prize each year. The Department also offers the Kristina Joanne Chelius award.  Established in 2009 by Thomas and Joanne Chelius in memory of their daughter Kristina, CLA ’91, this award is given to outstanding junior or senior students majoring in Spanish who have financial need.
+
+## LASS In The News
+
+- National University of Costa Rica (UNA).”[General Studies Internationalization](http://www.hoyenelcampus.una.ac.cr//index.php?option=com_content&task=view&id=1766&Itemid=52).” Hoy en el Campus. 27 April 2016.
+- Wilson, Sara Curnow. “[A Semester Unlike Any Other](https://liberalarts.temple.edu/about-us/newsroom/semester-unlike-any-other).” College of Liberal Arts Newsroom. 4 April 2016.
+- Krotzer, Samantha. “[Spanish certificate programs ranked No. 1 nationally](https://news.temple.edu/news/2016-06-30/spanish-certificate-programs-ranked-number-one-nationally).” Temple Now. 30 June 2016.

@@ -18,6 +18,12 @@ Our alumni have gone on to successful and meaningful careers in the following ar
 - Education
 - Tourism and Hospitality
 
+## Internships
+
+The Department of Spanish and Portuguese maintains relationships with a variety of organizations throughout the city of Philadelphia offering students ample volunteer, community service, research and internship opportunities.  These experiential learning experiences provide students with real world language and work experience, increasing their skills and confidence.
+
+Throughout the academic year, students of any level may volunteer with educational and neighborhood organizations, such as mentoring primary and high school students, teaching seniors or contributing to the greening of the city infrastructure.  In the summer, advanced students may receive credit by taking an Internship course for which they invest significant time in an organization. Students have been engaged in service opportunities in journalism, social services, law, heath care, educational development and immigrant rights. By using their language skills to fulfill their responsibilities, students maximize their classroom learning and attain poise in a professional setting.
+
 ## Make Your Declaration
 ​
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
@@ -113,12 +119,6 @@ Students will be selected mainly on the basis of their intellectual resolve and 
 A passport is required for traveling to Ecuador. If you do not already have a valid passport, you should apply for one immediately. All students will be asked to provide their passport information the first week of December. No visa is necessary for US citizens.
 
 - [Apply Now](http://www.cla.temple.edu/spanpor/study-abroad/lass/latin-american-studies-semester-application/)
-
-## LASS In The News
-
-- National University of Costa Rica (UNA).”[General Studies Internationalization](http://www.hoyenelcampus.una.ac.cr//index.php?option=com_content&task=view&id=1766&Itemid=52).” Hoy en el Campus. 27 April 2016.
-- Wilson, Sara Curnow. “[A Semester Unlike Any Other](https://liberalarts.temple.edu/about-us/newsroom/semester-unlike-any-other).” College of Liberal Arts Newsroom. 4 April 2016.
-- Krotzer, Samantha. “[Spanish certificate programs ranked No. 1 nationally](https://news.temple.edu/news/2016-06-30/spanish-certificate-programs-ranked-number-one-nationally).” Temple Now. 30 June 2016.
 
 ## Temple Spain Spring Semester Program
 
