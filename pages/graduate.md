@@ -6,39 +6,35 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Hiram Aldarondo  
+   427 Anderson Hall  
+   [(215) 204-0134](tel:2152040134)  
+   [haldaron@temple.edu](mailto:haldaron@temple.edu)  
+   
+   ___
+   
+   **Graduate Chair:**  
+   Víctor Pueyo Zoco  
+   445 Anderson Hall  
+   [(215) 204-5129](tel:2152045129)  
+   [vpueyozo@temple.edu](mailto:vpueyozo@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Michelle Pugliese  
+   429 Anderson Hall   
+   [(215) 204-5628](tel:2152045628)  
+   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Chair:** <br/>
-  Hiram Aldarondo <br/>
-  427 Anderson Hall <br/>
-  [(215) 204-1706](tel:2152041706) <br/>
-  [haldaron@temple.edu](mailto:haldaron@temple.edu) <br/>
-
-  <hr>
-
-  **Graduate Chair:** <br/>
-  Víctor Pueyo Zoco<br>
-  445 Anderson Hall<br>
-  [(215) 204-5129](tel:2152045129)<br>
-  [vpueyozo@temple.edu](mailto:vpueyozo@temple.edu)<br>
-
-  <hr>
-
-  **Administrator:** <br/>
-  Michelle Pugliese <br/>
-  429 Anderson Hall <br/>
-  [(215) 204-5628](tel:2152045628) <br/>
-  [pugliese@temple.edu](mailto:pugliese@temple.edu) <br/>
-
-  <hr>
-
-  **Coordinator:** <br/>
-  Annette Vega<br>
-  428 Anderson Hall<br>
-  [(215) 204-2877](tel:2152042877)<br>
-  [avega1@temple.edu](mailto:avega1@temple.edu)<br>
+   **Coordinator:**  
+   Annette Vega  
+   428 Anderson Hall    
+   [(215) 204-2877](tel:2152042877)   
+   [avega1@temple.edu](mailto:avega1@temple.edu)  
 ---
 
 ## Graduate Program Overview
