@@ -6,39 +6,35 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Hiram Aldarondo  
+   427 Anderson Hall  
+   [(215) 204-0134](tel:2152040134)  
+   [haldaron@temple.edu](mailto:haldaron@temple.edu)  
+   
+   ___
+   
+   **Undergraduate Chair:**  
+   Patricia Moore-Martinez  
+   426 Anderson Hall  
+   [(215) 204-5129](tel:2152041707)  
+   [pmoore04@temple.edu](mailto:pmoore04@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Michelle Pugliese  
+   429 Anderson Hall   
+   [(215) 204-5628](tel:2152045628)  
+   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Chair:** <br/>
-  Hiram Aldarondo <br/>
-  427 Anderson Hall <br/>
-  [(215) 204-1706](tel:2152041706) <br/>
-  [haldaron@temple.edu](mailto:haldaron@temple.edu) <br/>
-
-  <hr>
-
-  **Undergraduate Chair:** <br/>
-  Patricia Moore-Martinez<br>
-  426 Anderson Hall<br>
-  [(215) 204-1707](tel:2152041707)<br>
-  [pmoore04@temple.edu](mailto:pmoore04@temple.edu)<br>
-
-  <hr>
-
-  **Administrator:** <br/>
-  Michelle Pugliese <br/>
-  429 Anderson Hall <br/>
-  [(215) 204-5628](tel:2152045628) <br/>
-  [pugliese@temple.edu](mailto:pugliese@temple.edu) <br/>
-
-  <hr>
-
-  **Coordinator:** <br/>
-  Annette Vega<br>
-  428 Anderson Hall<br>
-  [(215) 204-2877](tel:2152042877)<br>
-  [avega1@temple.edu](mailto:avega1@temple.edu)<br>
+   **Coordinator:**  
+   Annette Vega  
+   428 Anderson Hall    
+   [(215) 204-2877](tel:2152042877)   
+   [avega1@temple.edu](mailto:avega1@temple.edu)  
 ---
 
 ## We Teach. A Lot.
