@@ -1,11 +1,11 @@
 ---
 title: Undergraduate
-meta-keywords: Spanish, students, courses
+meta-keywords: 'Spanish, students, courses'
 permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Hiram Aldarondo  
    427 Anderson Hall  
@@ -34,7 +34,7 @@ sidebar-content: > #
    Annette Vega  
    428 Anderson Hall    
    [(215) 204-2877](tel:2152042877)   
-   [avega1@temple.edu](mailto:avega1@temple.edu)  
+   [avega1@temple.edu](mailto:avega1@temple.edu)
 ---
 
 ## We Teach. A Lot.
@@ -52,6 +52,8 @@ We offer service learning and internships in the areas of business, social servi
 ## Immersive Study. Positive Results.
 
 Our students graduate with career aptitudes such as research and information literacy, multicultural and interpersonal skills, and marked improvement in formal and informal written and oral communication. Through multidisciplinary coursework, students hone their analytic and creative thinking skills and are better able to generate conclusions and solutions.
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
 
 ## Academic Offerings
 
