@@ -70,4 +70,4 @@ Letters of recommendation should come from three individuals familiar with the a
 
 The biographical statement of the applicant’s professional plans and goals and the writing sample in Spanish may be mailed to the Department’s physical address or emailed to the Graduate Advisor and the Graduate Coordinator.
 
-International applicants are required to provide scores in one of the following tests: [Test of English as a Foreign Language](http://www.ets.org/toefl/)(TOEFL®), the [International English Language Testing System](http://www.ielts.org/)(IELTS™), or the [Pearson Test of English Academic](http://pearsonpte.com/Pages/Home.aspx)(PTE Academic™).
+International applicants are required to provide scores in one of the following tests: [Test of English as a Foreign Language](http://www.ets.org/toefl/)(TOEFL®), the [International English Language Testing System](http://www.ielts.org/)(IELTS™), or the Pearson Test of English Academic.
