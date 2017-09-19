@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
-meta-keywords: 'Spanish, students, courses'
 permalink: /undergraduate/
+description: >-
+keywords: 'Spanish, students, courses'
 layout: page
 published: true
 sidebar: true
