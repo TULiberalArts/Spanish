@@ -1,13 +1,13 @@
 ---
 title: Home
-meta-description: 100 or so words
-meta-keywords: Spanish and Portuguese, undergraduate, graduate
 permalink: /
 layout: home
+description: >-
+keywords: 'Spanish and Portuguese, undergraduate, graduate'
 feature: false
 feature-title: 
-feature-body: 
 feature-image: 
+feature-body: >- 
 published: true
 ---
 The Department of Spanish and Portuguese is a unique and vibrant community of faculty who teach students of all disciplines at the undergraduate and graduate levels. Our three Spanish major tracks (Language and Professional Studies; Language, Literature and Linguistics; and Spanish for Education) prepare students for the pluralistic, globalized society of the 21st century — not only through rigorous language training, but also by providing instruction in the cultures and literatures of Spain, Latin America, and the Luso-Brazilian world.
