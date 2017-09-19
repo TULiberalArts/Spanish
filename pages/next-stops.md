@@ -1,11 +1,11 @@
 ---
 title: Next Stops
-meta-keywords: 'transfer, apply, visit, international, careers, study abroad'
 permalink: /next-stops/
 layout: page
+meta-keywords: 'transfer, apply, visit, international, careers, study abroad'
+description: >- 
 published: true
 ---
-
 ## Next Stops:
 
 Spanish majors are well positioned for life after Temple University. Many enter public service through careers in public policy, international relations and education. Some utilize their language skill (bilingual competency) in the business and health sectors. Others attend graduate, law and medical schools.
