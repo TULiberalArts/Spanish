@@ -1,12 +1,11 @@
 ---
 title: Graduate
 permalink: /graduate/
-description: >- 
 meta-keywords: 'Spanish, graduate, programs'
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Hiram Aldarondo  
    427 Anderson Hall  
@@ -35,7 +34,7 @@ sidebar-content: > #
    Annette Vega  
    428 Anderson Hall    
    [(215) 204-2877](tel:2152042877)   
-   [avega1@temple.edu](mailto:avega1@temple.edu)  
+   [avega1@temple.edu](mailto:avega1@temple.edu)
 ---
 
 ## Graduate Program Overview
@@ -61,14 +60,6 @@ Multi-year competitive financial support in the form of teaching assistantships 
 
 Summer teaching appointments are given to a limited number of students.
 
-## Application Information
+## Admissions Process 
 
-[GRE](http://www.ets.org/gre)scores should be reported directly to Temple by ETS (institution code 2906). Applicants from Spanish speaking countries may present instead the [EXADEP](http://www.ets.org/exadep) scores.
-
-Transcripts of all graduate and undergraduate study should be sent to the physical address of the Department. Transcripts should come directly from the issuing institution in a sealed envelope.
-
-Letters of recommendation should come from three individuals familiar with the applicant’s abilities and scholarly potential (these letters normally must be from professors). Applicants are encouraged to request confidential letters of recommendations. Although emailed letters of recommendation are acceptable, it is advisable to send the original letter.
-
-The biographical statement of the applicant’s professional plans and goals and the writing sample in Spanish may be mailed to the Department’s physical address or emailed to the Graduate Advisor and the Graduate Coordinator.
-
-International applicants are required to provide scores in one of the following tests: [Test of English as a Foreign Language](http://www.ets.org/toefl/)(TOEFL®), the [International English Language Testing System](http://www.ielts.org/)(IELTS™), or the Pearson Test of English Academic.
+Please visit the S[panish Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/spanish) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
