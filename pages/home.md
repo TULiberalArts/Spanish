@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home
+layout: home3
 description: >-
 keywords: 'Spanish and Portuguese, undergraduate, graduate'
 feature: false
