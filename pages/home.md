@@ -14,6 +14,20 @@ The Department of Spanish and Portuguese is a unique and vibrant community of fa
 
 Specialized courses in business, legal and medical Spanish and translation skills complement our diverse selection of course offerings that allow majors to tailor their learning toward their professional and intellectual goals.
 
+## Academic Offerings
+
+- [BA in Spanish: Language, Literature and Linguistics](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-language-literature-linguistics-option/)
+- [BA in Spanish and Professional Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-language-professional-studies-option/)
+- [BA in Spanish for Education](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-education-option/)
+- [Certificate of Specialization in Spanish](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/certificate-specialization-spanish/)
+- [Certificate of Specialization in Spanish and Latin American Studies for Business](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/certificate-specialization-spanish-latin-american-studies-business/)
+- [Certificate of Specialization in Spanish and Latino Studies for the Health and Human Services Professions](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/certificate-specialization-spanish-latino-studies-health-human-services-professions/)
+- [Latin American Studies Semester Certificate and Program](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/latin-american-studies-certificate-program/)
+- [Minor in Spanish](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-spanish/)
+- [Minor in Portuguese](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-portuguese/)
+- [MA in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-ma/)
+- [PhD in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-phd/)
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title=" " 
