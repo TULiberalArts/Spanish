@@ -30,10 +30,10 @@ Specialized courses in business, legal and medical Spanish and translation skill
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
-    content=" " 
+    title="Undergraduate and Graduate Programs" 
+    content="The Department of Spanish and Portuguese provides instruction in the languages, cultures, and literatures of Spain, Spanish America, and the Luso-Brazilian world." 
     image="" 
-    button-link=" " 
+    button-link="https://develop.cla.temple.edu/spanish/undergraduate/ " 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
