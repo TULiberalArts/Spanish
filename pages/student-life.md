@@ -6,8 +6,10 @@ keywords: ''
 description: >- 
 published: true
 ---
+## Internships
+The Department of Spanish and Portuguese maintains relationships with a variety of organizations throughout the city of Philadelphia offering students ample volunteer, community service, research and internship opportunities.  These experiential learning experiences provide students with real world language and work experience, increasing their skills and confidence.
 
-## Study Abroad
+Throughout the academic year, students of any level may volunteer with educational and neighborhood organizations, such as mentoring primary and high school students, teaching seniors or contributing to the greening of the city infrastructure.  In the summer, advanced students may receive credit by taking an Internship course for which they invest significant time in an organization. Students have been engaged in service opportunities in journalism, social services, law, heath care, educational development and immigrant rights. By using their language skills to fulfill their responsibilities, students maximize their classroom learning and attain poise in a professional setting.
 
 ## Latin American Studies Semester (LASS)
 The Latin American Studies Semester (LASS) has been offered every spring semester since 1973. This unique language immersion program is designed to provide an intensive experience in the study of the Spanish language in combination with an interdisciplinary study of life and contemporary issues in Latin America. The prerequisite for participation in LASS is one semester of university-level Spanish or the equivalent (students with more advanced levels of course background are encouraged to participate in the program). LASS integrates several courses, totaling 17-semester hours credit, and must be taken as a package. All courses are taught in Spanish from the first day of class on Temple’s main campus. An integral part of the LASS program is a three-week trip to Quito, Ecuador in March, during which students are placed in local homes where the only language of communication is Spanish. While in Ecuador, students attend courses at the Andean Center for Latin American Studies. Native Spanish-speaking professors teach all courses in Ecuador. All participants in the program may expect to achieve marked improvement in Spanish fluency in only one semester.
@@ -23,6 +25,8 @@ LASS courses combine the learning of the Spanish language with the study of the 
 - [Latin American Studies 2220: LASS Seminar](http://bulletin.temple.edu/search/?P=LAS%202220) – 2 credits.
 
 Morning sessions, held from 9:00 to 12:00 on Mondays, Wednesdays and Fridays, offer Spanish language instruction and conversation practice at intermediate and advanced levels guided by native or near native speakers. Morning sessions, held from 9:30 to 10:50 and from 11:00 to 12:20 on Tuesdays and Thursdays, focus on Latin American culture, history, and economic development. A LASS Seminar held on Tuesdays and Thursdays from 1:30 to 3:10 highlights a series of topics in Latin American and Latino studies and includes films and presentations by guest speakers.
+
+## Study Abroad
 
 ## About Quito, Ecuador
 High in the Andean mountain range, you’ll find the capital city of Quito. Quito combines modern infrastructure with centuries of history and culture, making it an ideal study abroad destination.
