@@ -25,23 +25,23 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 
 **_Alumni Spotlight_**
 
-- [Amy Contant](https://liberalarts.temple.edu/news/alumni-spotlight-amy-contant)<br/>
+- Amy Contant<br/>
   Bilingual Speech Language Pathologist at Holyoke Medical Center<br/>
   B.A.in Spanish: Language, Literature and Linguistics in 2013<br/>
    
-- [Amanda Orme](https://liberalarts.temple.edu/news/alumni-spotlight-amanda-orme)<br/>
+- Amanda Orme<br/>
   Global Logistics Specialist at Samuel Shapiro & Company<br/>
   B.A.in Spanish in 2014<br/>
    
-- [Brendan Conlin](https://liberalarts.temple.edu/news/alumni-spotlight-brendan-conlin)<br/>
+- Brendan Conlin<br/>
   Vice President of Education and Workforce Services at Congreso de Latinos Unidos, Inc.<br/>
   B.A.in Spanish in 2007<br/>
 
-- [Alexandra Forcucci](https://liberalarts.temple.edu/news/alumni-spotlight-alexandra-forcucci)<br/>
+- Alexandra Forcucci<br/>
   Commercial Property Underwriting Analyst at AIG’s Global Headquarters<br/>
   B.A.in Spanish in 2015<br/>
   
-- [Eric Stephenson](https://liberalarts.temple.edu/news/eric-stephenson)<br/>
+- Eric Stephenson<br/>
   Lead at Sarona Asset Management<br/>
   Investment Committee Chairman for the Cordes Foundation
   B.B.A and Certificate in Business; Spanish and Latin American Studies<br/>
