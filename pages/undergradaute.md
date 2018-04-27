@@ -38,9 +38,21 @@ sidebar-content: |
    [avega1@temple.edu](mailto:avega1@temple.edu)
 ---
 ## Program Overview
+**THIS CONTENT NEED TO BE TRIMMED DOWN AND EACH DEGREE, MINOR AND CERTIFICATE OFFEREING NEEDS A SHORT DESCRIPTION**
 The Department of Spanish and Portuguese at Temple University prepares students for the pluralistic, globalized society of the twenty-first century not only through rigorous language training, but also by providing undergraduates with a liberal arts education. Through instruction in the languages, cultures, and literatures of Spain, Spanish America, and the Luso-Brazilian world, students acquire bilingual competency in the quintessential liberal arts skills: clear written and oral communication, problem solving competencies and real-world experience. Specialized courses in Business, Legal, Medical Spanish and Translation Skills complement the robust array of language and literature course offerings that allow both majors and non-majors to tailor their learning towards their professional and intellectual goals.  
 
 In addition to on-campus instruction, the Department facilitates student connections with local and global communities through participation in one of our special programs. These programs include: an intensive immersion program in Spanish and Latin American Studies (LASS); diverse programs abroad, including our Temple Spain Programs; and service learning and internships in areas of business, social service, and education in Philadelphia. Students studying in Spanish and Portuguese are well positioned for life after Temple University. Our students attend graduate, law and medical schools; they enter public service through careers in public policy, international relations and education; and they utilize their language skills in the business and health sectors.
+
+- Learn More About the [BA in Spanish: Language, Literature and Linguistics](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-language-literature-linguistics-option/)
+- Learn More About the [BA in Spanish and Professional Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-language-professional-studies-option/)
+- [BA in Spanish for Education](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-education-option/)
+- Learn More About the [Certificate of Specialization in Spanish](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/certificate-specialization-spanish/)
+- Learn More About the [Certificate of Specialization in Spanish and Latin American Studies for Business](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/certificate-specialization-spanish-latin-american-studies-business/)
+- Learn More About the [Certificate of Specialization in Spanish and Latino Studies for the Health and Human Services Professions](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/certificate-specialization-spanish-latino-studies-health-human-services-professions/)
+- Learn More About the [Latin American Studies Semester Certificate and Program](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/latin-american-studies-certificate-program/)
+- Learn More About the [Minor in Spanish](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-spanish/)
+- Learn More About the [Minor in Portuguese](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-portuguese/)
+- Learn More About the [MA in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-ma/)
 
 ## We Teach. A Lot.
 We offer a 360-degree view of our subject matter. From language and culture to literature and business, we make sure students graduate with the skills they need to look at global issues from all angles. We offer service learning and internships in the areas of business, social services, health and education — right here in Philadelphia.
@@ -60,5 +72,6 @@ Our department offers 3 different major tracks allowing students to select cours
 
 - [Spanish for Education](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-education-option/#requirementstext): The major in Spanish for Education not only prepares students linguistically for their future careers as educators, but also fulfills the Spanish requirements for certification in Spanish for Secondary Education in the College of Education.
 
+- [Online Courses](spanish/undergraduate#online-courses)
 - [Spring 2017 Course Catalog](https://liberalarts.temple.edu/sites/liberalarts/files/Spanish-and-Portuguese-Course-Catalog-Fall-2016.pdf)
 - [Policies and Procedures](https://liberalarts.temple.edu/sites/liberalarts/files/Spanish-%20Undergraduate%20Policies%20and%20Procedures.pdf)
