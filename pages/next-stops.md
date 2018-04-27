@@ -23,7 +23,7 @@ Students graduating with a major in Spanish enter careers in diverse fields.  Re
 ## Notable Alumni
 So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
 
-_**Alumni Spotlight_**
+**_Alumni Spotlight_**
 
 - [Amy Contant](https://liberalarts.temple.edu/news/alumni-spotlight-amy-contant)<br/>
   Bilingual Speech Language Pathologist at Holyoke Medical Center<br/>
