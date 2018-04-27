@@ -81,3 +81,8 @@ The Temple in Spain summer program is based at the University of Oviedo in the p
 Our summer study abroad programs allow you to use the world as your classroom. Students choose to study abroad during the summer for a variety of reasons. Many have academic requirements that do not allow them to spend an entire semester abroad. Some students want to improve their language skills, while others seek to experience daily life in another country. Many students participate in short-term summer programs early in their college education, and then spend a semester or year abroad as juniors or seniors.
 
 Temple University in Brazil provides exceptional educational opportunities for under graduate students of African-American studies, Latin American studies, Portuguese, history, music, dance, art and related disciplines to study Brazilian culture, civilization and music. For more information visit Temple Summer in Brazil **BROKEN LINK**.
+
+## Awards/Scholarships
+Exceptional students may apply to become members of the prestigious Spanish Honor Society: Sigma Delta Pi. A graduating senior is awarded the Sigma Delta Pi prize each year. The Department also offers the Kristina Joanne Chelius award.  Established in 2009 by Thomas and Joanne Chelius in memory of their daughter Kristina, CLA ’91, this award is given to outstanding junior or senior students majoring in Spanish who have financial need.
+
+For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4579&field_awards_academics_class_value=All) page.
