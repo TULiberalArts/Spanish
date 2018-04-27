@@ -4,7 +4,7 @@ permalink: /
 layout: home3
 description: >-
 keywords: 'Spanish and Portuguese, undergraduate, graduate'
-feature: 
+feature: true
 feature-title: NEED A TITLE
 feature-image: media/Spanish hero.png
 feature-body: >- 
