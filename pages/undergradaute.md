@@ -60,15 +60,5 @@ Our department offers 3 different major tracks allowing students to select cours
 
 - [Spanish for Education](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-education-option/#requirementstext): The major in Spanish for Education not only prepares students linguistically for their future careers as educators, but also fulfills the Spanish requirements for certification in Spanish for Secondary Education in the College of Education.
 
-## Tutoring
-If you are in need of a tutor to help you with your Spanish class, our department has graduate students/TA’s that are willing to meet with you for a fee. Please feel free to contact them with any questions.
-**NEED UPDATED ADVISOR CONTENT FOR THIS SECTION**
-
-NOTE: You may also contact the Russell Conwell Learning Center, Suite 202, 1700 N. Broad St., Phila, PA 19122 at [(215) 204-1252](tel:2152041252). They may have undergraduate students that will tutor for free.
-
-## Tutoring In Spanish For Writing Courses
-The Writing Center is now offering tutoring sessions in Spanish. The sessions are geared primarily to students enrolled in the Writing Intensive courses (Spanish 2096 and 3096), but any Temple student who is writing essays in Spanish is welcome to use the service.
-
-To have a session in Spanish, students must make an appointment with one of the following tutors: Nicole, Nicholas or Megan. The appointments can be made by phone at 215-204-0702 or in person. Appointments must be made at least 24 hours in advance. Please note that the appointment schedule often gets fully booked. Whenever possible, students should call on Thursday afternoons for appointments in the following week.
-
 - [Spring 2017 Course Catalog](https://liberalarts.temple.edu/sites/liberalarts/files/Spanish-and-Portuguese-Course-Catalog-Fall-2016.pdf)
+- [Policies and Procedures](https://liberalarts.temple.edu/sites/liberalarts/files/Spanish-%20Undergraduate%20Policies%20and%20Procedures.pdf)
