@@ -41,10 +41,10 @@ The Department of Spanish and Portuguese is a unique and vibrant community of fa
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
-      content=" " 
+      title="Latin American Studies Semester (LASS)" 
+      content="Each spring semester, the Department of Spanish and Portuguese offers a 17-credit immersion program in Latin American Studies and Spanish, culminating in a three-week trip to Costa Rica." 
       image="" 
-      button-link=" " 
+      button-link="spanish/student-life#latin-american-studies-semester-lass" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
