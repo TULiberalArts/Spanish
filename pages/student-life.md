@@ -86,3 +86,29 @@ Temple University in Brazil provides exceptional educational opportunities for u
 Exceptional students may apply to become members of the prestigious Spanish Honor Society: Sigma Delta Pi. A graduating senior is awarded the Sigma Delta Pi prize each year. The Department also offers the Kristina Joanne Chelius award.  Established in 2009 by Thomas and Joanne Chelius in memory of their daughter Kristina, CLA ’91, this award is given to outstanding junior or senior students majoring in Spanish who have financial need.
 
 For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4579&field_awards_academics_class_value=All) page.
+
+## Club de Espanol
+The Spanish Club is a student organization and its principal goal is to promote the practice of speaking Spanish. One way we achieve this goal is through conversation tables, which allow students to practice their conversation skills in a relaxed environment once a week.  We also celebrate the Hispanic culture all year round with different activities. The Spanish Club meets weekly throughout the semester on Mondays from 4-5pm in 422 Anderson Hall. 
+
+Everyone is welcome to join the Spanish Club. You don’t need to be a member of the club in order to participate in our events throughout the year. Stop by our meetings and bring friends!
+- Club Coordinator: [Norma Corrales Martin](mailto:ncm@temple.edu)
+
+## Graduate Students of Language at Temple (GSOLT)
+The purpose of Graduate Students of Language at Temple (GSOLT) is to connect students who study and are interested in language in order to form interdisciplinary networks for discussion and research. The organization organizes a conference each spring to showcase students’ research in language from a variety of viewpoints.
+
+GSOLT also promotes interdisciplinary discussion of language and conducts workshops for improving student work. Meetings are held in order to plan the spring conference, upcoming workshops and discuss guest speakers. In workshops we discuss project ideas, current projects and issues we are encountering. We also discuss theory and methods to help us progress in our individual projects and understand approaches to language from different disciplines.
+
+Sign up to join [GSOLT](https://temple.campuslabs.com/engage/organization/GSOLT)! For more information contact: [Bryce Bayer](tua90730@temple.edu) and [Katie Clarkson](tug20217@temple.edu)
+
+## Hispanic Readings Blog
+Welcome to The Hispanic Readings Blog (Spanish 2002/2902) of the Department of Spanish and Portuguese at Temple University.
+
+Hispanic Readings is a course for students interested in the literature and cultures of peoples throughout the Spanish-speaking world. This course will enable students to discover the rich contributions of not only Spain but also Latin America to literature and mass communications (e.g. newspapers, magazines). As students read short stories, essays, and articles, they will deepen their knowledge of the authors and their life experiences as well as examine current trends in literature and journalism.
+
+In this course students will write a short story, which will give them the opportunity to be creative in a language other than English and put into practice what they have learned.
+
+In this blog, we will publish the best stories written by students each semester and include their comments as they make their way through the world of Hispanic readings.
+
+All students taking Hispanic Readings / Lecturas Hispánicas had to write a short story and read several stories in Spanish from various sources. View the following [Student Grpups pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Comentarios%20de%20Hispanic%20Readings%20Fall%202016.pdf) to see the comments from students after the experience during the semester.
+- [Finalistas](https://liberalarts.temple.edu/sites/liberalarts/files/FINALISTAS.pdf)
+
