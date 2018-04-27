@@ -49,10 +49,10 @@ The Department of Spanish and Portuguese is a unique and vibrant community of fa
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
-        content=" " 
+        title="Spanish Certificate Ranked #1 in the Nation" 
+        content="Foreign Language Colleges has ranked Temple University's Spanish Certificate Program #1 in the nation based on US Department of Education data sets released in 2014-15." 
         image="" 
-        button-link=" " 
+        button-link="https://news.temple.edu/news/2016-06-30/spanish-certificate-programs-ranked-number-one-nationally" 
         button-text="Learn More" %}
       </div>
 </div>
