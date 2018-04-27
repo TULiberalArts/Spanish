@@ -38,12 +38,15 @@ sidebar-content: |
 ---
 
 ## Graduate Program Overview
+**THIS CONTENT NEED TO BE TRIMMED DOWN AND EACH DEGREE, MINOR AND CERTIFICATE OFFEREING NEEDS A SHORT DESCRIPTION**
 The Department of Spanish and Portuguese offers Master of Arts (MA) and Doctor of Philosophy (PhD) degrees with specializations in Spanish American Literature, Peninsular Spanish Literature, and Hispanic Linguistics. Our graduates have experienced successful placement. The Department has an active and multinational group of faculty and graduate students with literary, linguistic and cultural interests in several fields.
 
 ## Program Goals
 The Graduate Program in Spanish integrates the study of the three fundamental fields of Hispanic Studies: Peninsular Spanish Literature, Spanish American Literature and Hispanic Linguistics. At the level of the Master of Arts, it provides a solid program developing advanced Spanish-language skills for diverse careers (in secondary education, business, health and government services, and interpretation and translation) and trains students in the exercise of pedagogical and research skills necessary for the pursuit of a PhD. At the Doctor of Philosophy level, the program provides opportunities for advanced study and research in selected fields in Hispanic studies, and trains scholar/teachers for careers principally at institutions of higher learning. The MA and PhD degrees may be completed on a full-time or part-time basis.
 
-Learn More about the [MA in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-ma/) and [PhD in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-phd/) 
+**DESCRIPTION NEEDED**
+- Learn More about the [MA in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-ma/) 
+- Learn More ABout the [PhD in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-phd/) 
 
 ## Financial Support
 Multi-year competitive financial support in the form of teaching assistantships is available only to doctoral students. These awards include a monthly stipend, tuition remission, and health insurance. Moreover, university fellowships are available on a competitive basis. Please note: MA-degree terminal students do not qualify for an assistantship. Summer teaching appointments are given to a limited number of students.
