@@ -9,7 +9,7 @@ published: true
 ## Current Undergraduate Student Resources
 **THESE RESOURCES SHOULD BE HOUSED ELSEWHERE, MOST OF THESE DO NOT PERTAIN TO PROSPECTIVE STUDENTS**
 
-## Advising Resources 
+### Advising Resources 
 Advising: Where Do I Go If I Have Questions About: 
 
 - **Certificates:** [Josh Pongan](mailto:joshua.pongan@temple.edu)
@@ -29,7 +29,7 @@ Advising: Where Do I Go If I Have Questions About:
 - **Coordinator of Spanish 1003, 1903, 2001, 2002, 2096, 2901, 2902, and 2903:** [Marcela Pardes](mailto:mpardes@temple.edu)
 - **Coordinator of Spanish: 1001, 1901, 1002, and 1902:** [Josh Pongan](mailto:joshua.pongan@temple.edu)
 
-## Tutoring
+### Tutoring
 If you are in need of a tutor to help you with your Spanish class, our department has graduate students/TA’s that are willing to meet with you for a fee. Please feel free to contact them with any questions.
 
 AY 2017-18 Available Spanish Tutors
@@ -48,5 +48,21 @@ The Writing Center is now offering tutoring sessions in Spanish. The sessions ar
 
 To have a session in Spanish, students must make an appointment with one of the following tutors: Nicole, Nicholas or Megan. The appointments can be made by phone at [215-204-0702](tel:2152040702) or in person. Appointments must be made at least 24 hours in advance. Please note that the appointment schedule often gets fully booked. Whenever possible, students should call on Thursday afternoons for appointments in the following week.
 
-## Independent Study Proposal
-**THIS NEEDS TO BE TURNED INTO A JOTFORM SO I CAN ADD THE LINK**
+### THIS NEEDS TO BE TURNED INTO A JOTFORM SO I CAN ADD THE LINK**
+
+## Current Graduate Student Resources
+ 
+ - View the Comprehensive Examination [Reading Lists](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf) for the M.A. and PhD. 
+ 
+ - View a list of Doctor of Philosophy [dissertations](https://liberalarts.temple.edu/sites/liberalarts/files/Doctor%20of%20Philosophy%20Dissertations.pdf) that have been completed between 1973 and the present in the Department of Spanish and Portuguese.
+ 
+- Have a question about the graduate program in the Department of Spanish and Portuguese? View our [FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Program%20FAQ.pdf). 
+
+- For more information about M.A. and Ph.D. degree requirements, please review the [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf).
+
+- The Spanish and Portuguese Graduate Language Reading Examinations are administered four times per year: twice during the fall semester and twice during the spring semester. We also administer Catalan exams in our department by request. The department will notify students of their exam results by email. View the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Language%20Exam.pdf) to learn more. 
+  - Register for Exam **THIS NEEDS TO BE TURNED INTO A JOTFORM SO I CAN INSERT THE LINK**
+
+- View a list of current [teaching assistants](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Teaching%20Assistants.pdf) for the Department of Spanish and Portuguese.
+  
+- Graduate Student Business Card - **THIS CONTENT NEEDS TO BE HOUSED ELSEWHERE** 
