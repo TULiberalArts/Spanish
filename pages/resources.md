@@ -14,7 +14,7 @@ Advising: Where Do I Go If I Have Questions About:
 
 - **Certificates:** [Josh Pongan](mailto:joshua.pongan@temple.edu)
 - **Course(s) taken elsewhere:** [Patricia Moore-Martínez](mailto:pmoore04@temple.edu)
-- **Graduate students: [Víctor Pueyo Zoco](mailto:vpueyozo@temple.edu)
+- **Graduate students:** [Víctor Pueyo Zoco](mailto:vpueyozo@temple.edu)
 - **Spanish Graduate Reading Exam:** [Jonathan Holmquist](mailto:jholmqui@temple.edu)
 - **Portuguese Graduate Reading Exam:** [Adam Shellhorse](mailto:aj.shellhorse@temple.edu)
 - **Latin American Studies Semester (LASS):** [Hiram Aldarondo](mailto:hiram.aldarondo@temple.edu)(Program Director), [Patricia Moore-Martinez](mailto:pmoore04@temple.edu)(Coordinator) 
