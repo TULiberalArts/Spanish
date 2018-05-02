@@ -2,7 +2,7 @@
 title: Faculty
 permalink: /faculty/
 layout: faculty2
-keywords: ''
+keywords: 'spanish, portuguese, latin american studies, faculty, languages'
 description: >- 
 published: true
 ---
