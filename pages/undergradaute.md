@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 description: >-
-keywords: 'Spanish, students, courses'
+keywords: 'Spanish, undergraduate, courses, bachelors, certificate, tracks'
 layout: page
 published: true
 sidebar: true
