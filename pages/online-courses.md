@@ -2,7 +2,7 @@
 title: Online Courses
 permalink: /undergraduate/online-courses/
 layout: page
-keywords: ''
+keywords: 'online courses, spanish courses, prerequisite'
 description: >-
 published: true
 ---
