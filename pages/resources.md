@@ -2,7 +2,7 @@
 title: Resources
 permalink: /resources/
 layout: page
-keywords: ''
+keywords: 'resources, undergraduate, graduate, tutoring'
 description: >-
 published: true
 ---
