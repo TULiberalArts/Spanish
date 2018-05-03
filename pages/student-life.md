@@ -2,7 +2,7 @@
 title: Student Life
 permalink: /student-life/
 layout: page
-keywords: ''
+keywords: 'internships, latin american studies semester, study abroad, application process, spanish club, GSOLT, awards and scholarships'
 description: >- 
 published: true
 ---
