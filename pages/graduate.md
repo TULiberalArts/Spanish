@@ -1,7 +1,8 @@
 ---
 title: Graduate
 permalink: /graduate/
-meta-keywords: 'Spanish, graduate, programs'
+keywords: 'Spanish, graduate programs, admissions, financial support'
+description: >-
 layout: page
 published: true
 sidebar: true
