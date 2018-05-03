@@ -2,7 +2,7 @@
 title: Next Stops
 permalink: /next-stops/
 layout: page
-meta-keywords: 'transfer, apply, visit, international, careers, study abroad'
+keywords: 'transfer, apply, visit, international, careers, study abroad'
 description: >- 
 published: true
 ---
