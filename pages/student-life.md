@@ -1,10 +1,13 @@
 ---
-title: Student Life
+# global predefined variables
+layout: tla_page
 permalink: /student-life/
-layout: page
-keywords: 'internships, latin american studies semester, study abroad, application process, spanish club, GSOLT, awards and scholarships'
-description: >- 
 published: true
+ # meta-data variables
+title: Student Life
+description: >-
+keywords: 'internships, latin american studies semester, study abroad, application process, spanish club, GSOLT, awards and scholarships'
+# custom variables
 ---
 ## Internships
 The Department of Spanish and Portuguese maintains relationships with a variety of organizations throughout the city of Philadelphia offering students ample volunteer, community service, research and internship opportunities.  These experiential learning experiences provide students with real world language and work experience, increasing their skills and confidence.
@@ -88,7 +91,7 @@ Exceptional students may apply to become members of the prestigious Spanish Hono
 For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4579&field_awards_academics_class_value=All) page.
 
 ## Club de Espanol
-The Spanish Club is a student organization and its principal goal is to promote the practice of speaking Spanish. One way we achieve this goal is through conversation tables, which allow students to practice their conversation skills in a relaxed environment once a week.  We also celebrate the Hispanic culture all year round with different activities. The Spanish Club meets weekly throughout the semester on Mondays from 4-5pm in 422 Anderson Hall. 
+The Spanish Club is a student organization and its principal goal is to promote the practice of speaking Spanish. One way we achieve this goal is through conversation tables, which allow students to practice their conversation skills in a relaxed environment once a week.  We also celebrate the Hispanic culture all year round with different activities. The Spanish Club meets weekly throughout the semester on Mondays from 4-5pm in 422 Anderson Hall.
 
 Everyone is welcome to join the Spanish Club. You don’t need to be a member of the club in order to participate in our events throughout the year. Stop by our meetings and bring friends!
 - Club Coordinator: [Norma Corrales Martin](mailto:ncm@temple.edu)
@@ -111,4 +114,3 @@ In this blog, we will publish the best stories written by students each semester
 
 All students taking Hispanic Readings / Lecturas Hispánicas had to write a short story and read several stories in Spanish from various sources. View the following [Student Grpups pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Comentarios%20de%20Hispanic%20Readings%20Fall%202016.pdf) to see the comments from students after the experience during the semester.
 - [Finalistas](https://liberalarts.temple.edu/sites/liberalarts/files/FINALISTAS.pdf)
-

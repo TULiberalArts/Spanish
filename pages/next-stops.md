@@ -1,10 +1,13 @@
 ---
-title: Next Stops
+# global predefined variables
+layout: tla_page
 permalink: /next-stops/
-layout: page
-keywords: 'transfer, apply, visit, international, careers, study abroad'
-description: >- 
 published: true
+# meta-data variables
+title: Next Stops
+description: >-
+keywords: 'transfer, apply, visit, international, careers, study abroad'
+# custom variables
 ---
 ## Next Stops:
 Spanish majors are well positioned for life after Temple University. Many enter public service through careers in public policy, international relations and education. Some utilize their language skill (bilingual competency) in the business and health sectors. Others attend graduate, law and medical schools.
@@ -20,8 +23,8 @@ Our alumni have gone on to successful and meaningful careers in the following ar
 ## Careers
 Students graduating with a major in Spanish enter careers in diverse fields.  Recent alumni have found employment in local and federal government positions, social work, healthcare, education, human resources, insurance, tourism and hospitality, journalism and NGOs. In addition, majors have begun post-secondary studies in medical schools, law schools, physical therapy, anthropology, sociology, Spanish, linguistics and education.
 
-## Notable Alumni 
-So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes! 
+## Notable Alumni
+So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
 
 **_Alumni Spotlight_** **(the profiles are made for these in liberal arts, I just need to link them up)**
 

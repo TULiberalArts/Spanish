@@ -1,10 +1,13 @@
 ---
-title: Undergraduate
+# global predefined variables
+layout: page
 permalink: /undergraduate/
+published: true
+ # meta-data variables
+title: Undergraduate
 description: >-
 keywords: 'Spanish, undergraduate, courses, bachelors, certificate, tracks'
-layout: page
-published: true
+# custom variables
 sidebar: true
 sidebar-content: |
   **Chair:**  
@@ -67,7 +70,7 @@ Foreign Language Colleges has ranked Temple University's Spanish Certificate Pro
 
 **DESCRIPTION NEEDED**
 - Learn More About the [Minor in Spanish](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-spanish/)
-- Learn More About the [Minor in Portuguese](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-portuguese/) 
+- Learn More About the [Minor in Portuguese](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-portuguese/)
 
 ## Select Your Track
 Our department offers 3 different major tracks allowing students to select courses from each track in order to meet their personal and professional language goals.

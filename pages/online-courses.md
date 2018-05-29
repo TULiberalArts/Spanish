@@ -1,10 +1,13 @@
 ---
-title: Online Courses
+# global predefined variables
+layout: tla_page
 permalink: /undergraduate/online-courses/
-layout: page
-keywords: 'online courses, spanish courses, prerequisite'
-description: >-
 published: true
+# meta-data variables
+ title: Online Courses
+ description: >-
+ keywords: 'online courses, spanish courses, prerequisite'
+# custom variables
 ---
 ## Online Spanish Courses
 

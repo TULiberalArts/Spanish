@@ -1,23 +1,27 @@
 ---
-title: Resources
+# global predefined variables
+layout: tla_page
 permalink: /resources/
-layout: page
-keywords: 'resources, undergraduate, graduate, tutoring'
-description: >-
 published: true
+# meta-data variables
+ title: Resources
+ layout: page
+ description: >-
+ keywords: 'resources, undergraduate, graduate, tutoring'
+# custom variables
 ---
 ## Current Undergraduate Student Resources
 **THESE RESOURCES SHOULD BE HOUSED ELSEWHERE, MOST OF THESE DO NOT PERTAIN TO PROSPECTIVE STUDENTS**
 
-### Advising Resources 
-Advising: Where Do I Go If I Have Questions About: 
+### Advising Resources
+Advising: Where Do I Go If I Have Questions About:
 
 - **Certificates:** [Josh Pongan](mailto:joshua.pongan@temple.edu)
 - **Course(s) taken elsewhere:** [Patricia Moore-Martínez](mailto:pmoore04@temple.edu)
 - **Graduate students:** [Víctor Pueyo Zoco](mailto:vpueyozo@temple.edu)
 - **Spanish Graduate Reading Exam:** [Jonathan Holmquist](mailto:jholmqui@temple.edu)
 - **Portuguese Graduate Reading Exam:** [Adam Shellhorse](mailto:aj.shellhorse@temple.edu)
-- **Latin American Studies Semester (LASS):** [Hiram Aldarondo](mailto:hiram.aldarondo@temple.edu)(Program Director), [Patricia Moore-Martinez](mailto:pmoore04@temple.edu)(Coordinator) 
+- **Latin American Studies Semester (LASS):** [Hiram Aldarondo](mailto:hiram.aldarondo@temple.edu)(Program Director), [Patricia Moore-Martinez](mailto:pmoore04@temple.edu)(Coordinator)
 - **Majors (course selection and registration, sign additional drop forms, career development, referrals):** [Patricia Moore-Martínez](mailto:pmoore04@temple.edu)
 - **Minors (course selection and registration):** [Patricia Moore-Martínez](mailto:pmoore04@temple.edu)
 - **Non-major:** [Josh Pongan](mailto:joshua.pongan@temple.edu)
@@ -52,17 +56,17 @@ To have a session in Spanish, students must make an appointment with one of the 
 
 ## Current Graduate Student Resources
  
- - View the Comprehensive Examination [Reading Lists](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf) for the M.A. and PhD. 
+ - View the Comprehensive Examination [Reading Lists](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf) for the M.A. and PhD.
  
  - View a list of Doctor of Philosophy [dissertations](https://liberalarts.temple.edu/sites/liberalarts/files/Doctor%20of%20Philosophy%20Dissertations.pdf) that have been completed between 1973 and the present in the Department of Spanish and Portuguese.
  
-- Have a question about the graduate program in the Department of Spanish and Portuguese? View our [FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Program%20FAQ.pdf). 
+- Have a question about the graduate program in the Department of Spanish and Portuguese? View our [FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Program%20FAQ.pdf).
 
 - For more information about M.A. and Ph.D. degree requirements, please review the [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf).
 
-- The Spanish and Portuguese Graduate Language Reading Examinations are administered four times per year: twice during the fall semester and twice during the spring semester. We also administer Catalan exams in our department by request. The department will notify students of their exam results by email. View the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Language%20Exam.pdf) to learn more. 
+- The Spanish and Portuguese Graduate Language Reading Examinations are administered four times per year: twice during the fall semester and twice during the spring semester. We also administer Catalan exams in our department by request. The department will notify students of their exam results by email. View the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Language%20Exam.pdf) to learn more.
   - Register for Exam **THIS NEEDS TO BE TURNED INTO A JOTFORM SO I CAN INSERT THE LINK**
 
 - View a list of current [teaching assistants](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Teaching%20Assistants.pdf) for the Department of Spanish and Portuguese.
   
-- Graduate Student Business Card - **THIS CONTENT NEEDS TO BE HOUSED ELSEWHERE** 
+- Graduate Student Business Card - **THIS CONTENT NEEDS TO BE HOUSED ELSEWHERE**
