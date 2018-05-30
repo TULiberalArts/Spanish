@@ -3,42 +3,13 @@
 layout: page
 permalink: /undergraduate/
 published: true
- # meta-data variables
+# meta-data variables
 title: Undergraduate
 description: >-
 keywords: 'Spanish, undergraduate, courses, bachelors, certificate, tracks'
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Hiram Aldarondo  
-   427 Anderson Hall  
-   [(215) 204-0134](tel:2152040134)  
-   [haldaron@temple.edu](mailto:haldaron@temple.edu)  
-   
-   ___
-   
-   **Undergraduate Chair:**  
-   Patricia Moore-Martinez  
-   426 Anderson Hall  
-   [(215) 204-5129](tel:2152041707)  
-   [pmoore04@temple.edu](mailto:pmoore04@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Michelle Pugliese  
-   429 Anderson Hall   
-   [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
-   
-   ___
-
-   **Coordinator:**  
-   Annette Vega  
-   428 Anderson Hall    
-   [(215) 204-2877](tel:2152042877)   
-   [avega1@temple.edu](mailto:avega1@temple.edu)
+sidebar-content: /sidebars/undergraduate.html
 ---
 What do you want to get out of your Spanish or Portuguese education? Read our [Spanish degree](#ba-in-spanish-language-literature-and-linguistics) and courses and [Portuguese courses](#minor-in-portuguese) program overview to learn how the College of Liberal Arts will get you there. We [teach a lot](#we-teach-a-lot), our students are [globetrotters](#our-students-are-globetrotters) and our coursework uses immersive study to elicit positive results. Maybe that’s why our Spanish [certificate](#spanish-certificate-ranked-1-in-the-nation) is ranked first in the nation. Select your [track](#select-your-track) today to get started.
 
