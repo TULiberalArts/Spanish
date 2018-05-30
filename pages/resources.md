@@ -5,8 +5,7 @@ permalink: /resources/
 published: true
 # meta-data variables
  title: Resources  
- layout: page 
- description: >- 
+ layout: page
  keywords: 'resources, undergraduate, graduate, tutoring'  
 # custom variables   
 ---
