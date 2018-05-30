@@ -10,9 +10,13 @@ published: true
  keywords: 'resources, undergraduate, graduate, tutoring'
 # custom variables
 ---
-## Current Undergraduate Student Resources
-**THESE RESOURCES SHOULD BE HOUSED ELSEWHERE, MOST OF THESE DO NOT PERTAIN TO PROSPECTIVE STUDENTS**
+Temple University Spanish degree and Portuguese course students have a number of resources available to help them along during their college experience. Take a look at our available [undergraduate](#current-undergraduate-student-resources) and [[raduate student](##current-graduate-student-resources) resources.
 
+## Current Undergraduate Student Resources
+- [Spring 2017 Course Catalog](https://liberalarts.temple.edu/sites/liberalarts/files/Spanish-and-Portuguese-Course-Catalog-Fall-2016.pdf)
+- [Policies and Procedures](https://liberalarts.temple.edu/sites/liberalarts/files/Spanish-%20Undergraduate%20Policies%20and%20Procedures.pdf)
+
+**THESE RESOURCES SHOULD BE HOUSED ELSEWHERE, MOST OF THESE DO NOT PERTAIN TO PROSPECTIVE STUDENTS**
 ### Advising Resources
 Advising: Where Do I Go If I Have Questions About:
 
@@ -51,22 +55,17 @@ AY 2017-18 Available Portuguese Tutors
 The Writing Center is now offering tutoring sessions in Spanish. The sessions are geared primarily to students enrolled in the Writing Intensive courses (Spanish 2096 and 3096), but any Temple student who is writing essays in Spanish is welcome to use the service.
 
 To have a session in Spanish, students must make an appointment with one of the following tutors: Nicole, Nicholas or Megan. The appointments can be made by phone at [215-204-0702](tel:2152040702) or in person. Appointments must be made at least 24 hours in advance. Please note that the appointment schedule often gets fully booked. Whenever possible, students should call on Thursday afternoons for appointments in the following week.
-
 ### THIS NEEDS TO BE TURNED INTO A JOTFORM SO I CAN ADD THE LINK**
 
 ## Current Graduate Student Resources
- 
  - View the Comprehensive Examination [Reading Lists](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf) for the M.A. and PhD.
- 
  - View a list of Doctor of Philosophy [dissertations](https://liberalarts.temple.edu/sites/liberalarts/files/Doctor%20of%20Philosophy%20Dissertations.pdf) that have been completed between 1973 and the present in the Department of Spanish and Portuguese.
- 
 - Have a question about the graduate program in the Department of Spanish and Portuguese? View our [FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Program%20FAQ.pdf).
-
 - For more information about M.A. and Ph.D. degree requirements, please review the [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf).
-
-- The Spanish and Portuguese Graduate Language Reading Examinations are administered four times per year: twice during the fall semester and twice during the spring semester. We also administer Catalan exams in our department by request. The department will notify students of their exam results by email. View the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Language%20Exam.pdf) to learn more.
-  - Register for Exam **THIS NEEDS TO BE TURNED INTO A JOTFORM SO I CAN INSERT THE LINK**
-
-- View a list of current [teaching assistants](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Teaching%20Assistants.pdf) for the Department of Spanish and Portuguese.
-  
 - Graduate Student Business Card - **THIS CONTENT NEEDS TO BE HOUSED ELSEWHERE**
+- View a list of current [teaching assistants](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Teaching%20Assistants.pdf) for the Department of Spanish and Portuguese.
+
+## Graduate Language Exam
+- The Spanish and Portuguese Graduate Language Reading Examinations are administered four times per year: twice during the fall semester and twice during the spring semester. We also administer Catalan exams in our department by request. The department will notify students of their exam results by email. View the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Language%20Exam.pdf) to learn more.
+
+- Register for Exam **THIS NEEDS TO BE TURNED INTO A JOTFORM SO I CAN INSERT THE LINK**
