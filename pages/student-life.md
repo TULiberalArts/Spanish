@@ -9,6 +9,8 @@ description: >-
 keywords: 'internships, latin american studies semester, study abroad, application process, spanish club, GSOLT, awards and scholarships'
 # custom variables
 ---
+Spanish and Portuguese aren’t restricted to just Spain and Portugal—they’re spoken around the world. So why restrict your Portuguese or Spanish education to just the classroom? Apply for [internships](#internships); enroll in the [Latin American Studies Semester](#latin-american-studies-semester-lass); [study abroad](#study-abroad) in Ecuador, in Spain during the [spring](#temple-spain-spring-semester -program) or [summer](#temple-spain-summer-semester-program), or in [Brazil](#brazil-afro-brazilian-culture-and-popular-brazilian-music-salvador-bahia); apply for [awards and scholarships](#awards-and-scholarships); join the [Club de Espanol](#club-de-espanol) or the [Graduate Students of Language at Temple](#graduate-students-of-language-at-temple-gsolt); or get involved with the [Hispanic Readings Blog](#hispanic-readings-blog).
+
 ## Internships
 The Department of Spanish and Portuguese maintains relationships with a variety of organizations throughout the city of Philadelphia offering students ample volunteer, community service, research and internship opportunities.  These experiential learning experiences provide students with real world language and work experience, increasing their skills and confidence.
 
@@ -85,7 +87,7 @@ Our summer study abroad programs allow you to use the world as your classroom. S
 
 Temple University in Brazil provides exceptional educational opportunities for under graduate students of African-American studies, Latin American studies, Portuguese, history, music, dance, art and related disciplines to study Brazilian culture, civilization and music. For more information visit Temple Summer in Brazil **BROKEN LINK**.
 
-## Awards/Scholarships
+## Awards and Scholarships
 Exceptional students may apply to become members of the prestigious Spanish Honor Society: Sigma Delta Pi. A graduating senior is awarded the Sigma Delta Pi prize each year. The Department also offers the Kristina Joanne Chelius award.  Established in 2009 by Thomas and Joanne Chelius in memory of their daughter Kristina, CLA ’91, this award is given to outstanding junior or senior students majoring in Spanish who have financial need.
 
 For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4579&field_awards_academics_class_value=All) page.

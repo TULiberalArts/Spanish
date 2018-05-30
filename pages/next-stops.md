@@ -9,38 +9,36 @@ description: >-
 keywords: 'transfer, apply, visit, international, careers, study abroad'
 # custom variables
 ---
-## Next Stops:
-Spanish majors are well positioned for life after Temple University. Many enter public service through careers in public policy, international relations and education. Some utilize their language skill (bilingual competency) in the business and health sectors. Others attend graduate, law and medical schools.
+Spanish degree graduates and Portuguese course graduates have a range of career options —just look at where some of our [notable alumni](#notable-alumni) have landed. So, what are you waiting for? [Make your declaration](#make-your-declaration), [visit us](#visit-us), take a look at your [transfer](#thinking-of-transferring) options and [apply](#apply) ahead of our upcoming [deadlines](#deadlines).
+
+## Careers
+Students graduating with a major in Spanish enter careers in diverse fields.  Recent alumni have found employment in local and federal government positions, social work, healthcare, education, human resources, insurance, tourism and hospitality, journalism and NGOs. In addition, majors have begun post-secondary studies in medical schools, law schools, physical therapy, anthropology, sociology, Spanish, linguistics and education.
 
 Our alumni have gone on to successful and meaningful careers in the following areas (among many others):
-
 - Local and federal government positions
 - Social work
 - Healthcare
 - Education
 - Tourism and Hospitality
 
-## Careers
-Students graduating with a major in Spanish enter careers in diverse fields.  Recent alumni have found employment in local and federal government positions, social work, healthcare, education, human resources, insurance, tourism and hospitality, journalism and NGOs. In addition, majors have begun post-secondary studies in medical schools, law schools, physical therapy, anthropology, sociology, Spanish, linguistics and education.
-
 ## Notable Alumni
 So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
 
 **_Alumni Spotlight_** **(the profiles are made for these in liberal arts, I just need to link them up)**
 
-- Amy Contant<br/>
+- [Amy Contant](https://liberalarts.temple.edu/news/alumni-spotlight-amy-contant)<br/>
   Bilingual Speech Language Pathologist at Holyoke Medical Center<br/>
   B.A.in Spanish: Language, Literature and Linguistics in 2013<br/>
    
-- Amanda Orme<br/>
+- [Amanda Orme](#https://liberalarts.temple.edu/news/alumni-spotlight-amanda-orme)<br/>
   Global Logistics Specialist at Samuel Shapiro & Company<br/>
   B.A.in Spanish in 2014<br/>
    
-- Brendan Conlin<br/>
+- [Brendan Conlin](https://liberalarts.temple.edu/news/alumni-spotlight-brendan-conlin)<br/>
   Vice President of Education and Workforce Services at Congreso de Latinos Unidos, Inc.<br/>
   B.A.in Spanish in 2007<br/>
 
-- Alexandra Forcucci<br/>
+- [Alexandra Forcucci](https://liberalarts.temple.edu/news/alumni-spotlight-alexandra-forcucci)<br/>
   Commercial Property Underwriting Analyst at AIG’s Global Headquarters<br/>
   B.A.in Spanish in 2015<br/>
   
