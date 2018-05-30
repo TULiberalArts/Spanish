@@ -92,7 +92,6 @@ Our department offers 3 different major tracks allowing students to select cours
 - [Language and Professional Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-language-professional-studies-option/#requirementstext): The major in Language and Professional Studies is designed for the student whose career interests focus upon the professional world.  Courses in Translation, Medical, Business and Legal Spanish form the foundation for this track.
 - [Spanish for Education](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-education-option/#requirementstext): The major in Spanish for Education not only prepares students linguistically for their future careers as educators, but also fulfills the Spanish requirements for certification in Spanish for Secondary Education in the College of Education.
 
-## Resources 
+## Online Courses 
+**NEED A DESCRIPTION**
 - [Online Courses](www.develop.cla.temple.edu/undergraduate/online-courses/)
-- [Spring 2017 Course Catalog](https://liberalarts.temple.edu/sites/liberalarts/files/Spanish-and-Portuguese-Course-Catalog-Fall-2016.pdf)
-- [Policies and Procedures](https://liberalarts.temple.edu/sites/liberalarts/files/Spanish-%20Undergraduate%20Policies%20and%20Procedures.pdf)
