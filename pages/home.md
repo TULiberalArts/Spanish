@@ -24,7 +24,6 @@ Temple University Spanish degree students can tailor their learning toward their
 The Department of Spanish and Portuguese is a unique and vibrant community of faculty who teach students of all disciplines at the undergraduate and graduate levels. Our three Spanish major tracks (Language and Professional Studies; Language, Literature and Linguistics; and Spanish for Education) prepare students for the pluralistic, globalized society of the 21st century. They do this through rigorous language training and by providing instruction in the cultures and literature of Spain, Latin America and the Luso-Brazilian world.
 
 ## Academic Offerings
-
 - [BA in Spanish: Language, Literature and Linguistics](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-language-literature-linguistics-option/)
 - [BA in Spanish and Professional Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-language-professional-studies-option/)
 - [BA in Spanish for Education](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-education-option/)
