@@ -4,11 +4,11 @@ layout: tla_page
 permalink: /resources/
 published: true
 # meta-data variables
- title: Resources
- layout: page
- description: >-
- keywords: 'resources, undergraduate, graduate, tutoring'
-# custom variables
+ title: Resources  
+ layout: page 
+ description: >- 
+ keywords: 'resources, undergraduate, graduate, tutoring'  
+# custom variables   
 ---
 Temple University Spanish degree and Portuguese course students have a number of resources available to help them along during their college experience. Take a look at our available [undergraduate](#current-undergraduate-student-resources) and [[raduate student](##current-graduate-student-resources) resources.
 
