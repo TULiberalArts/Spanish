@@ -37,6 +37,8 @@ The Department of Spanish and Portuguese is a unique and vibrant community of fa
 - [MA in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-ma/)
 - [PhD in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-phd/)
 
+___
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Undergraduate and Graduate Programs"
