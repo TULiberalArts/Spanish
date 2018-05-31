@@ -19,8 +19,8 @@ The Department of Spanish and Portuguese at Temple University prepares students 
 
 In addition to on-campus instruction, the Department facilitates student connections with local and global communities through participation in one of our special programs. These programs include: an intensive immersion program in Spanish and Latin American Studies (LASS); diverse programs abroad, including our Temple Spain Programs; and service learning and internships in areas of business, social service, and education in Philadelphia. Students studying in Spanish and Portuguese are well positioned for life after Temple University. Our students attend graduate, law and medical schools; they enter public service through careers in public policy, international relations and education; and they utilize their language skills in the business and health sectors.
 
-## We Teach, A Lot
-We offer a 360-degree view of our subject matter. From language and culture to literature and business, we make sure students graduate with the skills they need to look at global issues from all angles. We offer service learning and internships in the areas of business, social services, health and education — right here in Philadelphia.
+## We Teach—A Lot
+We offer a 360-degree view of our subject matter. From language and culture to literature and business, we make sure students graduate with the skills they need to look at global issues from all angles. We offer service learning and internships in the areas of business, social services, health and education—right here in Philadelphia.
 
 ## Our Students Are Globetrotters
 Our department offers study abroad programs that allow students to immerse themselves in the language and culture of Costa Rica, Spain and Brazil. Study abroad for a summer or for a full academic semester. The choice is yours.
