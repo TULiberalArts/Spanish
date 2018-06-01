@@ -9,36 +9,7 @@ keywords: 'Spanish, graduate programs, admissions, financial support'
 description: >-
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Hiram Aldarondo  
-   427 Anderson Hall  
-   [(215) 204-0134](tel:2152040134)  
-   [haldaron@temple.edu](mailto:haldaron@temple.edu)  
-   
-   ___
-   
-   **Graduate Chair:**  
-   Víctor Pueyo Zoco  
-   445 Anderson Hall  
-   [(215) 204-5129](tel:2152045129)  
-   [vpueyozo@temple.edu](mailto:vpueyozo@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Michelle Pugliese  
-   429 Anderson Hall   
-   [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
-   
-   ___
-
-   **Coordinator:**  
-   Annette Vega  
-   428 Anderson Hall    
-   [(215) 204-2877](tel:2152042877)   
-   [avega1@temple.edu](mailto:avega1@temple.edu)
+sidebar_content: sidebars/graduate.html
 ---
 Want to take your language skills and cultural knowledge to the next level? Take a look at the [program overview](#graduate-program-overview) and [program goals](#program-goals) for our Spanish [master’s degree](#ma-in-spanish) and Spanish [PhD](#phd-in-spanish). If you think you’re ready to get started, you should review your [financial support](#financial-support) options and our [admissions process](#admissions-process) before you [apply](#apply).
 
