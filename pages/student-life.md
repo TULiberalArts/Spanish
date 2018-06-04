@@ -6,6 +6,9 @@ published: true
  # meta-data variables
 title: Student Life
 description: >-
+ Apply for internships; enroll in the Latin American Studies Semester; study abroad in Ecuador, Spain, or Brazil;
+ join Club de Espanol or the Graduate Students of Language at Temple University’s College of Liberal Arts. 
+ Also check out the Hispanic Readings Blog, and our offered awards and scholarships.
 keywords: 'internships, latin american studies semester, study abroad, application process, spanish club, GSOLT, awards and scholarships'
 # custom variables
 ---
