@@ -6,6 +6,8 @@ published: true
  # meta-data variables
 title: Home
 description: >-
+ Choose from nine undergraduate and graduate Spanish degree programs at Temple University’s College of 
+ Liberal Arts. Immerse yourself in this vibrant community and make your goals reality.
 keywords: 'Spanish and Portuguese, undergraduate, graduate'
  # custom variables
 feature: true
