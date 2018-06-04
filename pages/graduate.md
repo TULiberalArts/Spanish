@@ -7,6 +7,8 @@ published: true
 title: Graduate
 keywords: 'Spanish, graduate programs, admissions, financial support'
 description: >-
+ Earn your MA or PhD at Temple University in the College of Liberal Arts. Learn about our graduate 
+ program overview and goals, our admissions process, financial support options, and apply!
 # custom variables
 sidebar: true
 sidebar_content: sidebars/graduate.html
