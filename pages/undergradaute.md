@@ -6,6 +6,9 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
+  Earn your BA in Spanish: Language, Literature, and Linguistics; Spanish and Professional Studies, or 
+  Spanish for Education. Minor in Spanish or Portuguese, or earn a certificate in Spanish.
+  Choose from one of three tracks offered by the College of Liberal Arts at Temple University.
 keywords: 'Spanish, undergraduate, courses, bachelors, certificate, tracks'
 # custom variables
 sidebar: true
