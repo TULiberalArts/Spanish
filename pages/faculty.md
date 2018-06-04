@@ -6,6 +6,7 @@ published: true
 # meta-data variables
 title: Faculty
 description: >-
+  Get to know our faculty members in the Spanish department of the College of Liberal Arts at Temple University.
 keywords: 'spanish, portuguese, latin american studies, faculty, languages'
 # custom variables
 ---
