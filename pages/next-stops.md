@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
+  Explore your career potential with a degree in Spanish from Temple University’s College of Liberal Arts.
+  Read about our notable alumni, look at your transfer options, visit us, make your declaration, and apply!
 keywords: 'transfer, apply, visit, international, careers, study abroad'
 # custom variables
 ---
