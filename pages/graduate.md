@@ -23,11 +23,11 @@ The Graduate Program in Spanish integrates the study of the three fundamental fi
 
 ## MA in Spanish
 **DESCRIPTION NEEDED**
-- Learn More about the [MA in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-ma/)
+- Learn more about the [MA in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-ma/)
 
 ## PhD in Spanish
 **DESCRIPTION NEEDED**
-- Learn More ABout the [PhD in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-phd/)
+- Learn more about the [PhD in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-phd/)
 
 ## Financial Support
 Multi-year competitive financial support in the form of teaching assistantships is available only to doctoral students. These awards include a monthly stipend, tuition remission, and health insurance. Moreover, university fellowships are available on a competitive basis. Please note: MA-degree terminal students do not qualify for an assistantship. Summer teaching appointments are given to a limited number of students.
