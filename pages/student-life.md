@@ -82,8 +82,8 @@ If you are committed to developing your Spanish language skills and understandin
 
 Temple University’s spring semester program in Spain was developed in 2008 in response to the success of its existing summer session in Oviedo. Based at the University of Oviedo, the semester program is designed for students who are committed to furthering their Spanish language skills and understanding of Spanish culture. For more information visit [Temple in Spain Spring Semester](http://studyabroad.temple.edu/sites/temple-in-spain-spring-semester).
 
-## Temple Spain Summer Program
 ![Brazil Study Abroad]({{site.baseurl}}/media/resized Temple Spain Summer Program.jpg){:.img-right}
+## Temple Spain Summer Program
 The Temple in Spain summer program is based at the University of Oviedo in the province of Asturias, a beautiful region of ocean, mountains and Roman ruins in northwest Spain. For more information visit [Temple in Spain Summer Session](http://studyabroad.temple.edu/sites/temple-in-spain-summer).
 
 
