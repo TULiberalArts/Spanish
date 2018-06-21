@@ -48,8 +48,6 @@ Intermediate Spanish (3 credit hours) advances students from simple questions an
 
  _Prerequisite: Spanish 1002 / equivalent credit or placement by an advisor in the Department of Spanish & Portuguese_
 
-[gap size="1px"]
-
 **SPANISH COMPOSITION (2096)**<br>
 - 4-week session (May 14th – June 11th)<br>
 
