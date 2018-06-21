@@ -5,8 +5,8 @@ permalink: /undergraduate/online-courses/
 published: true
 # meta-data variables
  title: Online Courses
- description: >-
  keywords: 'online courses, spanish courses, prerequisite'
+ description: >-
 # custom variables
 ---
 ## Online Spanish Courses
