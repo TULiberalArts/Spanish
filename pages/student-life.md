@@ -87,7 +87,6 @@ The Temple in Spain summer program is based at the University of Oviedo in the p
 ## Brazil: Afro-Brazilian Culture And Popular Brazilian Music (Salvador, Bahia)
 ![Brazil Study Abroad]({{site.baseurl}}/media/resized Study Abroad Brazil.jpg){:.img-right}
 Our summer study abroad programs allow you to use the world as your classroom. Students choose to study abroad during the summer for a variety of reasons. Many have academic requirements that do not allow them to spend an entire semester abroad. Some students want to improve their language skills, while others seek to experience daily life in another country. Many students participate in short-term summer programs early in their college education, and then spend a semester or year abroad as juniors or seniors.
-
 Temple University in Brazil provides exceptional educational opportunities for under graduate students of African-American studies, Latin American studies, Portuguese, history, music, dance, art and related disciplines to study Brazilian culture, civilization and music. For more information visit Temple Summer in Brazil **BROKEN LINK**.
 
 ## Awards and Scholarships
