@@ -4,10 +4,12 @@ layout: tla_page
 permalink: /undergraduate/online-courses/
 published: true
 # meta-data variables
- title: Online Courses
- keywords: 'online courses, spanish courses, prerequisite'
- description: >-
+title: Online Courses
+keywords: 'online courses, spanish courses, prerequisite'
+description: >-
 # custom variables
+sidebar: true
+sidebar_content: sidebars/undergraduate.html
 ---
 ## Online Spanish Courses
 
