@@ -34,6 +34,8 @@ LASS courses combine the learning of the Spanish language with the study of the 
 
 Morning sessions, held from 9:00 to 12:00 on Mondays, Wednesdays and Fridays, offer Spanish language instruction and conversation practice at intermediate and advanced levels guided by native or near native speakers. Morning sessions, held from 9:30 to 10:50 and from 11:00 to 12:20 on Tuesdays and Thursdays, focus on Latin American culture, history, and economic development. A LASS Seminar held on Tuesdays and Thursdays from 1:30 to 3:10 highlights a series of topics in Latin American and Latino studies and includes films and presentations by guest speakers.
 
+___
+
 ## Study Abroad
 
 ## About Quito, Ecuador
@@ -84,10 +86,13 @@ Temple University’s spring semester program in Spain was developed in 2008 in 
 ![Brazil Study Abroad]({{site.baseurl}}/media/resized Temple Spain Summer Program.jpg){:.img-right}
 The Temple in Spain summer program is based at the University of Oviedo in the province of Asturias, a beautiful region of ocean, mountains and Roman ruins in northwest Spain. For more information visit [Temple in Spain Summer Session](http://studyabroad.temple.edu/sites/temple-in-spain-summer).
 
+
 ## Brazil: Afro-Brazilian Culture And Popular Brazilian Music (Salvador, Bahia)
 ![Brazil Study Abroad]({{site.baseurl}}/media/resized Study Abroad Brazil.jpg){:.img-right}
 Our summer study abroad programs allow you to use the world as your classroom. Students choose to study abroad during the summer for a variety of reasons. Many have academic requirements that do not allow them to spend an entire semester abroad. Some students want to improve their language skills, while others seek to experience daily life in another country. Many students participate in short-term summer programs early in their college education, and then spend a semester or year abroad as juniors or seniors.
 Temple University in Brazil provides exceptional educational opportunities for under graduate students of African-American studies, Latin American studies, Portuguese, history, music, dance, art and related disciplines to study Brazilian culture, civilization and music. For more information visit Temple Summer in Brazil **BROKEN LINK**.
+
+___
 
 ## Awards and Scholarships
 Exceptional students may apply to become members of the prestigious Spanish Honor Society: Sigma Delta Pi. A graduating senior is awarded the Sigma Delta Pi prize each year. The Department also offers the Kristina Joanne Chelius award.  Established in 2009 by Thomas and Joanne Chelius in memory of their daughter Kristina, CLA ’91, this award is given to outstanding junior or senior students majoring in Spanish who have financial need.
