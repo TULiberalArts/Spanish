@@ -54,10 +54,10 @@ Our students graduate with career aptitudes such as research and information lit
 ## Spanish Certificate Ranked #1 in the Nation
 Foreign Language Colleges has ranked Temple University's Spanish Certificate Program #1 in the nation based on [US Department of Education data sets](https://news.temple.edu/news/2016-06-30/spanish-certificate-programs-ranked-number-one-nationally) released in 2014-15.
 
-- Learn More About the [Certificate of Specialization in Spanish](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/certificate-specialization-spanish/)
-- Learn More About the [Certificate of Specialization in Spanish and Latin American Studies for Business](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/certificate-specialization-spanish-latin-american-studies-business/)
-- Learn More About the [Certificate of Specialization in Spanish and Latino Studies for the Health and Human Services Professions](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/certificate-specialization-spanish-latino-studies-health-human-services-professions/)
-- Learn More About the [Latin American Studies Semester Certificate and Program](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/latin-american-studies-certificate-program/)
+- Learn More About the [Certificate of Specialization in Spanish](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-spanish/)
+- Learn More About the [Certificate of Specialization in Spanish and Latin American Studies for Business](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-spanish-latin-american-studies-business/)
+- Learn More About the [Certificate of Specialization in Spanish and Latino Studies for the Health and Human Services Professions](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-spanish-latino-studies-health-human-services-professions/)
+- Learn More About the [Latin American Studies Semester Certificate and Program](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-latin-american-studies/)
 
 ## Select Your Track
 Our department offers 3 different major tracks allowing students to select courses from each track in order to meet their personal and professional language goals.
