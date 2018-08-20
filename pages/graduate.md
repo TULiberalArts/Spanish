@@ -33,6 +33,6 @@ The Graduate Program in Spanish integrates the study of the three fundamental fi
 Multi-year competitive financial support in the form of teaching assistantships is available only to doctoral students. These awards include a monthly stipend, tuition remission, and health insurance. Moreover, university fellowships are available on a competitive basis. Please note: MA-degree terminal students do not qualify for an assistantship. Summer teaching appointments are given to a limited number of students.
 
 ## Admissions Process
-Please visit the [Spanish Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/spanish) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Spanish Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/spanish-ma/) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 For questions related to the graduate program offerings in general, please check the frequently asked questions section and, if you do not find and answer to your query, feel free to contact the [Associate Chair for Graduate Studies](mailto:vpueyozo@temple.edu) or the [Graduate Coordinator](mailto:avega1@temple.edu).
