@@ -6,21 +6,17 @@ published: true
  # meta-data variables
 title: Home
 description: >-
- Choose from nine undergraduate and graduate Spanish degree programs at Temple University’s College of 
+ Choose from nine undergraduate and graduate Spanish degree programs at Temple University’s College of
  Liberal Arts. Immerse yourself in this vibrant community and make your goals reality.
 keywords: 'Spanish and Portuguese, undergraduate, graduate'
  # custom variables
 feature: true
-feature-title: NEED A TITLE
+feature-title:
 feature-image: media/Spanish hero.png
-feature-body: >-
-  Specialized courses in business, legal and medical Spanish and
-  translation skills complement our diverse selection of course offerings
-  that allow majors to tailor their learning toward their professional and
-  intellectual goals.
+feature-body:
 ---
 ## Diverse Spanish and Portuguese Educations
-Temple University Spanish degree students can tailor their learning toward their professional and intellectual goals by taking specialized courses in business, legal and medical Spanish and translation skills complimented by diverse Spanish language courses.
+Specialized courses in business, legal and medical Spanish and translation skills complement our diverse selection of course offerings that allow majors to tailor their learning toward their professional and intellectual goals. Temple University Spanish degree students can tailor their learning toward their professional and intellectual goals by taking specialized courses in business, legal and medical Spanish and translation skills complimented by diverse Spanish language courses.
 
 ## Join a Unique and Virbrant Comminuty
 The Department of Spanish and Portuguese is a unique and vibrant community of faculty who teach students of all disciplines at the undergraduate and graduate levels. Our three Spanish major tracks (Language and Professional Studies; Language, Literature and Linguistics; and Spanish for Education) prepare students for the pluralistic, globalized society of the 21st century. They do this through rigorous language training and by providing instruction in the cultures and literature of Spain, Latin America and the Luso-Brazilian world.
