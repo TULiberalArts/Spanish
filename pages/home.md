@@ -18,7 +18,9 @@ feature-body:
 ## Monolingualism can be cured.
 Our students do more than learning a language.  They study the cultural, historic, literary, and linguistic aspects of the Spanish and Portuguese speaking worlds in order to navigate a complex, increasingly globalized world with strong critical thinking and communication skills.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TdrTJbmUiHY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TdrTJbmUiHY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## Diverse Spanish and Portuguese Education
 Specialized courses in business, legal and medical Spanish and translation skills complement our diverse selection of course offerings that allow majors to tailor their learning toward their professional and intellectual goals. Temple University Spanish degree students can tailor their learning toward their professional and intellectual goals by taking specialized courses in business, legal and medical Spanish and translation skills complimented by diverse Spanish language courses.

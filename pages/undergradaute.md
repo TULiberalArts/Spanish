@@ -20,7 +20,9 @@ What do you want to get out of your Spanish or Portuguese education? Read our [S
 
 The Department of Spanish and Portuguese at Temple University prepares students for the pluralistic, globalized society of the twenty-first century not only through rigorous language training, but also by providing undergraduates with a liberal arts education. Through instruction in the languages, cultures, and literatures of Spain, Spanish America, and the Luso-Brazilian world, students acquire bilingual competency in the quintessential liberal arts skills: clear written and oral communication, problem solving competencies and real-world experience. Specialized courses in Business, Legal, Medical Spanish and Translation Skills complement the robust array of language and literature course offerings that allow both majors and non-majors to tailor their learning towards their professional and intellectual goals.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hUEDdq7zl9E?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hUEDdq7zl9E?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 
 In addition to on-campus instruction, the Department facilitates student connections with local and global communities through participation in one of our special programs. These programs include: an intensive immersion program in Spanish and Latin American Studies (LASS); diverse programs abroad, including our Temple Spain Programs; and service learning and internships in areas of business, social service, and education in Philadelphia. Students studying in Spanish and Portuguese are well positioned for life after Temple University. Our students attend graduate, law and medical schools; they enter public service through careers in public policy, international relations and education; and they utilize their language skills in the business and health sectors.

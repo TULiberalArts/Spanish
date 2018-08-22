@@ -13,7 +13,9 @@ keywords: 'latin american studies semester, study abroad, application process'
 ---
 Spanish and Portuguese aren’t restricted to just Spain and Portugal—they’re spoken around the world. So why restrict your Portuguese or Spanish education to just the classroom? enroll in the [Latin American Studies Semester](#latin-american-studies-semester-lass); [study abroad](#study-abroad) in Ecuador, in Spain during the [spring](#temple-spain-spring-semester -program) or [summer](#temple-spain-summer-semester-program), or in [Brazil](#brazil-afro-brazilian-culture-and-popular-brazilian-music-salvador-bahia).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NIBBE9gBkUs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/NIBBE9gBkUs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## About Quito, Ecuador
 High in the Andean mountain range, you’ll find the capital city of Quito. Quito combines modern infrastructure with centuries of history and culture, making it an ideal study abroad destination.
