@@ -11,7 +11,7 @@ description: >-
 keywords: 'latin american studies semester, study abroad, application process'
 # custom variables
 ---
-Spanish and Portuguese aren’t restricted to just Spain and Portugal—they’re spoken around the world. So why restrict your Portuguese or Spanish education to just the classroom? enroll in the [Latin American Studies Semester](#latin-american-studies-semester-lass); [study abroad](#study-abroad) in Ecuador, in Spain during the [spring](#temple-spain-spring-semester -program) or [summer](#temple-spain-summer-semester-program), or in [Brazil](#brazil-afro-brazilian-culture-and-popular-brazilian-music-salvador-bahia).
+Spanish and Portuguese aren’t restricted to just Spain and Portugal—they’re spoken around the world. So why restrict your Portuguese or Spanish education to just the classroom? enroll in the [Latin American Studies Semester](#latin-american-studies-semester-lass); study abroad in [Ecuador](#about-quito-ecuador), in Spain during the [spring](#temple-spain-spring-semester-program) or [summer](#temple-spain-summer-semester-program), or in [Brazil](#brazil-afro-brazilian-culture-and-popular-brazilian-music-salvador-bahia).
 
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/NIBBE9gBkUs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -50,8 +50,6 @@ To be eligible, applicants must:
 - Students will be selected mainly on the basis of their intellectual resolve and emotional maturity. Successful candidates are usually notified within three weeks of receiving a completed application.
 
 A passport is required for traveling to Ecuador. If you do not already have a valid passport, you should apply for one immediately. All students will be asked to provide their passport information the first week of December.  No visa is necessary for US citizens.
-
-- **NEED JOTFORM APPLICATION URL**
 
 ## Temple Spain Spring Semester Program
 ![Spain Spring Semester Study Abroad]({{site.baseurl}}/media/resized Temple Spain Study Abroad.jpg){:.img-right}

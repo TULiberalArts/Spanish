@@ -37,3 +37,12 @@ The purpose of Graduate Students of Language at Temple (GSOLT) is to connect stu
 GSOLT also promotes interdisciplinary discussion of language and conducts workshops for improving student work. Meetings are held in order to plan the spring conference, upcoming workshops and discuss guest speakers. In workshops we discuss project ideas, current projects and issues we are encountering. We also discuss theory and methods to help us progress in our individual projects and understand approaches to language from different disciplines.
 
 Sign up to join [GSOLT](https://temple.campuslabs.com/engage/organization/GSOLT)! For more information contact: [Bryce Bayer](tua90730@temple.edu) and [Katie Clarkson](tug20217@temple.edu)
+
+## Society of Spanish and Spanish-American Studies
+
+The Society of Spanish and Spanish-American Studies promotes bibliographical, critical and pedagogical research in Spanish and Spanish-American studies by publishing works of particular merit in these areas. On occasion, The Society also publishes creative works. SSSAS is a non-profit educational organization.
+
+For any correspondence regarding subscriptions and article submissions please contact the editors at sssas@temple.edu.
+
+Updated information about the journal’s most recent issues may be found at www.sssasalec.com.
+       

@@ -22,8 +22,6 @@ Temple Spanish courses are credit-bearing, immersive language courses taught by 
 - **Thursday, March 29:** Priority registration for Summer 2018 begins
 - **Thursday, April 5:** Priority registration for Fall 2018 begins
 
-**A JOTFORM FOR THE CURRENT CONTACT US FORM NEEDS TO BE CREATED SO I CAN INSERT THE LINK.**
-
 ### Online Course Options
 
 **BASIC SPANISH I (1001)**
