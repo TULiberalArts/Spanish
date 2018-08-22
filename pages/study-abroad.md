@@ -25,7 +25,7 @@ The metro area fills the space between lush mountains (and a couple of volcanoes
 ### Andean Center for Latin American Studies
 The Andean Center for Latin American Studies (ACLAS) is students’ home campus. For over 25 years, ACLAS has hosted U.S. university study abroad programs and supported students through intensive Spanish-language learning, homestay family experiences and travel throughout Ecuador.
 
-### Accomodations
+### Accommodations
 Living with host families in Quito allows students a truly immersive experience. These local families host one LASS student each for maximum cultural and language engagement. Students routinely rate the homestay experience as their favorite part of studying abroad.
 
 All housing offers glimpses of everyday life, with easy access to ACLAS and to city amenities. Homestays include three meals a day (except excursion days) and laundry. Every family has been carefully selected by ACLAS staff in order to ensure a comfortable, enjoyable living situation.
@@ -72,7 +72,7 @@ ___
 ## Latin American Studies Semester (LASS)
 The Latin American Studies Semester (LASS) has been offered every spring semester since 1973. This unique language immersion program is designed to provide an intensive experience in the study of the Spanish language in combination with an interdisciplinary study of life and contemporary issues in Latin America. The prerequisite for participation in LASS is one semester of university-level Spanish or the equivalent (students with more advanced levels of course background are encouraged to participate in the program). LASS integrates several courses, totaling 17-semester hours credit, and must be taken as a package. All courses are taught in Spanish from the first day of class on Temple’s main campus. An integral part of the LASS program is a three-week trip to Quito, Ecuador in March, during which students are placed in local homes where the only language of communication is Spanish. While in Ecuador, students attend courses at the Andean Center for Latin American Studies. Native Spanish-speaking professors teach all courses in Ecuador. All participants in the program may expect to achieve marked improvement in Spanish fluency in only one semester.
 
-https://form.jotform.com/82255597172161
+[LASS application form](https://form.jotform.com/82255597172161)
 
 ### Courses
 LASS courses combine the learning of the Spanish language with the study of the diverse cultures of Latin America. The program is an integration of several courses, totaling 17-semester hours credit, and must be taken as a package. Owing to both the credit-hour load and the semester’s objective: immersion in Spanish and Latin American Studies, no other courses may be taken. Students register for the following courses:

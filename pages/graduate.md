@@ -28,7 +28,7 @@ The Graduate Program in Spanish integrates the study of the three fundamental fi
 ## Graduate Language Exam
 - The Spanish and Portuguese Graduate Language Reading Examinations are administered four times per year: twice during the fall semester and twice during the spring semester. We also administer Catalan exams in our department by request. The department will notify students of their exam results by email.
 
-- Register for Exam https://form.jotform.com/82254341472150
+- [Register for Exam](https://form.jotform.com/82254341472150)
 
 ## MA in Spanish
 The graduate program in Spanish integrates the established fields of Literature and Linguistics. At the M.A. level, the program develops advanced Spanish-language skills for diverse careers and trains students in the exercise of research and pedagogical skills necessary for the pursuit of the Ph.D.
