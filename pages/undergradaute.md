@@ -70,5 +70,4 @@ Our department offers 3 different major tracks allowing students to select cours
 - [Spanish for Education](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-education-option/#requirementstext): The major in Spanish for Education not only prepares students linguistically for their future careers as educators, but also fulfills the Spanish requirements for certification in Spanish for Secondary Education in the College of Education.
 
 ## Online Courses
-**NEED A DESCRIPTION**
 - [Online Courses](https://develop.cla.temple.edu/spanish/undergraduate/#online-courses/)
