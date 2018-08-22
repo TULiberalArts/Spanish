@@ -24,6 +24,11 @@ Specialized courses in business, legal and medical Spanish and translation skill
 ## Join a Unique and Vibrant Community
 The Department of Spanish and Portuguese is a unique and vibrant community of faculty who teach students of all disciplines at the undergraduate and graduate levels. Our three Spanish major tracks (Language and Professional Studies; Language, Literature and Linguistics; and Spanish for Education) prepare students for the pluralistic, globalized society of the 21st century. They do this through rigorous language training and by providing instruction in the cultures and literature of Spain, Latin America and the Luso-Brazilian world.
 
+<div align="center">
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/TdrTJbmUiHY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+___
+
 ## Academic Offerings
 - [BA in Spanish: Language, Literature and Linguistics](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-language-literature-linguistics-option/)
 - [BA in Spanish and Professional Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-language-professional-studies-option/)
