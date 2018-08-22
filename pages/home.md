@@ -15,10 +15,15 @@ feature-title:
 feature-image: media/Spanish hero.png
 feature-body:
 ---
-## Diverse Spanish and Portuguese Educations
+## Monolingualism can be cured.
+Our students do more than learning a language.  They study the cultural, historic, literary, and linguistic aspects of the Spanish and Portuguese speaking worlds in order to navigate a complex, increasingly globalized world with strong critical thinking and communication skills.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TdrTJbmUiHY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Diverse Spanish and Portuguese Education
 Specialized courses in business, legal and medical Spanish and translation skills complement our diverse selection of course offerings that allow majors to tailor their learning toward their professional and intellectual goals. Temple University Spanish degree students can tailor their learning toward their professional and intellectual goals by taking specialized courses in business, legal and medical Spanish and translation skills complimented by diverse Spanish language courses.
 
-## Join a Unique and Virbrant Comminuty
+## Join a Unique and Vibrant Community
 The Department of Spanish and Portuguese is a unique and vibrant community of faculty who teach students of all disciplines at the undergraduate and graduate levels. Our three Spanish major tracks (Language and Professional Studies; Language, Literature and Linguistics; and Spanish for Education) prepare students for the pluralistic, globalized society of the 21st century. They do this through rigorous language training and by providing instruction in the cultures and literature of Spain, Latin America and the Luso-Brazilian world.
 
 ## Academic Offerings
@@ -55,7 +60,7 @@ ___
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
         title="Sign up for an Online Course Today!"
-        content="NEED ONTENT FROM INSTAPAGE AD"
+        content="Advance with online credit-bearing beginning-advanced Spanish courses"
         image=""
         button-link="/spanish/undergraduate#online-courses/"
         button-text="Learn More" %}
