@@ -16,13 +16,13 @@ feature-image: media/Spanish hero.png
 feature-body:
 ---
 ## Monolingualism can be cured.
-Our students do more than learning a language.  They study the cultural, historic, literary, and linguistic aspects of the Spanish and Portuguese speaking worlds in order to navigate a complex, increasingly globalized world with strong critical thinking and communication skills.
+Our students do more than learn a language. They study the cultural, historic, literary and linguistic aspects of the Spanish and Portuguese-speaking worlds in order to navigate a complex, increasingly globalized world with strong critical thinking and communication skills.
 
 ## Diverse Spanish and Portuguese Education
-Specialized courses in business, legal and medical Spanish and translation skills complement our diverse selection of course offerings that allow majors to tailor their learning toward their professional and intellectual goals. Temple University Spanish degree students can tailor their learning toward their professional and intellectual goals by taking specialized courses in business, legal and medical Spanish and translation skills complimented by diverse Spanish language courses.
+Specialized courses in business, legal and medical Spanish and translation skills complement our diverse courses. This course mix allows you to tailor your learning toward your professional and intellectual goals.
 
 ## Join a Unique and Vibrant Community
-The Department of Spanish and Portuguese is a unique and vibrant community of faculty who teach students of all disciplines at the undergraduate and graduate levels. Our three Spanish major tracks (Language and Professional Studies; Language, Literature and Linguistics; and Spanish for Education) prepare students for the pluralistic, globalized society of the 21st century. They do this through rigorous language training and by providing instruction in the cultures and literature of Spain, Latin America and the Luso-Brazilian world.
+The Department of Spanish and Portuguese is a unique and vibrant community of faculty who teach students of all disciplines at the undergraduate and graduate levels. Our three Spanish major tracks (Language and Professional Studies; Language, Literature and Linguistics; and Spanish for Education) prepare students for the 21st century’s pluralistic, globalized society. They do this through rigorous language training and by providing instruction in the cultures and literature of Spain, Latin America and the Luso-Brazilian world.
 
 <div class="container video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/TdrTJbmUiHY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
