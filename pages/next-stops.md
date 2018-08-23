@@ -14,9 +14,9 @@ keywords: 'transfer, apply, visit, international, careers, study abroad'
 Spanish degree graduates and Portuguese course graduates have a range of career options —just look at where some of our [notable alumni](#notable-alumni) have landed. So, what are you waiting for? [Make your declaration](#make-your-declaration), [visit us](#visit-us), take a look at your [transfer](#thinking-of-transferring) options and [apply](#apply) ahead of our upcoming [deadlines](#deadlines).
 
 ## Careers
-Students graduating with a major in Spanish enter careers in diverse fields.  Recent alumni have found employment in local and federal government positions, social work, healthcare, education, human resources, insurance, tourism and hospitality, journalism and NGOs. In addition, majors have begun post-secondary studies in medical schools, law schools, physical therapy, anthropology, sociology, Spanish, linguistics and education.
+Spanish major graduates from the College of Liberal Arts enter careers in diverse fields. Recent alumni have found employment in local and federal government positions, social work, healthcare, education, human resources, insurance, tourism and hospitality, journalism, and NGOs. In addition, majors have begun post-secondary studies in medical schools, law schools, physical therapy, anthropology, sociology, Spanish, linguistics and education.
 
-Our alumni have gone on to successful and meaningful careers in the following areas (among many others):
+Some of the industries our alumni have enjoyed successful and meaningful careers in are:
 - Local and federal government positions
 - Social work
 - Healthcare
@@ -50,7 +50,7 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 ___  
 
 ## Make Your Declaration
-The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
+The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests–from the humanities and social sciences to business and the media arts.
 
 For a complete list of our academic offerings visit [liberalarts.temple.edu](http://liberalarts.temple.edu)
 
