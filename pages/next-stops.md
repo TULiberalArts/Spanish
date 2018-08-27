@@ -11,7 +11,7 @@ description: >-
 keywords: 'transfer, apply, visit, international, careers, study abroad'
 # custom variables
 ---
-Spanish degree graduates and Portuguese course graduates have a range of career options —just look at where some of our [notable alumni](#notable-alumni) have landed. So, what are you waiting for? [Make your declaration](#make-your-declaration), [visit us](#visit-us), take a look at your [transfer](#thinking-of-transferring) options and [apply](#apply) ahead of our upcoming [deadlines](#deadlines).
+Spanish degree graduates and Portuguese course graduates have a range of career options—just look at where some of our [notable alumni](#notable-alumni) have landed. So, what are you waiting for? [Make your declaration](#make-your-declaration), [visit us](#visit-us), take a look at your [transfer](#thinking-of-transferring) options and [apply](#apply) ahead of our upcoming [deadlines](#deadlines).
 
 ## Careers
 Spanish major graduates from the College of Liberal Arts enter careers in diverse fields. Recent alumni have found employment in local and federal government positions, social work, healthcare, education, human resources, insurance, tourism and hospitality, journalism, and NGOs. In addition, majors have begun post-secondary studies in medical schools, law schools, physical therapy, anthropology, sociology, Spanish, linguistics and education.
