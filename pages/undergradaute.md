@@ -68,4 +68,4 @@ Choose from three different major tracks allowing you to select courses from eac
 - [Spanish for Education](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-education-option/#requirementstext): The Spanish for Education major not only prepares students linguistically for their future careers as educators, but also fulfills the College of Education’s Spanish requirements for certification in Spanish for Secondary Education.
 
 ## Online Courses
-- [Online Courses](https://develop.cla.temple.edu/spanish/online-courses/)
+- [Online Courses](https://develop.cla.temple.edu/spanish/undergraduate/online-courses/)
