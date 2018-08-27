@@ -12,7 +12,7 @@ description: >-
 keywords: 'internships, latin american studies semester, study abroad, application process, spanish club, GSOLT, awards and scholarships'
 # custom variables
 ---
-Spanish and Portuguese aren’t restricted to just Spain and Portugal—they’re spoken around the world. So why restrict your Portuguese or Spanish education to just the classroom? Start an internship; apply for [awards and scholarships](#awards-and-scholarships); join the [Club de Español](#club-de-español) or the [Graduate Students of Language at Temple](#graduate-students-of-language-at-temple-gsolt); or get involved with the [Hispanic Readings Blog](#hispanic-readings-blog).
+Spanish and Portuguese aren’t restricted to just Latin America, Spain and Portugal—they’re spoken around the world. So why restrict your Portuguese or Spanish education to just the classroom? Start an internship; apply for [awards and scholarships](#awards-and-scholarships); join the [Club de Español](#club-de-español) or the [Graduate Students of Language at Temple](#graduate-students-of-language-at-temple-gsolt).
 
 ## Internships
 The Department of Spanish and Portuguese maintains relationships with a variety of organizations throughout Philadelphia, offering students ample volunteer, community service, research and internship opportunities. Students gain real-world language and work experience through this experiential learning, increasing their skills and confidence.
