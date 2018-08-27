@@ -24,9 +24,12 @@ Specialized courses in business, criminal justice and medical Spanish and transl
 ## Join a Unique and Vibrant Community
 The Department of Spanish and Portuguese is a unique and vibrant community of faculty who teach students of all disciplines at the undergraduate and graduate levels. Our three Spanish major tracks (Language and Professional Studies; Language, Literature and Linguistics; and Spanish for Education) prepare students for the 21st century’s pluralistic, globalized society. They do this through rigorous language training and by providing instruction in the cultures and literature of Spain, Latin America and the Luso-Brazilian world.
 
+___
+
 <div class="container video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/TdrTJbmUiHY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
 ___
 
 ## Academic Offerings
