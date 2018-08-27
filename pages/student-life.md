@@ -12,7 +12,7 @@ description: >-
 keywords: 'internships, latin american studies semester, study abroad, application process, spanish club, GSOLT, awards and scholarships'
 # custom variables
 ---
-Spanish and Portuguese aren’t restricted to just Spain and Portugal—they’re spoken around the world. So why restrict your Portuguese or Spanish education to just the classroom? Start an internship; apply for [awards and scholarships](#awards-and-scholarships); join the [Club de Espanol](#club-de-espanol) or the [Graduate Students of Language at Temple](#graduate-students-of-language-at-temple-gsolt); or get involved with the [Hispanic Readings Blog](#hispanic-readings-blog).
+Spanish and Portuguese aren’t restricted to just Spain and Portugal—they’re spoken around the world. So why restrict your Portuguese or Spanish education to just the classroom? Start an internship; apply for [awards and scholarships](#awards-and-scholarships); join the [Club de Español](#club-de-español) or the [Graduate Students of Language at Temple](#graduate-students-of-language-at-temple-gsolt); or get involved with the [Hispanic Readings Blog](#hispanic-readings-blog).
 
 ## Internships
 The Department of Spanish and Portuguese maintains relationships with a variety of organizations throughout Philadelphia, offering students ample volunteer, community service, research and internship opportunities. Students gain real-world language and work experience through this experiential learning, increasing their skills and confidence.
@@ -26,7 +26,7 @@ Exceptional students may apply to become members of the prestigious Spanish Hono
 
 For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4579&field_awards_academics_class_value=All) page.
 
-## Club de Espanol
+## Club de Español
 The Spanish Club is a student organization, and its principal goal is to promote the practice of speaking Spanish. One way we achieve this goal is through conversation tables, which allow you to practice your conversation skills in a relaxed environment once a week. We also invite you to join us in celebrating the Hispanic culture all year round with different activities. The Spanish Club meets weekly throughout the semester on Mondays from 4-5 p.m. in 422 Anderson Hall.
 
 Everyone is welcome to join the Spanish Club, and you’re still able to participate in our events even if you don’t become a member. Stop by our meetings and bring friends!
@@ -40,9 +40,12 @@ GSOLT also promotes interdisciplinary discussion of language and conducts worksh
 Sign up to join [GSOLT](https://temple.campuslabs.com/engage/organization/GSOLT)! For more information contact: [Bryce Bayer](tua90730@temple.edu) and [Katie Clarkson](tug20217@temple.edu)
 
 ## Society of Spanish and Spanish-American Studies
-
 The Society of Spanish and Spanish American Studies (SSSAS) promotes bibliographical, critical and pedagogical research in Spanish and Spanish American studies by publishing works of particular merit in these areas. On occasion, the Society also publishes creative works. SSSAS is a nonprofit educational organization.
 
-For any correspondence regarding subscriptions and article submissions please contact the editors at sssas@temple.edu.
+- For any correspondence regarding subscriptions and article submissions please contact the editors at [sssas@temple.edu](mailto:sssas@temple.edu)
+- Updated information about the journal’s most recent issues may be found at [www.sssasalec.com](http://sssasalec.blogspot.com/).
 
-Updated information about the journal’s most recent issues may be found at www.sssasalec.com
+## Scholarly Journals
+- _Anales de la literatura española contemporánea_ (ISSN: 0272-1635): ALEC publishes scholarly articles studying all aspects of twentieth and twenty-first century Spanish literature (from “modernism” and the so-called generation of 1898).
+- _Journal of Spanish Studies: Twentieth Century_ (ISSN: 0092-1827).
+- Siglo XX/ 20th Century (ISSN: 0740-946X
