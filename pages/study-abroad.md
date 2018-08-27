@@ -22,7 +22,7 @@ Spanish degree and Portuguese course students have many exciting study abroad op
 ___
 
 
-## Program Overview
+### Program Overview
 The Latin American Studies Semester has been offered every spring semester since 1973. This unique language immersion program provides you with an intensive experience studying the Spanish language in combination with an interdisciplinary study of life and contemporary issues in Latin America. 
 
 The prerequisite for participation in LASS is one semester of university-level Spanish or the equivalent (students with more advanced levels of course background are encouraged to participate in the program). LASS integrates several courses, totaling 17-semester-hour credits, and must be taken as a package. All courses are taught in Spanish from the first day of class on Temple’s main campus. 
