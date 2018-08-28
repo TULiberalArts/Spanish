@@ -51,4 +51,4 @@ For questions related to the graduate program offerings in general, please check
 
 - **[Graduate Teaching Assistants](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Teaching%20Assistants.pdf)**
 
-  {% include graduate-students_2.html %}
+  {% include profiles/graduate-students_2.html %}
