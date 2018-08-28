@@ -10,6 +10,8 @@ description: >-
  Liberal Arts. Immerse yourself in this vibrant community and make your goals reality.
 keywords: 'Spanish and Portuguese, undergraduate, graduate'
  # custom variables
+promotion-table: true
+sidebar: false
 feature: true
 feature-title:
 feature-image: media/Spanish hero.png
@@ -19,7 +21,7 @@ feature-body:
 Our undergraduate students do more than learn a language. They study the cultural, historic, literary and linguistic aspects of the Spanish and Portuguese-speaking worlds in order to navigate a complex, increasingly globalized world with strong critical thinking and communication skills.
 
 ## Diverse Spanish and Portuguese Educations
-Specialized courses in business, criminal justice and medical Spanish and translation/interpretation skills complement our diverse courses. This course mix allows you to tailor your learning toward your professional and intellectual goals. 
+Specialized courses in business, criminal justice and medical Spanish and translation/interpretation skills complement our diverse courses. This course mix allows you to tailor your learning toward your professional and intellectual goals.
 
 ## Join a Unique and Vibrant Community
 The Department of Spanish and Portuguese is a unique and vibrant community of faculty who teach students of all disciplines at the undergraduate and graduate levels. Our three Spanish major tracks (Language and Professional Studies; Language, Literature and Linguistics; and Spanish for Education) prepare students for the 21st century’s pluralistic, globalized society. They do this through rigorous language training and by providing instruction in the cultures and literature of Spain, Latin America and the Luso-Brazilian world.
