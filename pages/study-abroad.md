@@ -74,6 +74,8 @@ To be eligible, applicants must:
 
 A passport is required for traveling to Ecuador. If you do not already have a valid passport, you should apply for one immediately. All students will be asked to provide their passport information the first week of December. No visa is necessary for U.S. citizens.
 
+___
+
 ## Temple Spain Spring Semester Program
 ![Spain Spring Semester Study Abroad]({{site.baseurl}}/media/resized Temple Spain Study Abroad.jpg){:.img-right}
 Are you committed to developing your Spanish language skills and understanding of Hispanic culture? The College of Liberal Arts’ (CLA) semester study abroad programs offer an unparalleled opportunity for you. Our programs provide an immersive linguistic and cultural experience, combining in-class language instruction with a home stay and daily interaction with local citizens.
