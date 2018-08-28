@@ -69,5 +69,3 @@ Choose from three different major tracks allowing you to select courses from eac
 
 ## Online Courses
 - [Online Courses](https://develop.cla.temple.edu/spanish/undergraduate/online-courses/)
-
-- **[Undergraduate Policies and Procedures](https://liberalarts.temple.edu/sites/liberalarts/files/Spanish-%20Undergraduate%20Policies%20and%20Procedures.pdf)**
