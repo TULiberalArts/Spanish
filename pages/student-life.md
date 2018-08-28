@@ -45,6 +45,18 @@ The Society of Spanish and Spanish American Studies (SSSAS) promotes bibliograph
 - For any correspondence regarding subscriptions and article submissions please contact the editors at [sssas@temple.edu](mailto:sssas@temple.edu)
 - Updated information about the journal’s most recent issues may be found at [www.sssasalec.com](http://sssasalec.blogspot.com/).
 
+## Hispanic Readings Blog
+Welcome to The Hispanic Readings Blog (Spanish 2002/2902) of the Department of Spanish and Portuguese at Temple University.
+
+Hispanic Readings is a course for students interested in the literature and cultures of peoples throughout the Spanish-speaking world. This course will enable students to discover the rich contributions of not only Spain but also Latin America to literature and mass communications (e.g. newspapers, magazines).
+
+As students read short stories, essays, and articles, they will deepen their knowledge of the authors and their life experiences as well as examine current trends in literature and journalism. In this course students will write a short story, which will give them the opportunity to be creative in a language other than English and put into practice what they have learned.
+
+In this blog, we will publish the best stories written by students each semester and include their comments as they make their way through the world of Hispanic readings.
+
+- **[Finalistas](https://liberalarts.temple.edu/sites/liberalarts/files/FINALISTAS.pdf)**
+- **[Comentarios de Hispanic Readings](https://liberalarts.temple.edu/sites/liberalarts/files/Comentarios%20de%20Hispanic%20Readings%20Fall%202016.pdf)**
+
 ## Scholarly Journals
 - _Anales de la literatura española contemporánea_ (ISSN: 0272-1635): ALEC publishes scholarly articles studying all aspects of twentieth and twenty-first century Spanish literature (from “modernism” and the so-called generation of 1898).
 - _Journal of Spanish Studies: Twentieth Century_ (ISSN: 0092-1827).
