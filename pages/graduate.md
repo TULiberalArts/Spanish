@@ -49,7 +49,6 @@ For questions related to the graduate program offerings in general, please check
 
 - [Register for Exam](https://form.jotform.com/82254341472150)
 
+- **[Graduate Teaching Assistants](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Teaching%20Assistants.pdf)**
 
   {% include graduate-students_2.html %}
-
-- **[Graduate Teaching Assistants](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Teaching%20Assistants.pdf)**
