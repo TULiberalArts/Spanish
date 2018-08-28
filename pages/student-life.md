@@ -55,7 +55,7 @@ As students read short stories, essays, and articles, they will deepen their kno
 In this blog, we will publish the best stories written by students each semester and include their comments as they make their way through the world of Hispanic readings.
 
 - **[Finalistas](https://liberalarts.temple.edu/sites/liberalarts/files/FINALISTAS.pdf)**
-- **[Comentarios de Hispanic Readings](https://liberalarts.temple.edu/sites/liberalarts/files/Comentarios%20de%20Hispanic%20Readings%20Fall%202016.pdf)
+- **[Comentarios de Hispanic Readings](https://liberalarts.temple.edu/sites/liberalarts/files/Comentarios%20de%20Hispanic%20Readings%20Fall%202016.pdf)**
 
 ## Scholarly Journals
 - _Anales de la literatura española contemporánea_ (ISSN: 0272-1635): ALEC publishes scholarly articles studying all aspects of twentieth and twenty-first century Spanish literature (from “modernism” and the so-called generation of 1898).
