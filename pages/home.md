@@ -14,7 +14,7 @@ promotion-table: true
 sidebar: false
 feature: true
 feature-title:
-feature-image: media/Spanish hero.png
+feature-image: media/newhero.png
 feature-body:
 ---
 ## Monolingualism Can Be Cured
