@@ -13,13 +13,13 @@ keywords: 'Spanish and Portuguese, undergraduate, graduate'
 promotion-table: true
 sidebar: false
 feature: true
-feature-title:
+feature-title: Monolingualism Can Be Cured
 feature-image: media/newhero.png
-feature-body:
+feature-body: >-
+ Our students study the cultural, historic, literary and linguistic aspects of the Spanish and
+ Portuguese-speaking worlds in order to navigate a complex, increasingly globalized world with 
+ strong critical thinking and communication skills.
 ---
-## Monolingualism Can Be Cured
-Our undergraduate students do more than learn a language. They study the cultural, historic, literary and linguistic aspects of the Spanish and Portuguese-speaking worlds in order to navigate a complex, increasingly globalized world with strong critical thinking and communication skills.
-
 ## Diverse Spanish and Portuguese Educations
 Specialized courses in business, criminal justice and medical Spanish and translation/interpretation skills complement our diverse courses. This course mix allows you to tailor your learning toward your professional and intellectual goals.
 
