@@ -61,3 +61,11 @@ To have a session in Spanish, students must make an appointment with one of the 
  - View a list of Doctor of Philosophy [dissertations](https://liberalarts.temple.edu/sites/liberalarts/files/Doctor%20of%20Philosophy%20Dissertations.pdf) that have been completed between 1973 and the present in the Department of Spanish and Portuguese.
 - Have a question about the graduate program in the Department of Spanish and Portuguese? View our [FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Program%20FAQ.pdf).
 - For more information about M.A. and Ph.D. degree requirements, please review the [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf).
+
+## Newsletter Archive
+- [Newsletter Vol. 1, No. 1, September 2015](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=b3f8dd0355) 
+- [Newsletter Vol. 1, No. 2, November 2015 ](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=252f2f1f90)
+- [Newsletter Vol. 1, No. 3, January 2016 ](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=5b945bfda1)
+- [Newsletter Vol. 1, No. 4, March 2016  ](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=0ab644229d)
+- [Newsletter Vol. 2, No. 1, September 2016](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=23ded308e8&e=0fa6818824)
+- [Newsletter Vol. 2, No. 2, February 2017](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=d8f663bc63)
