@@ -52,3 +52,5 @@ The Spanish and Portuguese Graduate Language Reading Examinations are administer
 - [Register for Exam](https://form.jotform.com/82254341472150)
 
 - **[Graduate Teaching Assistants](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Teaching%20Assistants.pdf)**
+
+{% include {{ page.graduate_students_content }} %}
