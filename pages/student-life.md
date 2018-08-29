@@ -11,6 +11,8 @@ description: >-
  Also check out the Hispanic Readings Blog, and our offered awards and scholarships.
 keywords: 'internships, latin american studies semester, study abroad, application process, spanish club, GSOLT, awards and scholarships'
 # custom variables
+sidebar: trure
+sidebar_content: sidebars/student-life.html
 ---
 Spanish and Portuguese aren’t restricted to just Latin America, Spain and Portugal—they’re spoken around the world. So why restrict your Portuguese or Spanish education to just the classroom? Start an internship; apply for [awards and scholarships](#awards-and-scholarships); join the [Club de Español](#club-de-español) or the [Graduate Students of Language at Temple](#graduate-students-of-language-at-temple-gsolt).
 
