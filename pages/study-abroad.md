@@ -52,6 +52,7 @@ The Andean Center for Latin American Studies (ACLAS) will be your home campus wh
 Living with host families in Quito gives students a truly immersive experience. These local families host one LASS student each for maximum cultural and language engagement. Students routinely rate the homestay experience as their favorite part of studying abroad.
 
 All housing offers glimpses of everyday life, with easy access to ACLAS and to city amenities. Homestays include three meals a day (except excursion days) and laundry. Every family has been carefully selected by ACLAS staff in order to ensure a comfortable, enjoyable living situation.
+- **[Family Preference Form](https://form.jotform.com/pugliese/formulario-preferencias-familiares)**
 
 ### Cost
 The 17-semester-hour credits program includes an additional fee of $1,000. Please note this fee is subject to change. The fee is incorporated into the tuition for one of the LASS courses and is paid as part of the student spring registration. The fee covers: housing, meals, courses and trips in Ecuador. Students are responsible for separately purchasing their airline tickets and making their own arrangements.
