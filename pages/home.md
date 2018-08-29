@@ -20,11 +20,11 @@ feature-body: >-
  Portuguese-speaking worlds in order to navigate a complex, increasingly globalized world with 
  strong critical thinking and communication skills.
 ---
-## Diverse Spanish and Portuguese Educations
-Specialized courses in business, criminal justice and medical Spanish and translation/interpretation skills complement our diverse courses. This course mix allows you to tailor your learning toward your professional and intellectual goals.
-
 ## Join a Unique and Vibrant Community
 The Department of Spanish and Portuguese is a unique and vibrant community of faculty who teach students of all disciplines at the undergraduate and graduate levels. Our three Spanish major tracks (Language and Professional Studies; Language, Literature and Linguistics; and Spanish for Education) prepare students for the 21st century’s pluralistic, globalized society. They do this through rigorous language training and by providing instruction in the cultures and literature of Spain, Latin America and the Luso-Brazilian world.
+
+## Diverse Spanish and Portuguese Educations
+Specialized courses in business, criminal justice and medical Spanish and translation/interpretation skills complement our diverse courses. This course mix allows you to tailor your learning toward your professional and intellectual goals.
 
 ___
 
@@ -62,7 +62,7 @@ ___
       title="Latin American Studies Semester"
       content="Each spring semester, the Department of Spanish and Portuguese offers a 17-credit immersion program in Latin American Studies and Spanish, culminating in a three-week trip to Ecuador."
       image=""
-      button-link="student-life#latin-american-studies-semester-lass"
+      button-link="/spanish#study-abroad/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
