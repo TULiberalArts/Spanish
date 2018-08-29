@@ -9,7 +9,7 @@ description: >-
 keywords: ''
 # custom variables
 sidebar: true
-sidebar_content: sidebars/undergraduate.html
+sidebar_content: sidebars/resources.html
 ---
 Temple University Spanish degree and Portuguese course students have a number of resources available to help them along during their college experience. Take a look at our available [undergraduate](#current-undergraduate-student-resources) and [graduate student](##current-graduate-student-resources) resources.
 
@@ -23,7 +23,7 @@ Advising: Where Do I Go If I Have Questions About:
 - **Certificates:** [Josh Pongan](mailto:joshua.pongan@temple.edu)
 - **Course(s) taken elsewhere:** [Patricia Moore-Martínez](mailto:pmoore04@temple.edu)
 - **Graduate students:** [Víctor Pueyo Zoco](mailto:vpueyozo@temple.edu)
-- **Spanish Graduate Reading Exam:** [Jonathan Holmquist](mailto:jholmqui@temple.edu)
+- **Spanish Graduate Reading Exam:** [Adam Shellhorse](mailto:aj.shellhorse@temple.edu)
 - **Portuguese Graduate Reading Exam:** [Adam Shellhorse](mailto:aj.shellhorse@temple.edu)
 - **Latin American Studies Semester (LASS):** [Hiram Aldarondo](mailto:hiram.aldarondo@temple.edu)(Program Director), [Patricia Moore-Martinez](mailto:pmoore04@temple.edu)(Coordinator)
 - **Majors (course selection and registration, sign additional drop forms, career development, referrals):** [Patricia Moore-Martínez](mailto:pmoore04@temple.edu)
@@ -31,8 +31,8 @@ Advising: Where Do I Go If I Have Questions About:
 - **Non-major:** [Josh Pongan](mailto:joshua.pongan@temple.edu)
 - **Placement test scores (retrieve and interpret):** [Patricia Moore-Martínez](mailto:pmoore04@temple.edu)
 - **Portuguese Minor and Brazilian Studies:** [Adam Shellhorse](mailto:aj.shellhorse@temple.edu)
-- **Sigma Delta Pi:** [Carolyn Phipps](mailto:cphipps@temple.edu), [Alira Ashvo-Muñoz](mailto:aashvomu@temple.edu)
-- **Study Abroad:** [Paul Toth](mailto:ptoth@temple.edu)
+- **Sigma Delta Pi:** [Thomas Morton](mailto:Tmorton@temple.edu), [Norma Corrales-Martin](mailto:ncm@temple.edu)
+- **Study Abroad:** [Augusto Lorenzino](mailto:augusto.lorenzino@temple.edu)
 - **Transfer Credit:** [Patricia Moore-Martínez](mailto:pmoore04@temple.edu)
 - **Coordinator of Spanish 1003, 1903, 2001, 2002, 2096, 2901, 2902, and 2903:** [Marcela Pardes](mailto:mpardes@temple.edu)
 - **Coordinator of Spanish: 1001, 1901, 1002, and 1902:** [Josh Pongan](mailto:joshua.pongan@temple.edu)
@@ -40,14 +40,13 @@ Advising: Where Do I Go If I Have Questions About:
 ### Tutoring
 If you are in need of a tutor to help you with your Spanish class, our department has graduate students/TA’s that are willing to meet with you for a fee. Please feel free to contact them with any questions.
 
-AY 2017-18 Available Spanish Tutors
+AY 2018- 19 Available Spanish Tutors
 - [Kaltra Marku](mailto:tuc33373@temple.edu)
-- [Benjamin Gibson](mailto:tug79978@temple.edu)
 - [Laura Arevalo Catalan](mailto:tue64356@temple.edu)
 - [José Guillermo Rodríguez-Plaza](mailto:tue64356@temple.edu)
 
-AY 2017-18 Available Portuguese Tutors
-- [Daniel Raso](mailto:tue67688@temple.edu)
+AY 2018-19 Available Portuguese Tutors
+- Renata Pontes
 
 **Note:** You may also contact the Russell Conwell Learning Center, Suite 202, 1700 N. Broad St., Phila, PA 19122 at [(215) 204-1252](tel:2152041252). They may have undergraduate students that will tutor for free.
 
@@ -61,6 +60,11 @@ To have a session in Spanish, students must make an appointment with one of the 
  - View a list of Doctor of Philosophy [dissertations](https://liberalarts.temple.edu/sites/liberalarts/files/Doctor%20of%20Philosophy%20Dissertations.pdf) that have been completed between 1973 and the present in the Department of Spanish and Portuguese.
 - Have a question about the graduate program in the Department of Spanish and Portuguese? View our [FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Program%20FAQ.pdf).
 - For more information about M.A. and Ph.D. degree requirements, please review the [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf).
+
+## Department Journal
+_Anales de la literatura española contemporánea_ (ISSN: 0272-1635): ALEC publishes scholarly articles studying all aspects of twentieth and twenty-first century Spanish literature (from “modernism” and the so-called generation of 1898). The journal is part of The Society of Spanish and Spanish-American Studies (SSSAS). SSSAS promotes bibliographical, critical and pedagogical research in Spanish and Spanish-American studies by publishing works of particular merit in these areas. On occasion, The Society also publishes creative works. SSSAS is a non-profit educational organization.
+
+For any correspondence regarding subscriptions and article submissions please contact the editors at [sssas@temple.edu](mailto:sssas@temple.edu). Updated information about the journal’s most recent issues may be found at [www.sssasalec.com](http://sssasalec.blogspot.com/).
 
 ## Newsletter Archive
 - [Newsletter Vol. 1, No. 1, September 2015](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=b3f8dd0355) 
