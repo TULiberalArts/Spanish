@@ -47,7 +47,7 @@ Please visit the [Spanish Graduate Bulletin](http://bulletin.temple.edu/graduate
 For questions related to the graduate program offerings in general, please check the [frequently asked questions](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Program%20FAQ.pdf) and, if you don’t find the answer you need, feel free to contact the [Associate Chair for Graduate Studies](mailto:vpueyozo@temple.edu) or the [Graduate Coordinator](mailto:avega1@temple.edu).
 
 ## Graduate Language Exam
-•	The Spanish and Portuguese Graduate Language Reading Examinations are administered four times per year: twice during the fall semester and twice during the spring semester. We also administer Catalan exams in our department by request. The department will notify students of their exam results by email.
+The Spanish and Portuguese Graduate Language Reading Examinations are administered four times per year: twice during the fall semester and twice during the spring semester. We also administer Catalan exams in our department by request. The department will notify students of their exam results by email.
 
 - [Register for Exam](https://form.jotform.com/82254341472150)
 
