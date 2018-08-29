@@ -13,7 +13,7 @@ description: >-
 sidebar: true
 sidebar_content: sidebars/graduate.html
 graduate_students: true
-graduate_students_content: profiles/graduate_student_2.html
+graduate_students_content: profiles/graduate_students_2.html
 ---
 Want to take your language skills and cultural knowledge to the next level? Take a look at the [program overview](#graduate-program-overview) and [program goals](#program-goals) for our Spanish [master’s degree](#ma-in-spanish) and Spanish [PhD](#phd-in-spanish). If you think you’re ready to get started, you should review your [financial support](#financial-support) options and our [admissions process](#admissions-process) before you [apply](#apply).
 
@@ -52,3 +52,5 @@ The Spanish and Portuguese Graduate Language Reading Examinations are administer
 - [Register for Exam](https://form.jotform.com/82254341472150)
 
 - **[Graduate Teaching Assistants](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Teaching%20Assistants.pdf)**
+
+{% include {{ page.graduate_students_content }} %}
