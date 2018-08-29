@@ -14,7 +14,7 @@ promotion-table: true
 sidebar: false
 feature: true
 feature-title: Monolingualism Can Be Cured
-feature-image: media/Spanish hero.png
+feature-image: media/newhero.png
 feature-body: >-
  Our students study the cultural, historic, literary and linguistic aspects of the Spanish and
  Portuguese-speaking worlds in order to navigate a complex, increasingly globalized world with 
