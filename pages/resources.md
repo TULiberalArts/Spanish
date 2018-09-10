@@ -23,14 +23,14 @@ Advising: Where Do I Go If I Have Questions About:
 - **Certificates:** [Josh Pongan](mailto:joshua.pongan@temple.edu)
 - **Course(s) taken elsewhere:** [Patricia Moore-Martínez](mailto:pmoore04@temple.edu)
 - **Graduate students:** [Víctor Pueyo Zoco](mailto:vpueyozo@temple.edu)
-- **Spanish Graduate Reading Exam:** [Adam Shellhorse](mailto:aj.shellhorse@temple.edu)
-- **Portuguese Graduate Reading Exam:** [Adam Shellhorse](mailto:aj.shellhorse@temple.edu)
+- **Spanish Graduate Reading Exam:** [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
+- **Portuguese Graduate Reading Exam:** [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
 - **Latin American Studies Semester (LASS):** [Hiram Aldarondo](mailto:hiram.aldarondo@temple.edu)(Program Director), [Patricia Moore-Martinez](mailto:pmoore04@temple.edu)(Coordinator)
 - **Majors (course selection and registration, sign additional drop forms, career development, referrals):** [Patricia Moore-Martínez](mailto:pmoore04@temple.edu)
 - **Minors (course selection and registration):** [Patricia Moore-Martínez](mailto:pmoore04@temple.edu)
 - **Non-major:** [Josh Pongan](mailto:joshua.pongan@temple.edu)
 - **Placement test scores (retrieve and interpret):** [Patricia Moore-Martínez](mailto:pmoore04@temple.edu)
-- **Portuguese Minor and Brazilian Studies:** [Adam Shellhorse](mailto:aj.shellhorse@temple.edu)
+- **Portuguese Minor and Brazilian Studies:** [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
 - **Sigma Delta Pi:** [Thomas Morton](mailto:Tmorton@temple.edu), [Norma Corrales-Martin](mailto:ncm@temple.edu)
 - **Study Abroad:** [Augusto Lorenzino](mailto:augusto.lorenzino@temple.edu)
 - **Transfer Credit:** [Patricia Moore-Martínez](mailto:pmoore04@temple.edu)
@@ -46,7 +46,7 @@ AY 2018- 19 Available Spanish Tutors
 - [José Guillermo Rodríguez-Plaza](mailto:tue64356@temple.edu)
 
 AY 2018-19 Available Portuguese Tutors
-- Renata Pontes
+- [Renata Pontes](mailto:tuh34211@temple.edu)
 
 **Note:** You may also contact the Russell Conwell Learning Center, Suite 202, 1700 N. Broad St., Phila, PA 19122 at [(215) 204-1252](tel:2152041252). They may have undergraduate students that will tutor for free.
 
