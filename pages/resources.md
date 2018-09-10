@@ -15,7 +15,7 @@ Temple University Spanish degree and Portuguese course students have a number of
 
 ## Current Undergraduate Student Resources
 - [Spring 2017 Course Catalog](https://liberalarts.temple.edu/sites/liberalarts/files/Spanish-and-Portuguese-Course-Catalog-Fall-2016.pdf)
-- [Policies and Procedures](https://liberalarts.temple.edu/sites/liberalarts/files/Spanish-%20Undergraduate%20Policies%20and%20Procedures.pdf)
+- [Policies and Procedures](https://liberalarts.temple.edu/sites/liberalarts/files/Departmental%20Policies%20Sept%202014-2%20%281%29.pdf)
 
 ### Advising Resources
 Advising: Where Do I Go If I Have Questions About:
