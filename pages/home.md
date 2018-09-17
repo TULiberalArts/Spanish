@@ -13,13 +13,11 @@ keywords: 'Spanish and Portuguese, undergraduate, graduate'
 promotion-table: true
 sidebar: false
 feature: true
-feature-title: Monolingualism Can Be Cured
 feature-image: media/newhero.png
-feature-body: >-
- Our students study the cultural, historic, literary and linguistic aspects of the Spanish and
- Portuguese-speaking worlds in order to navigate a complex, increasingly globalized world with 
- strong critical thinking and communication skills.
 ---
+## Monolingualism Can Be Cured
+Our students study the cultural, historic, literary and linguistic aspects of the Spanish and Portuguese-speaking worlds in order to navigate a complex, increasingly globalized world with strong critical thinking and communication skills.
+
 ## Join a Unique and Vibrant Community
 The Department of Spanish and Portuguese is a unique and vibrant community of faculty who teach students of all disciplines at the undergraduate and graduate levels. Our three Spanish major tracks (Language and Professional Studies; Language, Literature and Linguistics; and Spanish for Education) prepare students for the 21st century’s pluralistic, globalized society. They do this through rigorous language training and by providing instruction in the cultures and literature of Spain, Latin America and the Luso-Brazilian world.
 
