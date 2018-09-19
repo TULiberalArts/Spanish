@@ -26,7 +26,7 @@ Specialized courses in business, criminal justice and medical Spanish and transl
 
 ___
 
-<div class="container video-container">
+<div class="video-container">
   <iframe width="800" height="400" src="https://www.youtube.com/embed/TdrTJbmUiHY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
