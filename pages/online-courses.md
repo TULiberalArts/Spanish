@@ -8,8 +8,8 @@ title: Online Courses
 keywords: 'online courses, spanish courses, prerequisite'
 description: >-
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 **Are you a Temple student?**  
 Online courses provide the same quality and educational content as traditional classrooms, but with the flexibility to advance your studies at your own time and anywhere in the world.  

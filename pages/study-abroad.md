@@ -9,8 +9,8 @@ description: >-
  Enroll in the Latin American Studies Semester; study abroad in Ecuador, Spain, or Brazil;
 keywords: 'latin american studies semester, study abroad, application process'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/study-abroad.html
+
+sidebar: sidebars/study-abroad.html
 ---
 Spanish degree and Portuguese course students have many exciting study abroad opportunities. Don’t restrict your Portuguese or Spanish education to just the classroom—get out into the Spanish-speaking world! Considering enrolling in the [Latin American Studies Semester](#latin-american-studies-semester-lass); studying abroad in [Ecuador](#about-quito-ecuador), or in Spain during the [spring](#temple-spain-spring-semester-program) or [summer](#temple-spain-summer-semester-program).
 

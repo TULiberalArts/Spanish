@@ -11,7 +11,7 @@ description: >-
 keywords: 'Spanish and Portuguese, undergraduate, graduate'
  # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-image: media/newhero.png
 ---

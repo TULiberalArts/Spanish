@@ -11,8 +11,8 @@ description: >-
   Choose from one of three tracks offered by the College of Liberal Arts at Temple University.
 keywords: 'Spanish, undergraduate, courses, bachelors, certificate, tracks'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 What do you want to get out of your Spanish or Portuguese education? Read our  [Spanish degree](#ba-in-spanish-language-literature-and-linguistics) and courses and [Portuguese courses](#minor-in-portuguese) program overview to learn how the College of Liberal Arts will get you there. We [teach a lot](#we-teach-a-lot), our students are [globetrotters](#our-students-are-globetrotters) and our coursework uses immersive study to elicit positive results. Maybe that’s why our Spanish [certificate](#spanish-certificate-ranked-1-in-the-nation) is ranked first in the nation. Select your [track](#select-your-track) today to get started.
 
