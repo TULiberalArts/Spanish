@@ -9,12 +9,11 @@ description: >-
  Enroll in the Latin American Studies Semester; study abroad in Ecuador, Spain, or Brazil;
 keywords: 'latin american studies semester, study abroad, application process'
 # custom variables
-
 sidebar: sidebars/study-abroad.html
 ---
 Spanish degree and Portuguese course students have many exciting study abroad opportunities. Don’t restrict your Portuguese or Spanish education to just the classroom—get out into the Spanish-speaking world! Considering enrolling in the [Latin American Studies Semester](#latin-american-studies-semester-lass); studying abroad in [Ecuador](#about-quito-ecuador), or in Spain during the [spring](#temple-spain-spring-semester-program) or [summer](#temple-spain-summer-semester-program).
 
-## Latin American Studies Semester (LASS) 
+## Latin American Studies Semester (LASS)
 
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/NIBBE9gBkUs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -24,9 +23,9 @@ ___
 
 
 ### Program Overview
-The Latin American Studies Semester has been offered every spring semester since 1973. This unique language immersion program provides you with an intensive experience studying the Spanish language in combination with an interdisciplinary study of life and contemporary issues in Latin America. 
+The Latin American Studies Semester has been offered every spring semester since 1973. This unique language immersion program provides you with an intensive experience studying the Spanish language in combination with an interdisciplinary study of life and contemporary issues in Latin America.
 
-The prerequisite for participation in LASS is one semester of university-level Spanish or the equivalent (students with more advanced levels of course background are encouraged to participate in the program). LASS integrates several courses, totaling 17-semester-hour credits, and must be taken as a package. All courses are taught in Spanish from the first day of class on Temple’s main campus. 
+The prerequisite for participation in LASS is one semester of university-level Spanish or the equivalent (students with more advanced levels of course background are encouraged to participate in the program). LASS integrates several courses, totaling 17-semester-hour credits, and must be taken as a package. All courses are taught in Spanish from the first day of class on Temple’s main campus.
 An integral part of the LASS program is a three-week trip to Quito, Ecuador in March, during which students are placed in local homes where the only language of communication is Spanish. While in Ecuador, students attend courses at the Andean Center for Latin American Studies. Native Spanish-speaking professors teach all courses in Ecuador. All participants in the program may expect to achieve marked improvement in Spanish fluency in only one semester.
 
 - [LASS Application Form](https://form.jotform.com/82255597172161)
@@ -39,7 +38,7 @@ LASS courses combine Spanish language teachings studies of Latin America’s div
 - [Spanish 3204: Latin America Through Film](http://bulletin.temple.edu/search/?P=SPAN%203204) – 3 credits.
 - [Latin American Studies 2220: LASS Seminar](http://bulletin.temple.edu/search/?P=LAS%202220) – 2 credits.
 
-Morning sessions, held from 9a.m. to 12 p.m. on Mondays, Wednesdays and Fridays, offer Spanish language instruction and conversation practice at intermediate and advanced levels guided by native or near-native speakers. Morning sessions, held from 9:30 a.m. to 10:50 a.m. and from 11 a.m. to 12:20 p.m. on Tuesdays and Thursdays, focus on Latin American culture, history and economic development. A LASS Seminar held on Tuesdays and Thursdays from 1:30 p.m. to 3:10 p.m. highlights a series of topics in Latin American and Latino studies and includes films and presentations by guest speakers. 
+Morning sessions, held from 9a.m. to 12 p.m. on Mondays, Wednesdays and Fridays, offer Spanish language instruction and conversation practice at intermediate and advanced levels guided by native or near-native speakers. Morning sessions, held from 9:30 a.m. to 10:50 a.m. and from 11 a.m. to 12:20 p.m. on Tuesdays and Thursdays, focus on Latin American culture, history and economic development. A LASS Seminar held on Tuesdays and Thursdays from 1:30 p.m. to 3:10 p.m. highlights a series of topics in Latin American and Latino studies and includes films and presentations by guest speakers.
 
 ## About Quito, Ecuador
 High in the Andean mountain range, you’ll find the capital city of Quito. Quito combines modern infrastructure with centuries of history and culture, making it an ideal study abroad destination.

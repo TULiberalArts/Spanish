@@ -8,7 +8,6 @@ title: Resources
 description: >-
 keywords: ''
 # custom variables
-
 sidebar: sidebars/resources.html
 ---
 Temple University Spanish degree and Portuguese course students have a number of resources available to help them along during their college experience. Take a look at our available [undergraduate](#current-undergraduate-student-resources) and [graduate student](##current-graduate-student-resources) resources.
@@ -67,7 +66,7 @@ _Anales de la literatura española contemporánea_ (ISSN: 0272-1635): ALEC publi
 For any correspondence regarding subscriptions and article submissions please contact the editors at [sssas@temple.edu](mailto:sssas@temple.edu). Updated information about the journal’s most recent issues may be found at [www.sssasalec.com](http://sssasalec.blogspot.com/).
 
 ## Newsletter Archive
-- [Newsletter Vol. 1, No. 1, September 2015](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=b3f8dd0355) 
+- [Newsletter Vol. 1, No. 1, September 2015](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=b3f8dd0355)
 - [Newsletter Vol. 1, No. 2, November 2015 ](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=252f2f1f90)
 - [Newsletter Vol. 1, No. 3, January 2016 ](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=5b945bfda1)
 - [Newsletter Vol. 1, No. 4, March 2016  ](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=0ab644229d)

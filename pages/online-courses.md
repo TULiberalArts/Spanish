@@ -8,7 +8,6 @@ title: Online Courses
 keywords: 'online courses, spanish courses, prerequisite'
 description: >-
 # custom variables
-
 sidebar: sidebars/undergraduate.html
 ---
 **Are you a Temple student?**  
