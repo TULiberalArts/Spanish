@@ -10,9 +10,7 @@ description: >-
  Earn your MA or PhD at Temple University in the College of Liberal Arts. Learn about our graduate
  program overview and goals, our admissions process, financial support options, and apply!
 # custom variables
-
 sidebar: sidebars/graduate.html
-
 graduate_students: profiles/graduate_students_2.html
 ---
 Want to take your language skills and cultural knowledge to the next level? Take a look at the [program overview](#graduate-program-overview) and [program goals](#program-goals) for our Spanish [master’s degree](#ma-in-spanish) and Spanish [PhD](#phd-in-spanish). If you think you’re ready to get started, you should review your [financial support](#financial-support) options and our [admissions process](#admissions-process) before you [apply](#apply).
@@ -53,4 +51,4 @@ The Spanish and Portuguese Graduate Language Reading Examinations are administer
 
 ___
 
-{% include {{ page.graduate_students_content }} %}
+{% include {{ page.graduate_students }} %}
