@@ -7,7 +7,7 @@ Spanish is statically generated with [Jekyll](https://jekyllrb.com) and hosted b
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/spanish/ |
-| Production |  |
+| Production | https://www.cla.temple.edu/spanish/ |
 
 ## Content Structure
 
