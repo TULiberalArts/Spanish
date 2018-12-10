@@ -14,14 +14,14 @@ promotion-table: true
 feature: true
 feature-image: media/newhero.png
 ---
-## Monolingualism Can Be Cured
-Our students study the cultural, historic, literary and linguistic aspects of the Spanish and Portuguese-speaking worlds in order to navigate a complex, increasingly globalized world with strong critical thinking and communication skills.
+## About 500 Million People Speak Spanish, Why Not be One of Them?
+Our students study the cultural, historic, literary and linguistic aspects of the Spanish and Portuguese-speaking worlds in order to navigate a complex, increasingly globalized community with strong critical thinking, communication skills and and professional skills.
 
 ## Join a Unique and Vibrant Community
-The Department of Spanish and Portuguese is a unique and vibrant community of faculty who teach students of all disciplines at the undergraduate and graduate levels. Our three Spanish major tracks (Language and Professional Studies; Language, Literature and Linguistics; and Spanish for Education) prepare students for the 21st century’s pluralistic, globalized society. They do this through rigorous language training and by providing instruction in the cultures and literature of Spain, Latin America and the Luso-Brazilian world.
+The Department of Spanish and Portuguese is a unique and vibrant community of students and faculty at the undergraduate and graduate levels. Our three Spanish major tracks (Language and Professional Studies; Language, Literature and Linguistics; and Spanish for Education) engage students in the cultures and literature of Spain, Latin America and the Luso-Brazilian world and prepare students to function bilingually for the 21st century’s century’s globalized society. 
 
-## Diverse Spanish and Portuguese Educations
-Specialized courses in business, criminal justice and medical Spanish and translation/interpretation skills complement our diverse courses. This course mix allows you to tailor your learning toward your professional and intellectual goals.
+## Meet Your Language Needs through Diverse Course Offerings
+Specialized courses in business, criminal justice and medical Spanish and translation/interpretation skills complement our linguistic, literature and culture courses. This course mix allows you to tailor your learning toward your professional and intellectual goals.
 
 ___
 
@@ -35,9 +35,9 @@ ___
 - [BA in Spanish: Language, Literature and Linguistics](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-language-literature-linguistics-option/)
 - [BA in Spanish and Professional Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-language-professional-studies-option/)
 - [BA in Spanish for Education](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-education-option/)
-- [Certificate of Specialization in Spanish](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-spanish/)
 - [Minor in Spanish](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-spanish/)
 - [Minor in Portuguese](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-portuguese/)
+- [Certificate of Specialization in Spanish](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-spanish/)
 - [Certificate of Specialization in Spanish and Latin American Studies for Business](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-spanish-latin-american-studies-business/)
 - [Certificate of Specialization in Spanish and Latino Studies for the Health and Human Services Professions](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-spanish-latino-studies-health-human-services-professions/)
 - [Latin American Studies Semester Certificate and Program](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-latin-american-studies/)
