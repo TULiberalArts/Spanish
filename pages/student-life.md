@@ -13,29 +13,28 @@ keywords: 'internships, latin american studies semester, study abroad, applicati
 # custom variables
 sidebar: sidebars/student-life.html
 ---
-Spanish and Portuguese aren’t restricted to just Latin America, Spain and Portugal—they’re spoken around the world. So why restrict your Portuguese or Spanish education to just the classroom? Start an internship; apply for [awards and scholarships](#awards-and-scholarships); join the [Club de Español](#club-de-español) or the [Graduate Students of Language at Temple](#graduate-students-of-language-at-temple-gsolt).
+From the classrooms of Temple to the streets of Philadelphia to the whole-wide world, our students use their language skills to navigate and interact with the world around them.  Our undergraduate and graduate students take their language skills outside the classroom through study abroad, internships and extra-curriculars like [Club de Español](#club-de-español) or the [Graduate Students of Language at Temple](#graduate-students-of-language-at-temple-gsolt).
 
 ## Internships
-The Department of Spanish and Portuguese maintains relationships with a variety of organizations throughout Philadelphia, offering students ample volunteer, community service, research and internship opportunities. Students gain real-world language and work experience through this experiential learning, increasing their skills and confidence.
+The Department of Spanish and Portuguese maintains relationships with a variety of organizations throughout Philadelphia, offering students ample volunteer, community engagement, research and internship opportunities. Students gain real-world language and work experience through this experiential learning, increasing their skills and confidence.
 
-Throughout the academic year, students of any level may volunteer with educational and neighborhood organizations, such as mentoring primary and high school students, teaching seniors or contributing to the greening of the city infrastructure. In the summer, advanced students may receive credit by taking an internship course for which they invest significant time in an organization. Students have been engaged in service opportunities in journalism, social services, law, heath care, educational development and immigrant rights. By using their language skills to fulfill their responsibilities, students maximize their classroom learning and attain poise in a professional setting.
+Throughout the academic year, students of any level may volunteer with educational and neighborhood organizations, such as mentoring primary and high school students, teaching seniors or contributing to the greening of the city infrastructure. Throughout the year, advanced students may receive credit by taking an internship course for which they invest significant time in an organization. Students have been engaged in service opportunities in journalism, social services, law, health care, educational development and immigrant rights. By using their language skills to fulfill their responsibilities, students maximize their classroom learning and attain poise in a professional setting.
 
 ___
 
 ## Awards and Scholarships
-Exceptional students may apply to become members of the prestigious Spanish Honor Society: Sigma Delta Pi. A graduating senior is awarded the Sigma Delta Pi prize each year. Upper-class students can also apply for the Kristina Joanne Chelius award. Established in 2009 by Thomas and Joanne Chelius in memory of their daughter Kristina, CLA ’91, this award is given to outstanding junior or senior students majoring in Spanish who have financial need.
+Exceptional students may apply to become members of the prestigious Spanish Honor Society: Sigma Delta Pi. One graduating senior is awarded the Sigma Delta Pi prize each year. Upper-class students can also apply for the Kristina Joanne Chelius award. Established in 2009 by Thomas and Joanne Chelius in memory of their daughter Kristina, CLA ’91, this award is given to outstanding junior or senior students majoring in Spanish who have financial need.
 
 For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4579&field_awards_academics_class_value=All) page.
 
 ## Club de Español
-The Spanish Club is a student organization, and its principal goal is to promote the practice of speaking Spanish. One way we achieve this goal is through conversation tables, which allow you to practice your conversation skills in a relaxed environment once a week. We also invite you to join us in celebrating the Hispanic culture all year round with different activities. The Spanish Club meets weekly throughout the semester on Mondays from 4-5 p.m. in 422 Anderson Hall.
+The Spanish Club is a student organization, and its principal goal is to promote the practice of speaking Spanish. One way this is achieved is through conversation tables, allowing participants to practice your conversation in a relaxed environment once a week. The Spanish Club meets weekly throughout the semester on Mondays from 4-5 p.m. in 422 Anderson Hall.
 
-Everyone is welcome to join the Spanish Club, and you’re still able to participate in our events even if you don’t become a member. Stop by our meetings and bring friends!
 - Club Coordinator: [Norma Corrales Martin](mailto:ncm@temple.edu)
 
 ## Graduate Students of Language at Temple (GSOLT)
-Graduate Students of Language at Temple (GSOLT) connects students who study and are interested in language and helps them form interdisciplinary networks for discussion and research. An annual spring conference showcases students’ research in language from a variety of viewpoints.
+Graduate Students of Language at Temple (GSOLT) connects students who study or have an interest in language and helps them form interdisciplinary networks for discussion and research. An annual spring conference showcases students’ research in language from a variety of viewpoints.
 
-GSOLT also promotes interdisciplinary discussion of language and conducts workshops for improving student work. Meetings are held to plan the spring conference and upcoming workshops and to discuss guest speakers. During workshops, we discuss project ideas, current projects and issues we are encountering. We also discuss theory and methods to help us progress in our individual projects and understand approaches to language from different disciplines.
+GSOLT also promotes interdisciplinary discussion of language and conducts workshops for improving student work. Meetings are held to plan the spring conference and to discuss guest speakers. Additionally, workshops facilitate discussion of project ideas and current  endeavors.
 
-Sign up to join [GSOLT](https://temple.campuslabs.com/engage/organization/GSOLT)! For more information contact: [Bryce Bayer](tua90730@temple.edu) and [Katie Clarkson](tug20217@temple.edu)
+Join [GSOLT](https://temple.campuslabs.com/engage/organization/GSOLT)! For more information contact: [Bryce Bayer](tua90730@temple.edu) and [Katie Clarkson](tug20217@temple.edu)
