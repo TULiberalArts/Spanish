@@ -13,7 +13,7 @@ description: >-
 sidebar: sidebars/graduate.html
 graduate_students: profiles/graduate_students_2.html
 ---
-Want to take your language skills and cultural knowledge to the next level? Take a look at the [program overview](#graduate-program-overview) and [program goals](#program-goals) for our Spanish [master’s degree](#ma-in-spanish) and Spanish [PhD](#phd-in-spanish). If you think you’re ready to get started, you should review your [financial support](#financial-support) options and our [admissions process](#admissions-process) before you [apply](#apply).
+Dream of becoming a college professor? Take a look at the [program overview](#graduate-program-overview) and [program goals](#program-goals) for our Spanish [master’s degree](#ma-in-spanish) and Spanish [PhD](#phd-in-spanish). If you think you’re ready to get started, you should review your [financial support](#financial-support) options and our [admissions process](#admissions-process) before you [apply](#apply).
 
 ## Graduate Program Overview
 The Department of Spanish and Portuguese offers Master of Arts (MA) and Doctor of Philosophy (PhD) degrees with specializations in Spanish American Literature, Peninsular Spanish Literature and Hispanic Linguistics. Our graduates have experienced successful placement. The Department has an active and multinational group of faculty and graduate students with literary, linguistic and cultural interests in several fields.
@@ -23,8 +23,7 @@ The Department of Spanish and Portuguese offers Master of Arts (MA) and Doctor o
 </div>
 
 ## Program Goals
-Program Goals
-The graduate program in Spanish integrates the study of the three fundamental fields of Hispanic studies: Peninsular Spanish literature, Spanish American literature and Hispanic linguistics. The Master of Arts provides a solid program developing advanced Spanish language skills for diverse careers (in secondary education, business, health and government services, and interpretation and translation). Students also receive training in the pedagogical and research skills necessary for the pursuit of a PhD. The Doctor of Philosophy, meanwhile, provides opportunities for advanced study and research in selected fields in Hispanic studies. Additionally, the program trains scholars/teachers for careers principally at institutions of higher learning. The MA and PhD degrees may be completed on a full-time or part-time basis.
+The graduate program in Spanish integrates the study of the three fundamental fields of Hispanic studies: Peninsular Spanish literature, Spanish American literature and Hispanic linguistics. The Master of Arts provides a solid program developing advanced Spanish language skills for diverse careers (in secondary education, business, health and government services and interpretation and translation). Students also receive training in the pedagogical and research skills necessary for the pursuit of a PhD. The Doctor of Philosophy, meanwhile, provides opportunities for advanced study and research in selected fields in Hispanic studies. Additionally, the program trains scholars/teachers for careers principally at institutions of higher learning. The MA and PhD degrees may be completed on a full-time or part-time basis.
 
 ## MA in Spanish
 Master of Arts (MA) in Spanish students develop advanced Spanish-language skills for diverse careers and learn the research and pedagogical skills necessary to pursue a PhD.
@@ -33,11 +32,12 @@ Master of Arts (MA) in Spanish students develop advanced Spanish-language skills
 ## PhD in Spanish
 PhD students have robust opportunities for advanced study and research in Spanish Peninsular literature, Spanish American literature and Hispanic linguistics. College of Liberal Arts Spanish PhD graduates are trained scholars who are ready to thrive in higher education careers.
 - Learn more about the [PhD in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-phd/)
-- [Defended Doctoral Dissertations](https://liberalarts.temple.edu/sites/liberalarts/files/Doctor%20of%20Philosophy%20Dissertations.pdf)
+- [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/1.1%20Graduate-Handbook.docx)
+- [Defended Doctoral Dissertations](https://liberalarts.temple.edu/sites/liberalarts/files/1.2%20Doctor%20of%20Philosophy%20Dissertations%20%28NEW%29.docx)
 - [Graduate Reading List](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf)
 
 ## Financial Support
-Multi-year competitive financial support in the form of teaching assistantships is available exclusively to doctoral students. These awards include a monthly stipend, tuition remission and health insurance. Moreover, university fellowships are available on a competitive basis. Please note: MA degree terminal students do not qualify for an assistantship. Summer teaching appointments are given to a limited number of students.
+Multi-year competitive financial support (5 years) in the form of teaching assistantships is available exclusively to doctoral students. These awards include a monthly stipend, tuition remission, health insurance, one semester of teaching release and a research fund of $5,000. Moreover, university fellowships are available on a competitive basis. Please note: MA degree terminal students do not qualify for an assistantship. Summer teaching appointments are given to a limited number of students.
 
 ## Admissions Process
 Please visit the [Spanish Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/spanish-ma/) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
