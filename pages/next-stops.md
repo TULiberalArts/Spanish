@@ -11,7 +11,7 @@ description: >-
 keywords: 'transfer, apply, visit, international, careers, study abroad'
 # custom variables
 ---
-Spanish degree graduates and Portuguese course graduates have a range of career options—just look at where some of our [notable alumni](#notable-alumni) have landed. So, what are you waiting for? [Make your declaration](#make-your-declaration), [visit us](#visit-us), take a look at your [transfer](#thinking-of-transferring) options and [apply](#apply) ahead of our upcoming [deadlines](#deadlines).
+Spanish degree graduates and Portuguese course graduates have a range of career options—just look at where some of our [alumni](#notable-alumni) have landed. So, what are you waiting for? [Make your declaration](#make-your-declaration), [visit us](#visit-us), take a look at your [transfer](#thinking-of-transferring) options and [apply](#apply) ahead of our upcoming [deadlines](#deadlines).
 
 ## Careers
 Spanish major graduates from the College of Liberal Arts enter careers in diverse fields. Recent alumni have found employment in local and federal government positions, social work, healthcare, education, human resources, insurance, tourism and hospitality, journalism, and NGOs. In addition, majors have begun post-secondary studies in medical schools, law schools, physical therapy, anthropology, sociology, Spanish, linguistics and education.
@@ -23,14 +23,14 @@ Some of the industries our alumni have enjoyed successful and meaningful careers
 - Education
 - Tourism and Hospitality
 
-## Notable Alumni
-So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
+## Alumni
+Our alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni whose diverse career paths exemplify the unique preparation and flexibility of a Spanish degree.
 
 - [Amy Contant](https://liberalarts.temple.edu/news/alumni-spotlight-amy-contant)<br/>
   Bilingual Speech Language Pathologist at Holyoke Medical Center<br/>
-  B.A.in Spanish: Language, Literature and Linguistics in 2013<br/>
+  B.A. in Spanish in 2013<br/>
    
-- [Amanda Orme](#https://liberalarts.temple.edu/news/alumni-spotlight-amanda-orme)<br/>
+- [Amanda Orme](https://liberalarts.temple.edu/news/alumni-spotlight-amanda-orme)<br/>
   Global Logistics Specialist at Samuel Shapiro & Company<br/>
   B.A.in Spanish in 2014<br/>
    
