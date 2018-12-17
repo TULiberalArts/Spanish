@@ -63,7 +63,7 @@ Email [Liz Ursell](mailto:eursell@temple.edu) with further questions.
  - View the Comprehensive Examination [Reading Lists](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf) for the M.A. and PhD.
  - View a list of Doctor of Philosophy [dissertations](https://liberalarts.temple.edu/sites/liberalarts/files/1.2%20Doctor%20of%20Philosophy%20Dissertations%20%28NEW%29.docx) that have been completed between 1973 and the present in the Department of Spanish and Portuguese.
 - Have a question about the graduate program in the Department of Spanish and Portuguese? View our [FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Program%20FAQ.pdf).
-- For more information about M.A. and Ph.D. degree requirements, please review the [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/1.1%20Graduate-Handbook.docx).
+- For more information about M.A. and Ph.D. degree requirements, please review the [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Handbook.pdf).
 
 ## Department Journal
 _Anales de la Literatura Española Contemporánea_ (ISSN: 0272-1635): ALEC publishes scholarly articles studying all aspects of twentieth and twenty-first century Spanish literature (from “modernism” and the so-called generation of 1898). Back archive available in JSTOR. The last three years are only available in print. The journal is part of The Society of Spanish and Spanish-American Studies (SSSAS). SSSAS promotes bibliographical, critical and pedagogical research in Spanish and Spanish-American studies by publishing works of particular merit in these areas. On occasion, The Society also publishes creative works. SSSAS is a non-profit educational organization.
