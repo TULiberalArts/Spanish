@@ -59,7 +59,7 @@ ___
       title="Latin American Studies Semester"
       content="Each spring semester, the Department of Spanish and Portuguese offers a 17-credit immersion program in Latin American Studies and Spanish, culminating in a three-week trip to Ecuador."
       image=""
-      button-link="/https://www.cla.temple.edu/spanish/study-abroad/"
+      button-link="https://www.cla.temple.edu/spanish/study-abroad/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
