@@ -28,7 +28,7 @@ Exceptional students may apply to become members of the prestigious Spanish Hono
 For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4579&field_awards_academics_class_value=All) page.
 
 ## Club de Español
-The Spanish Club is a student organization, and its principal goal is to promote the practice of speaking Spanish. One way this is achieved is through conversation tables, allowing participants to practice your conversation in a relaxed environment once a week. The Spanish Club meets weekly throughout the semester on Mondays from 4-5 p.m. in 422 Anderson Hall.
+The Spanish Club is a student organization, and its principal goal is to promote the practice of speaking Spanish. One way this is achieved is through conversation tables, allowing participants to practice your conversation in a relaxed environment once a week. The Spanish Club meets weekly throughout the semester on Wednesdays from 5-6pm in 406 Anderson Hall.
 
 - Club Coordinator: [Norma Corrales Martin](mailto:ncm@temple.edu)
 
