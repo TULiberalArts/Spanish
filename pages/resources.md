@@ -52,13 +52,17 @@ AY 2018-19 Available Portuguese Tutors
 **Note:** You may also contact the Russell Conwell Learning Center, Suite 202, 1700 N. Broad St., Phila, PA 19122 at [(215) 204-1252](tel:2152041252). They may have undergraduate students that will tutor for free.
 
 ### Academic Support Services for Spanish and Portuguese
-**Conversation Partners:** This program provides opportunities for Spanish language learners to practice speaking and listening. Meet one-on-one with a Conversation Partner to practice conversation, build vocabulary, review grammar, practice oral presentations, and more. 
+The Student Success Center provides support for Spanish language learners. For more information, visit their website at [www.temple.edu/wc](https://www.temple.edu/class/).
 
-Open to students in 1000 and 2000-level courses.
+**Conversation Partners**
+Meet one-on-one with a fluent speaker of Spanish to practice speaking and listening; to improve reading-comprehension in Spanish texts; to build vocabulary; develop grammar skills; and to prepare for oral exams and presentations.
 
-**Writing Support:** The Writing Center provides assistance with college writing assignments for Spanish courses. Meet one-on-one with a tutor to review your drafts; to build vocabulary; and to improve clarity, sentence structure, and grammar in your draft.
+Open to Temple students in 1000 and 2000-level Spanish courses, and students who have a background in Spanish. For courses at the 3000 level up through graduate level, please contact Liz at [eursell@temple.edu](mailto:eursell@temple.edu) to schedule.
 
-Email [Liz Ursell](mailto:eursell@temple.edu) with further questions.
+**Writing Tutoring**
+The writing tutoring service provides one-on-one support for students who are working on papers for classes, as well as cover letters, resumes, scholarship essays, creative writing, and any other texts students are working on in Spanish.
+
+Open to Temple students who have a background in Spanish and/or are enrolled in Spanish courses. For courses at the graduate level, please contact Liz at [eursell@temple.edu](mailto:eursell@temple.edu) to schedule.
 
 ## Current Graduate Student Resources
  - View the Comprehensive Examination [Reading Lists](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf) for the M.A. and PhD.
