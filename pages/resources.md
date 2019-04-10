@@ -54,12 +54,12 @@ AY 2018-19 Available Portuguese Tutors
 ### Academic Support Services for Spanish and Portuguese
 The Student Success Center provides support for Spanish language learners. For more information, visit their website at [www.temple.edu/wc](https://www.temple.edu/class/).
 
-**Conversation Partners**
+**Conversation Partners**<br>
 Meet one-on-one with a fluent speaker of Spanish to practice speaking and listening; to improve reading-comprehension in Spanish texts; to build vocabulary; develop grammar skills; and to prepare for oral exams and presentations.
 
 Open to Temple students in 1000 and 2000-level Spanish courses, and students who have a background in Spanish. For courses at the 3000 level up through graduate level, please contact Liz at [eursell@temple.edu](mailto:eursell@temple.edu) to schedule.
 
-**Writing Tutoring**
+**Writing Tutoring**<br>
 The writing tutoring service provides one-on-one support for students who are working on papers for classes, as well as cover letters, resumes, scholarship essays, creative writing, and any other texts students are working on in Spanish.
 
 Open to Temple students who have a background in Spanish and/or are enrolled in Spanish courses. For courses at the graduate level, please contact Liz at [eursell@temple.edu](mailto:eursell@temple.edu) to schedule.
