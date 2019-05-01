@@ -85,3 +85,4 @@ For any correspondence regarding subscriptions and article submissions please co
 - [Newsletter Vol. 3, No. 1, September 2017](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=bf0224e131)
 - [Newsletter Vol. 3, No. 2, April 2018](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=903ed93d36)
 - [Newsletter Vol. 4, No. 1, October 2018](https://us11.campaign-archive.com/?u=579655a2880e5661113c3dab0&id=4a65a1187c)
+- [Newsletter Vol. 4, No. 2, April 2019](https://mailchi.mp/temple/department-update-spring-2019)
