@@ -61,9 +61,9 @@ All housing offers glimpses of everyday life, with easy access to ACLAS and to c
 The 17-semester-hour credits program includes an additional fee of $1,000. Please note this fee is subject to change. The fee is incorporated into the tuition for one of the LASS courses and is paid as part of the student spring registration. The fee covers: housing, meals, courses and trips in Ecuador. Students are responsible for separately purchasing their airline tickets and making their own arrangements.
 
 ### Calendar
-LASS Orientation – Wednesday, October 22nd, 2019 at 4pm 422 Anderson Hall
+LASS Orientation – Wednesday, October 2nd, 2019 at 4pm 422 Anderson Hall
 
-Travel Dates for Spring 2019:
+Travel Dates for Spring 2020:
 - Departure – Wednesday, February 26, 2020
 - Return – Tuesday, March 17, 2020
 
