@@ -43,6 +43,7 @@ ___
 - [Latin American Studies Semester Certificate and Program](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-latin-american-studies/)
 - [MA in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-ma/)
 - [PhD in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-phd/)
+- [Graduate Certificate: Spanish for Health Professionals](https://bulletin.temple.edu/graduate/scd/cla/spanish-health-professions-certificate/#text)
 
 ___
 
