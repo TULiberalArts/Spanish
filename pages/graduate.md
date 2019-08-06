@@ -36,6 +36,16 @@ PhD students have robust opportunities for advanced study and research in Spanis
 - [Defended Doctoral Dissertations](https://liberalarts.temple.edu/sites/liberalarts/files/1.2%20Doctor%20of%20Philosophy%20Dissertations%20%28NEW%29.docx)
 - [Graduate Reading List](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf)
 
+## Graduate Certificate: Spanish for Health Professionals
+The online graduate certificate in Spanish for Health Professions prepares professionals in healthcare fields to engage in culturally sensitive, knowledgeable Spanish communication with the Latinx and Spanish-speaking community in healthcare settings. This exclusively online certificate offers maximum flexibility in recognition of the unique time and geographical constraints of the working professional. The coursework allows students to:
+
+- hone and improve their oral, aural, reading, and writing skills in Spanish;
+- appreciate, recognize, and comprehend the varieties of language used by the target population;
+- engage in the practice of the techniques of interpretation and translation between Spanish and English; and
+- learn to recognize their own linguistic capacities and how to harness them
+
+Learn more about the [Graduate Certificate: Spanish for Health Professionals](https://bulletin.temple.edu/graduate/scd/cla/spanish-health-professions-certificate/#text)
+
 ## Financial Support
 Multi-year competitive financial support (5 years) in the form of teaching assistantships is available exclusively to doctoral students. These awards include a monthly stipend, tuition remission, health insurance, one semester of teaching release and a research fund of $5,000. Moreover, university fellowships are available on a competitive basis. Please note: MA degree terminal students do not qualify for an assistantship. Summer teaching appointments are given to a limited number of students.
 
