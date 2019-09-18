@@ -60,6 +60,10 @@ All housing offers glimpses of everyday life, with easy access to ACLAS and to c
 ### Cost
 The 17-semester-hour credits program includes an additional fee of $1,000. Please note this fee is subject to change. The fee is incorporated into the tuition for one of the LASS courses and is paid as part of the student spring registration. The fee covers: housing, meals, courses and trips in Ecuador. Students are responsible for separately purchasing their airline tickets and making their own arrangements.
 
+### Study Abroad Scholarship Application
+LASS students are eligible to apply to some CLA awards. Below is the link to the online application. Applications are due by **October 15, 2019 at 11:59PM.** Late submissions will not be considered.
+- [Online Application](https://forms.gle/hrPfEcJrVg5aCVEZ6)
+
 ### Calendar
 LASS Orientation – Wednesday, October 2nd, 2019 at 4pm 422 Anderson Hall
 
