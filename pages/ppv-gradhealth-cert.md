@@ -38,13 +38,18 @@ Temple’s medical Spanish program offers a diverse slate of Spanish courses to 
 +	Hospital employees
 +	Private practice employees
 <br>
+
 Different State, Same Rate
 {:.fake-h2}
+
 Temple’s Spanish for Healthcare Professions Graduate Certificate is administered through the College of Liberal Arts, which has the lowest tuition rates of any Temple school. And whether you’re an in-state or out-of-state student, you’ll pay the exact same tuition.
 <br>
+
 Get Started
 {:.fake-h2}
+
 So, what are you waiting for? Fill out the form on this page to start your journey towards advancing your career with Temple’s Spanish for Health Professions Graduate Certificate.
 <br>
+
 ---
 *Source: U.S. Censu Bureau 2018 Estimate
