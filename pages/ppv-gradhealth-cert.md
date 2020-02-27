@@ -11,7 +11,6 @@ keywords: 'graduate, spanish, graduate students, health, certificate, healthcare
 # custom variables
 ppv_form: forms/ppv-spanhealth.html
 hero: hero/ppv-gradhealth-cert.html
-sidebar: sidebars/ppv-gus-ma.html
 ---
 Learn Spanish for Healthcare Professionals 
 {:.fake-h2}
