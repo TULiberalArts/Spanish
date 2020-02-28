@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Graduate Spanish for Health Professions Certificate
 description: >-
-  A versatile degree in geography and urban studies. Graduate students in Temple University’s geography and urban studies program will develop the analytical and technical skills to address some of the greatest challenges.
-keywords: 'graduate, spanish, graduate students, health, certificate, healthcare'  
+Our online graduate-level Spanish for Health Professions Certificate program teaches medical Spanish for nurses, physicians & health care professionals.
+keywords: 'learn medical Spanish, medical Spanish for nurses, medical Spanish for physicians, medical Spanish grad program'  
 # custom variables
 ppv_form: forms/ppv-spanhealth.html
 hero: hero/ppv-gradhealth-cert.html
@@ -51,4 +51,4 @@ So, what are you waiting for? Fill out the form on this page to start your journ
 <br>
 
 ---
-*Source: U.S. Censu Bureau 2018 Estimate
+*Source: U.S. Census Bureau 2018 Estimate
