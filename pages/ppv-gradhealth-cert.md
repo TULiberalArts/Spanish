@@ -52,5 +52,6 @@ Get Started
 So, what are you waiting for? Fill out the form on this page to start your journey towards advancing your career with Temple’s Spanish for Health Professions Graduate Certificate.
 <br>
 
----
+___
+
 *Source: U.S. Census Bureau 2018 Estimate
