@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Graduate Spanish for Health Professions Certificate
 description: >-
-  Our online graduate-level Spanish for Health Professions Certificate program teaches medical
-Spanish for nurses, physicians & health care professionals.
+  Our online graduate-level Spanish for Health Professions Certificate program
+  teaches medical Spanish for nurses, physicians & health care professionals.
 keywords: 'learn medical Spanish, medical Spanish for nurses, medical Spanish for physicians, 
 medical Spanish grad program'
 # custom variables
