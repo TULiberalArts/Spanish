@@ -29,7 +29,7 @@ Too busy to commit to four consecutive seven-week courses? Students also have th
 The Ideal Spanish Program for all Health Care Professionals 
 {:.fake-h2}
 
-Temple’s medical Spanish program offers a diverse slate of Spanish courses to help you learn the most pertinent language skills for navigating health care contexts with Spanish-speaking patients. The program offers coursework that’s ideal for:
+Temple’s medical Spanish program offers a diverse slate of Spanish courses to help you learn the most pertinent language skills for navigating health care contexts with Spanish-speaking patients. The program offers coursework that’s ideal for:<br>
 +	Physicians
 +	Nurses
 +	Social workers
