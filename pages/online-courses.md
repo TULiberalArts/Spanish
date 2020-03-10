@@ -1,7 +1,7 @@
 ---
 # global predefined variables
 layout: tla_page
-permalink: /undergraduate/online-courses/
+permalink: /online-courses/
 published: true
 # meta-data variables
 title: Online Courses
@@ -88,7 +88,7 @@ For placement questions for Spanish Composition contact [Professor Moore-Martine
 - Summer Session I: [Please see dates in academic calendar](http://www.temple.edu/registrar/documents/calendars/18-19.asp)
 
 This course gives you the opportunity to develop your Spanish language skills, increase your cultural knowledge, and cultivate professional experience. The classroom component includes readings and discussions  and projects relative to the students’ experiences. Each student will spend at least 15 hours a week in a site for a total of 100 hours, spread out in a way that works into students’ schedules.
- 
+
 _Prerequisite: SPAN 2096_
 
 For placement questions for Spanish Composition contact [Professor Moore-Martinez](mailto:pmoore04@temple.edu).
