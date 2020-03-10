@@ -18,7 +18,7 @@ feature-image: media/newhero.png
 Our students study the cultural, historic, literary and linguistic aspects of the Spanish and Portuguese-speaking worlds in order to navigate a complex, increasingly globalized community with strong critical thinking, communication skills and and professional skills.
 
 ## Join a Unique and Vibrant Community
-The Department of Spanish and Portuguese is a unique and vibrant community of students and faculty at the undergraduate and graduate levels. Our three Spanish major tracks (Language and Professional Studies; Language, Literature and Linguistics; and Spanish for Education) engage students in the cultures and literature of Spain, Latin America and the Luso-Brazilian world and prepare students to function bilingually for the 21st century’s century’s globalized society. 
+The Department of Spanish and Portuguese is a unique and vibrant community of students and faculty at the undergraduate and graduate levels. Our three Spanish major tracks (Language and Professional Studies; Language, Literature and Linguistics; and Spanish for Education) engage students in the cultures and literature of Spain, Latin America and the Luso-Brazilian world and prepare students to function bilingually for the 21st century’s century’s globalized society.
 
 ## Meet Your Language Needs through Diverse Course Offerings
 Specialized courses in business, criminal justice and medical Spanish and translation/interpretation skills complement our linguistic, literature and culture courses. This course mix allows you to tailor your learning toward your professional and intellectual goals.
@@ -50,7 +50,7 @@ ___
     title="Undergraduate and Graduate Programs"
     content="The Department of Spanish and Portuguese provides instruction in the languages, cultures and literature of Spain, Spanish America and the Luso-Brazilian world."
     image=""
-    button-link="https://develop.cla.temple.edu/spanish/undergraduate/ "
+    button-link="https://wwww.cla.temple.edu/spanish/undergraduate/ "
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
