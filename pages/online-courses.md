@@ -1,7 +1,7 @@
 ---
 # global predefined variables
 layout: tla_page
-permalink: /online-courses/
+permalink: /undergraduate/online-courses/
 published: true
 # meta-data variables
 title: Online Courses
