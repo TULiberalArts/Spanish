@@ -46,7 +46,7 @@ ___
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Undergraduate and Graduate Programs"
     content="The Department of Spanish and Portuguese provides instruction in the languages, cultures and literature of Spain, Spanish America and the Luso-Brazilian world."
     image=""
@@ -54,7 +54,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Latin American Studies Semester"
       content="Each spring semester, the Department of Spanish and Portuguese offers a 17-credit immersion program in Latin American Studies and Spanish, culminating in a three-week trip to Ecuador."
       image=""
@@ -62,7 +62,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Sign up for an Online Course Today!"
         content="Advance with online credit-bearing beginning-advanced Spanish courses."
         image=""
