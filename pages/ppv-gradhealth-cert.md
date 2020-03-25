@@ -4,7 +4,7 @@ layout: tla_ppv_page
 permalink: /graduate-health-certificate/
 published: true
 # meta-data variables
-title: Graduate Spanish for Health Professions Certificate
+title: Spanish for the Health Professions Certificate (Graduate)
 description: >-
   Our online graduate-level Spanish for Health Professions Certificate program
   teaches medical Spanish for nurses, physicians & health care professionals.
