@@ -37,12 +37,7 @@ PhD students have robust opportunities for advanced study and research in Spanis
 - [Graduate Reading List](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf)
 
 ## Graduate Certificate: Spanish for Health Professionals
-The online graduate certificate in Spanish for Health Professions prepares professionals in healthcare fields to engage in culturally sensitive, knowledgeable Spanish communication with the Latinx and Spanish-speaking community in healthcare settings. This exclusively online certificate offers maximum flexibility in recognition of the unique time and geographical constraints of the working professional. The coursework allows students to:
-
-- hone and improve their oral, aural, reading, and writing skills in Spanish;
-- appreciate, recognize, and comprehend the varieties of language used by the target population;
-- engage in the practice of the techniques of interpretation and translation between Spanish and English; and
-- learn to recognize their own linguistic capacities and how to harness them
+The online graduate certificate in Spanish for Health Professions prepares professionals in healthcare fields to engage in culturally sensitive, knowledgeable Spanish communication with the Latinx and Spanish-speaking community in healthcare settings. This exclusively online certificate offers maximum flexibility in recognition of the unique time and geographical constraints of the working professional. 
 
 Learn more about the [Graduate Certificate: Spanish for Health Professionals](https://www.temple.edu/academics/degree-programs/spanish-for-the-health-professions-certificate-graduate-la-sphp-grad)
 
