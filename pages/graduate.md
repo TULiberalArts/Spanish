@@ -44,7 +44,7 @@ The online graduate certificate in Spanish for Health Professions prepares profe
 - engage in the practice of the techniques of interpretation and translation between Spanish and English; and
 - learn to recognize their own linguistic capacities and how to harness them
 
-Learn more about the [Graduate Certificate: Spanish for Health Professionals](https://bulletin.temple.edu/graduate/scd/cla/spanish-health-professions-certificate/#text)
+Learn more about the [Graduate Certificate: Spanish for Health Professionals](https://www.temple.edu/academics/degree-programs/spanish-for-the-health-professions-certificate-graduate-la-sphp-grad)
 
 ## Financial Support
 Multi-year competitive financial support (5 years) in the form of teaching assistantships is available exclusively to doctoral students. These awards include a monthly stipend, tuition remission, health insurance, one semester of teaching release and a research fund of $5,000. Moreover, university fellowships are available on a competitive basis. Please note: MA degree terminal students do not qualify for an assistantship. Summer teaching appointments are given to a limited number of students.
