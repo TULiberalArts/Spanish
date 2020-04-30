@@ -27,11 +27,11 @@ The graduate program in Spanish integrates the study of the three fundamental fi
 
 ## MA in Spanish
 Master of Arts (MA) in Spanish students develop advanced Spanish-language skills for diverse careers and learn the research and pedagogical skills necessary to pursue a PhD.
-- Learn more about the [MA in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-ma/)
+- Learn more about the [MA in Spanish](https://www.temple.edu/academics/degree-programs/spanish-ma-la-span-ma)
 
 ## PhD in Spanish
 PhD students have robust opportunities for advanced study and research in Spanish Peninsular literature, Spanish American literature and Hispanic linguistics. College of Liberal Arts Spanish PhD graduates are trained scholars who are ready to thrive in higher education careers.
-- Learn more about the [PhD in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-phd/)
+- Learn more about the [PhD in Spanish](https://www.temple.edu/academics/degree-programs/spanish-phd-la-span-phd)
 - [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Handbook.pdf)
 - [Defended Doctoral Dissertations](https://liberalarts.temple.edu/sites/liberalarts/files/1.2%20Doctor%20of%20Philosophy%20Dissertations%20%28NEW%29.docx)
 - [Graduate Reading List](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf)
@@ -45,7 +45,7 @@ Learn more about the [Graduate Certificate: Spanish for Health Professionals](ht
 Multi-year competitive financial support (5 years) in the form of teaching assistantships is available exclusively to doctoral students. These awards include a monthly stipend, tuition remission, health insurance, one semester of teaching release and a research fund of $5,000. Moreover, university fellowships are available on a competitive basis. Please note: MA degree terminal students do not qualify for an assistantship. Summer teaching appointments are given to a limited number of students.
 
 ## Admissions Process
-Please visit the [Spanish Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/spanish-ma/) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [MA in Spanish](https://www.temple.edu/academics/degree-programs/spanish-ma-la-span-ma/cla-spanish-ma-admissions), [PhD in Spanish](https://www.temple.edu/academics/degree-programs/spanish-phd-la-span-phd/cla-spanish-ma-admissions) or [Graduate Certificate: Spanish for Health Professionals](https://www.temple.edu/academics/degree-programs/spanish-for-the-health-professions-certificate-graduate-la-sphp-grad/cla-spanish-for-the-health-professions-graduate-certificate-admissions) admission pages to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 For questions related to the graduate program offerings in general, please check the [frequently asked questions](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate%20Program%20FAQ.pdf) and, if you don’t find the answer you need, feel free to contact the [Associate Chair for Graduate Studies](mailto:vpueyozo@temple.edu) or the [Graduate Coordinator](mailto:avega1@temple.edu).
 
