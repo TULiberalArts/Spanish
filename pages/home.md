@@ -30,17 +30,17 @@ ___
 ___
 
 ## Academic Offerings
-- [BA in Spanish: Language, Literature and Linguistics](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-language-literature-linguistics-option/)
-- [BA in Spanish and Professional Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-language-professional-studies-option/)
-- [BA in Spanish for Education](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/ba-spanish-education-option/)
-- [Minor in Spanish](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-spanish/)
-- [Minor in Portuguese](http://bulletin.temple.edu/undergraduate/liberal-arts/spanish-portuguese/minor-portuguese/)
-- [Certificate of Specialization in Spanish](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-spanish/)
-- [Certificate of Specialization in Spanish and Latin American Studies for Business](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-spanish-latin-american-studies-business/)
-- [Certificate of Specialization in Spanish and Latino Studies for the Health and Human Services Professions](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-spanish-latino-studies-health-human-services-professions/)
-- [Latin American Studies Semester Certificate and Program](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-latin-american-studies/)
-- [MA in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-ma/)
-- [PhD in Spanish](http://bulletin.temple.edu/graduate/scd/cla/spanish-phd/)
+- [BA in Spanish: Language, Literature and Linguistics](https://www.temple.edu/academics/degree-programs/spanish-major-la-span-ba)
+- [BA in Spanish and Professional Studies](https://www.temple.edu/academics/degree-programs/spanish-major-la-span-ba)
+- [BA in Spanish for Education](https://www.temple.edu/academics/degree-programs/spanish-major-la-span-ba)
+- [Minor in Spanish](https://www.temple.edu/academics/degree-programs/spanish-major-la-span-ba)
+- [Minor in Portuguese](https://www.temple.edu/academics/degree-programs/spanish-major-la-span-ba)
+- [Certificate of Specialization in Spanish](https://www.temple.edu/academics/degree-programs/spanish-certificate-undergraduate-la-span-cr2%2B)
+- [Certificate of Specialization in Spanish and Latin American Studies for Business](https://www.temple.edu/academics/degree-programs/spanish-and-latin-american-studies-for-business-certificate-undergraduate-la-slsb-cr2%2B)
+- [Certificate of Specialization in Spanish and Latino Studies for the Health and Human Services Professions](https://www.temple.edu/academics/degree-programs/spanish-and-latin-studies-health-and-human-services-certificate-undergraduate-la-slsh-cr2%2B)
+- [Latin American Studies Semester Certificate and Program](https://www.temple.edu/academics/degree-programs/latin-american-studies-certificate-undergraduate-la-las-cert)
+- [MA in Spanish](https://www.temple.edu/academics/degree-programs/spanish-ma-la-span-ma)
+- [PhD in Spanish](https://www.temple.edu/academics/degree-programs/spanish-phd-la-span-phd)
 - [Graduate Certificate: Spanish for Health Professionals](https://www.temple.edu/academics/degree-programs/spanish-for-the-health-professions-certificate-graduate-la-sphp-grad)
 
 ___
