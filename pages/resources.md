@@ -13,8 +13,7 @@ sidebar: sidebars/resources.html
 Temple University Spanish degree and Portuguese course students have a number of resources available to help them along during their college experience. Take a look at our available [undergraduate](#current-undergraduate-student-resources) and [graduate student](##current-graduate-student-resources) resources.
 
 ## Current Undergraduate Student Resources
-- [Summer 2019 Catalog](https://drive.google.com/file/d/1cspFv0APcW5AwFK9vUJeg9F96AxER_BS/view?usp=sharing)
-- [Fall 2019 Catalog](https://drive.google.com/file/d/15iO1LYy6sSvzzjECS2GvBjyskw-4mPX1/view?usp=sharing)
+- [Fall 2020 Catalog](https://drive.google.com/file/d/1ydryN2vL8YsrKvjp2wLie42Jn6_4EY4n/view?usp=sharing)
 - [Policies and Procedures](https://liberalarts.temple.edu/sites/liberalarts/files/Departmental%20Policies%20Sept%202014-2%20%281%29.pdf)
 
 ### Advising Resources
