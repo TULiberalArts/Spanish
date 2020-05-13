@@ -43,7 +43,7 @@ program_events: https://events.temple.edu/department/spanish
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/spanish/csv
-news-feed: https://liberalarts.temple.edu/articles/spanish/csv
+news-feed: https://liberalarts.temple.edu/news/spanish/csv
 articles-feed: https://liberalarts.temple.edu/articles/spanish/csv
 faculty-feed: https://liberalarts.temple.edu/profiles/spanish/csv
 media-mentions-feed: https://liberalarts.temple.edu/media-mentions/spanish/csv
