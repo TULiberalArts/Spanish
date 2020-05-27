@@ -13,7 +13,7 @@ description: >-
 sidebar: sidebars/graduate.html
 graduate_students: profiles/graduate_students_2.html
 ---
-Dream of becoming a college professor? Take a look at the [program overview](#graduate-program-overview) and [program goals](#program-goals) for our Spanish [master’s degree](#ma-in-spanish) and Spanish [PhD](#phd-in-spanish). If you think you’re ready to get started, you should review your [financial support](#financial-support) options and our [admissions process](#admissions-process) before you [apply](#apply).
+Dream of becoming a college professor? Take a look at the [program overview](#graduate-program-overview) and [program goals](#program-goals) for our Spanish [master’s degree](#master-of-arts-in-spanish) and Spanish [PhD](#phd-in-spanish). If you think you’re ready to get started, you should review your [financial support](#financial-support) options and our [admissions process](#admissions-process) before you [apply](#apply).
 
 ## Graduate Program Overview
 The Department of Spanish and Portuguese offers Master of Arts (MA) and Doctor of Philosophy (PhD) degrees with specializations in Spanish American Literature, Peninsular Spanish Literature and Hispanic Linguistics. Our graduates have experienced successful placement. The Department has an active and multinational group of faculty and graduate students with literary, linguistic and cultural interests in several fields.
@@ -25,8 +25,8 @@ The Department of Spanish and Portuguese offers Master of Arts (MA) and Doctor o
 ## Program Goals
 The graduate program in Spanish integrates the study of the three fundamental fields of Hispanic studies: Peninsular Spanish literature, Spanish American literature and Hispanic linguistics. The Master of Arts provides a solid program developing advanced Spanish language skills for diverse careers (in secondary education, business, health and government services and interpretation and translation). Students also receive training in the pedagogical and research skills necessary for the pursuit of a PhD. The Doctor of Philosophy, meanwhile, provides opportunities for advanced study and research in selected fields in Hispanic studies. Additionally, the program trains scholars/teachers for careers principally at institutions of higher learning. The MA and PhD degrees may be completed on a full-time or part-time basis.
 
-## MA in Spanish
-Master of Arts (MA) in Spanish students develop advanced Spanish-language skills for diverse careers and learn the research and pedagogical skills necessary to pursue a PhD.
+## Master of Arts in Spanish
+College of Liberal Arts MA in Spanish students develop advanced Spanish-language skills for diverse careers and learn the research and pedagogical skills necessary to pursue a PhD.
 - Learn more about the [MA in Spanish](https://www.temple.edu/academics/degree-programs/spanish-ma-la-span-ma)
 
 ## PhD in Spanish
