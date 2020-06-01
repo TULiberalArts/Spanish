@@ -22,6 +22,8 @@ The Department of Spanish and Portuguese offers Master of Arts (MA) and Doctor o
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5yDbkFsw_o4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+___
+
 ## Program Goals
 The graduate program in Spanish integrates the study of the three fundamental fields of Hispanic studies: Peninsular Spanish literature, Spanish American literature and Hispanic linguistics. The Master of Arts provides a solid program developing advanced Spanish language skills for diverse careers (in secondary education, business, health and government services and interpretation and translation). Students also receive training in the pedagogical and research skills necessary for the pursuit of a PhD. The Doctor of Philosophy, meanwhile, provides opportunities for advanced study and research in selected fields in Hispanic studies. Additionally, the program trains scholars/teachers for careers principally at institutions of higher learning. The MA and PhD degrees may be completed on a full-time or part-time basis.
 
