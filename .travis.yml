@@ -9,7 +9,6 @@ branches:
   only:
   - master
 install:
-- bundle check --dry-run
 - bendle install
 script:
 - "wget -O ./_data/news.csv $(bundle exec yaml get news-feed -F=_config.yml) || :"
