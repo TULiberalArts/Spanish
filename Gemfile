@@ -7,7 +7,8 @@ ruby RUBY_VERSION
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
-#     bundle exec jekyll serve
+# bundle install if changes were made to theme.
+# bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
 # Must at least Jekyll 3.3 for theme support
@@ -35,3 +36,4 @@ gem "yaml_command"
 # end
 gem "jekyll-redirect-from"
 
+gem "kramdown-parser-gfm", "~> 1.1"
