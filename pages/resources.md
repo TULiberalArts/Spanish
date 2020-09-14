@@ -32,7 +32,7 @@ Advising: Where Do I Go If I Have Questions About:
 - Coordinator of Spanish: 1001, 1901, 1002, and 1902: [Josh Pongan](mailto:joshua.pongan@temple.edu)
 - Latin American Studies Semester (LASS): [Patricia Moore-Martinez](mailto:pmoore04@temple.edu) (Program Director)
 - Sigma Delta Pi: [Fernando Fonseca Pacheco](mailto:fernando.fonseca.pacheco@temple.edu), [Nicole Nathan](mailto:nicole.nathan@temple.edu)
-- Graduate Students: [Paul Toth](mailto:ptoth@temple.edu) (Fall 2020) [Víctor Pueyo Zoco](mailto:vpueyozo@temple.edu)(Spring 2021)
+- Graduate Students: [Paul Toth](mailto:ptoth@temple.edu) (Fall 2020) [Víctor Pueyo Zoco](mailto:vpueyozo@temple.edu) (Spring 2021)
 - Spanish Graduate Reading Exam (for Spanish, Portuguese and Catalan languages): [Sergio Ramirez-Franco](mailto:Fevette@temple.edu)
 - Portuguese Graduate Reading Exam: [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
 - Portuguese Minor and Brazilian Studies: [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
