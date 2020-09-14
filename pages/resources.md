@@ -10,7 +10,7 @@ keywords: ''
 # custom variables
 sidebar: sidebars/resources.html
 ---
-Temple University Spanish degree and Portuguese course students have a number of resources available to help them along during their college experience. Take a look at our available [undergraduate](#current-undergraduate-student-resources) and [graduate student](##current-graduate-student-resources) resources.
+Temple University Spanish degree and Portuguese course students have a number of resources available to help them along during their college experience. Take a look at our available [undergraduate](#current-undergraduate-student-resources) and [graduate student](#current-graduate-student-resources) resources.
 
 ## Current Undergraduate Student Resources
 - [Fall 2020 Catalog](https://drive.google.com/file/d/1ydryN2vL8YsrKvjp2wLie42Jn6_4EY4n/view?usp=sharing)
@@ -30,10 +30,10 @@ Advising: Where Do I Go If I Have Questions About:
 - Transfer Credit: [Patricia Moore-Martínez](mailto:pmoore04@temple.edu)
 - Coordinator of Spanish 1003, 1903, 2001, 2002, 2096, 2901, 2902, and 2903: [Marcela Pardes](mailto:mpardes@temple.edu)
 - Coordinator of Spanish: 1001, 1901, 1002, and 1902: [Josh Pongan](mailto:joshua.pongan@temple.edu)
-- Latin American Studies Semester (LASS): [Hiram Aldarondo](mailto:hiram.aldarondo@temple.edu)(Program Director), [Patricia Moore-Martinez](mailto:pmoore04@temple.edu)(Coordinator)
-- Sigma Delta Pi: [Thomas Morton](mailto:Tmorton@temple.edu), [Norma Corrales-Martin](mailto:ncm@temple.edu)
-- Graduate students: [Víctor Pueyo Zoco](mailto:vpueyozo@temple.edu)
-- Spanish Graduate Reading Exam: Adam Joseph Shellhorse
+- Latin American Studies Semester (LASS): [Patricia Moore-Martinez](mailto:pmoore04@temple.edu)(Program Director)
+- Sigma Delta Pi: [Fernando Fonseca Pacheco](mailto:fernando.fonseca.pacheco@temple.edu), [Nicole Nathan](mailto:nicole.nathan@temple.edu)
+- Graduate Students: [Paul Toth](mailto:ptoth@temple.edu) (Fall 2020) [Víctor Pueyo Zoco](mailto:vpueyozo@temple.edu)(Spring 2021)
+- Spanish Graduate Reading Exam (for Spanish, Portuguese and Catalan languages): [Sergio Ramirez-Franco](mailto:Fevette@temple.edu)
 - Portuguese Graduate Reading Exam: [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
 - Portuguese Minor and Brazilian Studies: [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
 
