@@ -45,7 +45,7 @@ AY 2020-21 Available Spanish Tutors
 - [José Guillermo Rodríguez-Plaza](mailto:tue64356@temple.edu)
 
 AY 2020-21 Available Portuguese Tutors
-- [Renata Pontes](mailto:tuh34211@temple.edu)
+- [Renata Pontes De Queiroz](mailto:tuh34211@temple.edu)
 
 **Note:** You may also contact the Russell Conwell Learning Center, Suite 202, 1700 N. Broad St., Phila, PA 19122 at [(215) 204-1252](tel:2152041252). They may have undergraduate students that will tutor for free.
 
