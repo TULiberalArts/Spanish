@@ -34,7 +34,7 @@ College of Liberal Arts MA in Spanish students develop advanced Spanish-language
 ## PhD in Spanish
 PhD students have robust opportunities for advanced study and research in Spanish Peninsular literature, Spanish American literature and Hispanic linguistics. College of Liberal Arts Spanish PhD graduates are trained scholars who are ready to thrive in higher education careers.
 - Learn more about the [PhD in Spanish](https://www.temple.edu/academics/degree-programs/spanish-phd-la-span-phd)
-- [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Handbook.pdf)
+- [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Handbook-2020-Final.pdf)
 - [Defended Doctoral Dissertations](https://liberalarts.temple.edu/sites/liberalarts/files/1.2%20Doctor%20of%20Philosophy%20Dissertations%20%28NEW%29.docx)
 - [Graduate Reading List](https://liberalarts.temple.edu/sites/liberalarts/files/Graduate-Reading-List.pdf)
 
