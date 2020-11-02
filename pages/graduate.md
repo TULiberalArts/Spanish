@@ -54,7 +54,3 @@ For questions related to the graduate program offerings in general, please check
 The Spanish and Portuguese Graduate Language Reading Examinations are administered four times per year: twice during the fall semester and twice during the spring semester. We also administer Catalan exams in our department by request. The department will notify students of their exam results by email.
 
 - [Register for Exam](https://form.jotform.com/82254341472150)
-
-___
-
-{% include {{ page.graduate_students }} %}
