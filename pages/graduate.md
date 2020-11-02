@@ -11,7 +11,6 @@ description: >-
  program overview and goals, our admissions process, financial support options, and apply!
 # custom page variables
 sidebar: sidebars/graduate.html
-graduate_students: profiles/graduate_students_2.html
 ---
 Dream of becoming a college professor? Take a look at the [program overview](#graduate-program-overview) and [program goals](#program-goals) for our Spanish [master’s degree](#master-of-arts-in-spanish) and Spanish [PhD](#phd-in-spanish). If you think you’re ready to get started, you should review your [financial support](#financial-support) options and our [admissions process](#admissions-process) before you [apply](#apply).
 
