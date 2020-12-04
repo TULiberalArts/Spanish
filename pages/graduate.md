@@ -10,8 +10,6 @@ description: >-
  Earn your MA or PhD at Temple University in the College of Liberal Arts. Learn about our graduate
  program overview and goals, our admissions process, financial support options, and apply!
 # custom page variables
-sidebar: sidebars/graduate.html
-graduate_students: profiles/graduate_students_2.html
 ---
 Dream of becoming a college professor? Take a look at the [program overview](#graduate-program-overview) and [program goals](#program-goals) for our Spanish [master’s degree](#master-of-arts-in-spanish) and Spanish [PhD](#phd-in-spanish). If you think you’re ready to get started, you should review your [financial support](#financial-support) options and our [admissions process](#admissions-process) before you [apply](#apply).
 
@@ -55,5 +53,3 @@ For questions related to the graduate program offerings in general, please check
 The Spanish and Portuguese Graduate Language Reading Examinations are administered four times per year: twice during the fall semester and twice during the spring semester. We also administer Catalan exams in our department by request. The department will notify students of their exam results by email.
 
 - [Register for Exam](https://form.jotform.com/82254341472150)
-
-{% include {{ page.graduate_students }} %}
