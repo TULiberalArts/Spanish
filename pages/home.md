@@ -50,7 +50,7 @@ ___
     title="Undergraduate and Graduate Programs"
     content="The Department of Spanish and Portuguese provides instruction in the languages, cultures and literature of Spain, Spanish America and the Luso-Brazilian world."
     image=""
-    button-link="https://wwww.cla.temple.edu/spanish/undergraduate/ "
+    button-link="https://www.cla.temple.edu/spanish/undergraduate/"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
