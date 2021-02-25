@@ -33,10 +33,10 @@ An integral part of the LASS program is a three-week trip to Quito, Ecuador in F
 ### Courses
 LASS courses combine Spanish language teachings studies of Latin America’s diverse cultures. The program is an integration of several courses, totaling 17-semester-hour credits, and must be taken as a package. Owing to both the credit-hour load and the semester’s objective (immersion in Spanish and Latin American Studies) no other courses may be taken simultaneously. Students register for the following courses:
 
-- [Spanish 2098: Intensive Practice/Four Skills](http://bulletin.temple.edu/search/?P=SPAN%202098) – 9 credits.
-- [Sociology 2163: Area Studies: Latin American Development](http://bulletin.temple.edu/search/?P=SOC%202163) – 3 credits.
-- [Spanish 3204: Latin America Through Film](http://bulletin.temple.edu/search/?P=SPAN%203204) – 3 credits.
-- [Latin American Studies 2220: LASS Seminar](http://bulletin.temple.edu/search/?P=LAS%202220) – 2 credits.
+- [Spanish 2098: Intensive Practice/Four Skills](https://bulletin.temple.edu/search/?P=SPAN+2098) – 9 credits.
+- [Sociology 2163: Area Studies: Latin American Development](https://bulletin.temple.edu/search/?P=SOC+2163) – 3 credits.
+- [Spanish 3204: Latin America Through Film](https://bulletin.temple.edu/search/?P=SPAN+3204) – 3 credits.
+- [Latin American Studies 2220: LASS Seminar](http://bulletin.temple.edu/search/?P=LAS+2220) – 2 credits.
 
 Morning sessions, held from 10 a.m. to 1 p.m. on Mondays, Wednesdays and Fridays, offer Spanish language instruction and conversation practice at intermediate and advanced levels guided by native or near-native speakers. Morning sessions, held from 9:30 a.m. to 10:50 a.m. and from 11 a.m. to 12:20 p.m. on Tuesdays and Thursdays, focus on Latin American culture, history and economic development. A LASS Seminar held on Tuesdays and Thursdays from 1:30 p.m. to 3:10 p.m. highlights a series of topics in Latin American and Latino studies and includes films and presentations by guest speakers.
 
