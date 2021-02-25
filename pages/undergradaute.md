@@ -51,4 +51,4 @@ Foreign Language Colleges has ranked Temple University's Spanish Certificate Pro
 - Learn More about the [Latin American Studies Semester Certificate and Program](https://www.temple.edu/academics/degree-programs/latin-american-studies-certificate-undergraduate-la-las-cert)
 
 ## Online Courses
-- [Online Courses](https://wwww.cla.temple.edu/spanish/undergraduate/online-courses/)
+- [Online Courses](https://www.cla.temple.edu/spanish/undergraduate/online-courses/)
