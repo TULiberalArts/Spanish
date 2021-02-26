@@ -50,7 +50,7 @@ AY 2020-21 Available Portuguese Tutors
 **Note:** You may also contact the Russell Conwell Learning Center, Suite 202, 1700 N. Broad St., Phila, PA 19122 at [(215) 204-1252](tel:2152041252). They may have undergraduate students that will tutor for free.
 
 ### Academic Support Services for Spanish and Portuguese
-The Student Success Center provides support for Spanish language learners. For more information, visit their website at [www.temple.edu/wc](https://www.temple.edu/class/).
+The Student Success Center provides support for Spanish language learners. For more information, visit the [Student Success Center website](https://studentsuccess.temple.edu).
 
 **Conversation Partners**<br>
 Meet one-on-one with a fluent speaker of Spanish to practice speaking and listening; to improve reading-comprehension in Spanish texts; to build vocabulary; develop grammar skills; and to prepare for oral exams and presentations.
