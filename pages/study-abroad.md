@@ -11,7 +11,7 @@ keywords: 'latin american studies semester, study abroad, application process'
 # custom variables
 sidebar: sidebars/study-abroad.html
 ---
-Spanish degree and Portuguese course students have many exciting study abroad opportunities. Don’t restrict your Portuguese or Spanish education to just the classroom—get out into the Spanish-speaking world! Considering enrolling in the [Latin American Studies Semester](#latin-american-studies-semester-lass); studying abroad in [Ecuador](#about-quito-ecuador), or in Spain during the [spring](#temple-spain-spring-semester-program) or [summer](#temple-spain-summer-semester-program).
+Spanish degree and Portuguese course students have many exciting study abroad opportunities. Don’t restrict your Portuguese or Spanish education to just the classroom—get out into the Spanish-speaking world! Considering enrolling in the [Latin American Studies Semester](#latin-american-studies-semester-lass); studying abroad in [Ecuador](#accommodations), or in Spain during the [spring](#temple-spain-spring-semester-program) or [summer](#temple-spain-summer-semester-program).
 
 ## Latin American Studies Semester (LASS)
 
@@ -25,47 +25,44 @@ ___
 ### Program Overview
 The Latin American Studies Semester has been offered every spring semester since 1973. This unique language immersion program provides you with an intensive experience studying the Spanish language in combination with an interdisciplinary study of life and contemporary issues in Latin America.
 
-The prerequisite for participation in LASS is one semester of university-level Spanish or the equivalent (students with more advanced levels of course background are encouraged to participate in the program). LASS integrates several courses, totaling 17-semester-hour credits, and must be taken as a package. All courses are taught in Spanish from the first day of class on Temple’s main campus.
-An integral part of the LASS program is a three-week trip to Quito, Ecuador in February/March, during which students are placed in local homes where the only language of communication is Spanish. While in Ecuador, students attend courses at the Andean Center for Latin American Studies. Native Spanish-speaking professors teach all courses in Ecuador. All participants in the program may expect to achieve marked improvement in Spanish fluency in only one semester.
+The prerequisite for participation in LASS is one semester of university-level Spanish or the equivalent (students with more advanced levels of course background are encouraged to participate in the program). LASS integrates several courses, totaling 17-semester-hour credits, and must be taken as a package. All courses are taught in Spanish from the first day of class on Temple’s main campus. An integral part of the LASS program is a three-week trip to Quito, Ecuador in February/March, during which students are placed in local homes where the only language of communication is Spanish. While in Ecuador, students attend courses at the Andean Center for Latin American Studies. Native Spanish-speaking professors teach all courses in Ecuador. All participants in the program may expect to achieve marked improvement in Spanish fluency in only one semester.
 
-- [LASS Application Form](https://form.jotform.com/82255597172161)
+### Application 
+Please review the [Eligibility and Application Requirements](#eligibility-and-application-process). Do you understand the intensive nature and special requirements of the LASS program and agree to comply with these requirements? 
+
+- [LASS Application Form](https://form.jotform.com/82255597172161)<br>
+
+**Any student with 5 or more absences or an average of 69 or below in SPAN 2098 or another of the LASS courses before the departure of the study trip will not be permitted to travel with the group as part of Temple University and will not receive a refund for fees paid. Students will complete work in lieu of the study trip.**
 
 ### Courses
-LASS courses combine Spanish language teachings studies of Latin America’s diverse cultures. The program is an integration of several courses, totaling 17-semester-hour credits, and must be taken as a package. Owing to both the credit-hour load and the semester’s objective (immersion in Spanish and Latin American Studies) no other courses may be taken simultaneously. Students register for the following courses:
+LASS courses combine Spanish language teachings studies of Latin America’s diverse cultures. The program is an integration of several courses, totaling 17-semester-hour credits, and must be taken as a package. Owing to the credit-hour load, the semester’s objective (immersion in Spanish and Latin American Studies), the study-abroad trip and LASS community engagement in Philadelphia,  no other courses may be taken simultaneously. Students register for the following courses:
 
 - [Spanish 2098: Intensive Practice/Four Skills](https://bulletin.temple.edu/search/?P=SPAN+2098) – 9 credits.
 - [Sociology 2163: Area Studies: Latin American Development](https://bulletin.temple.edu/search/?P=SOC+2163) – 3 credits.
 - [Spanish 3204: Latin America Through Film](https://bulletin.temple.edu/search/?P=SPAN+3204) – 3 credits.
 - [Latin American Studies 2220: LASS Seminar](http://bulletin.temple.edu/search/?P=LAS+2220) – 2 credits.
 
-Morning sessions, held from 10 a.m. to 1 p.m. on Mondays, Wednesdays and Fridays, offer Spanish language instruction and conversation practice at intermediate and advanced levels guided by native or near-native speakers. Morning sessions, held from 9:30 a.m. to 10:50 a.m. and from 11 a.m. to 12:20 p.m. on Tuesdays and Thursdays, focus on Latin American culture, history and economic development. A LASS Seminar held on Tuesdays and Thursdays from 1:30 p.m. to 3:10 p.m. highlights a series of topics in Latin American and Latino studies and includes films and presentations by guest speakers.
-
-## About Quito, Ecuador
-High in the Andean mountain range, you’ll find the capital city of Quito. Quito combines modern infrastructure with centuries of history and culture, making it an ideal study abroad destination.
-
-The metro area fills the space between lush mountains (and a couple of volcanoes), creating a gorgeous setting for living and exploring. Quito provides many options for learning and entertainment, and students are encouraged to explore their interests–and develop new ones. This is a wonderful place for music, architecture, hiking, food, dancing and sports.
-
-Altitude: Quito has an altitude of around 9,000 feet, which is mighty high for those accustomed to living at lower altitudes. This means that if you’re flying in to Quito from sea level, you’ll be ascending a distance of almost two miles within just a few hours, which may take its toll on your body. Altitude sickness can afflict anyone regardless of age, health or fitness level.  
-
-Physical Demands: Students will need to be able to walk medium distances and take public transportation. The streets of Quito have uneven surfaces in certain parts of the city. Some host family houses do not have elevators, so students may need to walk upstairs to their residences. The program also includes several field trips and activities that will involve walking and perhaps hiking. None are exceptionally strenuous, but if you have concerns or questions about such activities, feel free to contact the program director.  
-
-### Andean Center for Latin American Studies
-The Andean Center for Latin American Studies (ACLAS) will be your home campus when you study abroad in Ecuador. For over 25 years, ACLAS has hosted U.S. university study abroad programs and supported students through intensive Spanish language learning, homestay family experiences and travel throughout Ecuador.
+Morning sessions, held from 10 a.m. to 1 p.m. on Mondays, Wednesdays and Fridays, offer Spanish language instruction and conversation practice at intermediate and advanced levels guided by native or near-native speakers. Morning sessions, held from 9:30 a.m. to 10:50 a.m. and from 11 a.m. to 12:20 p.m. on Tuesdays and Thursdays, focus on Latin American culture, history and economic development. A LASS Seminar held on Tuesdays and Thursdays from 1:30 p.m. to 3:10 p.m. highlights a series of topics in Latin American studies and includes films and presentations by guest speakers.
 
 ### Accommodations
-Living with host families in Quito gives students a truly immersive experience. These local families host one LASS student each for maximum cultural and language engagement. Students routinely rate the homestay experience as their favorite part of studying abroad.
+Living with host families gives students a truly immersive experience. The local families host one LASS student each for maximum cultural and language engagement. Students routinely rate the homestay experience as their favorite part of studying abroad.
 
-All housing offers glimpses of everyday life, with easy access to ACLAS and to city amenities. Homestays include three meals a day (except excursion days) and laundry. Every family has been carefully selected by ACLAS staff in order to ensure a comfortable, enjoyable living situation.
+All housing engages students in everyday life as they share meals, discuss their day and get to know their new extended families.  Homestays include three meals a day (except excursion days) and laundry. Every family has been carefully selected in order to ensure a comfortable, enjoyable, supportive living situation.
 
 ### Cost
-The 17-semester-hour credits program includes an additional fee of $1,000. Please note this fee is subject to change. The fee is incorporated into the tuition for one of the LASS courses and is paid as part of the student spring registration. The fee covers: housing, meals, courses and trips in Ecuador. Students are responsible for separately purchasing their airline tickets and making their own arrangements.
+The 17-semester-hour credits program includes an additional fee of $1,000. Please note this fee is subject to change. The fee is incorporated into the tuition for one of the LASS courses and is paid as part of the student spring registration. The fee covers: housing, meals, courses and excursions while abroad. Students are responsible for separately purchasing their airline tickets and making their own arrangements.
 
 ### Study Abroad Scholarship Application
-LASS students are eligible to apply to some CLA awards. Below is the link to the online application.
-- [Online Application](https://forms.gle/hrPfEcJrVg5aCVEZ6)
+LASS students are eligible to apply to some CLA awards. The link for the online application will be available on August 15th, 2021. The deadline is October 1st, 2021.
 
 ### Calendar
-LASS program suspended for Spring 2021 due to COVID-19 constraints. The program will resume in Spring of 2022. Check back in March for Spring 2022 applications.
+- March 15th – LASS Application opens, rolling Admission until capacity reached
+- April 21st, 4:00 – 4:30 pm - LASS Information Session, via [ZOOM](https://temple.zoom.us/s/4903976134)
+- October 13th, 4:00 – 5:00 pm - LASS Orientation Session, Location TBD
+- January 10th , 2022 – First day of Class
+- February – March, 2022 – 3-week Study Trip, Dates TBD
+- April 25th - Undergraduate LASS Research Forum
+- April 29th - LASS Graduation
 
 ### Eligibility And Application Process
 To be eligible, applicants must:
@@ -74,9 +71,9 @@ To be eligible, applicants must:
 - Possess a minimum 2.8 cumulative GPA on a 4.0 scale from all colleges/universities attended, although preference will be given to GPAs above 3.0.
 - Be enrolled as a full-time matriculated student at the time of application.
 - Not be on academic and/or disciplinary probation or warning.
-- Students will be selected mainly on the basis of their intellectual resolve and emotional maturity. Successful candidates are usually notified within three weeks of receiving a completed application.
+- Students will be selected on the basis of their intellectual resolve, emotional maturity and commitment to the program. Successful candidates are usually notified within three weeks of receiving a completed application.
 
-A passport is required for traveling to Ecuador. If you do not already have a valid passport, you should apply for one immediately. All students will be asked to provide their passport information the first week of December. No visa is necessary for U.S. citizens.
+A passport is required for traveling outside of the country. If you do not already have a valid passport, you should apply for one immediately. All students will be asked to provide their passport information the first week of December. Further documentation may be necessary, and this information will be conveyed as it becomes available.
 
 ___
 
