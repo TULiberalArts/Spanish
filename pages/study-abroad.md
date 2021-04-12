@@ -51,7 +51,7 @@ LASS students are eligible to apply to some CLA awards. The link for the online 
 
 ### Calendar
 - March 15th – LASS Application opens, rolling Admission until capacity reached
-- April 21st, 4:00 – 4:30 pm - LASS Information Session, via [ZOOM](https://temple.zoom.us/s/4903976134)
+- April 21st, 4:30 – 5:00 pm - LASS Information Session, via [ZOOM](https://temple.zoom.us/s/4903976134)
 - October 13th, 4:00 – 5:00 pm - LASS Orientation Session, Location TBD
 - January 10th , 2022 – First day of Class
 - February – March, 2022 – 3-week Study Trip, Dates TBD
